@@ -2,9 +2,8 @@
 #央视频道
 #EXTINF:-1 tvg-id="101.astro" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" http-user-agent="AptvPlayer-UA" group-title="馬來西亞",TV1
 https://live.mana2.my/Tv1/tracks-v1a1/mono.m3u8?token=1762592340-8a3c7467039045c4a128f49f48f29d9d-0-bb6f2b91a099dc60956f8da5b02caeb5&auth_key=1762592340-8a3c7467039045c4a128f49f48f29d9d-0-ac08f2f1221050bf6b181ef81ddfad73
-#EXTINF:-1 group-title="馬來西亞" tvg-country="MY" tvg-id="104.astro" tvg-chno="4" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8,
-http://cdn9.1678520.xyz/xsj2.1.php?id=astro-ria
+#EXTINF:-1 tvg-id="104.astro" tvg-name="Astro Ria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="馬來西亞",Astro Ria
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8 http://cdn9.1678520.xyz/xsj2.1.php?id=astro-ria
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="央视频道",CCTV2
