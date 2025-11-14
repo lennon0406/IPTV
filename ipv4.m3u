@@ -37,41 +37,50 @@ http://cdn6.163189.xyz/163189/8tv
 
 
 #1080P 新加坡
+#EXTINF:-1 group-title="1080P 新加坡" tvg-id="HBO Asia",HBO Asia
+http://51.89.166.17:3002/index.php?id=hbohd_twn
+
+#EXTINF:-1 group-title="1080P 新加坡" tvg-id="HBO Family Asia",HBO Family Asia
+http://51.89.166.17:3002/index.php?id=fyi_twn
+
 #EXTINF:-1 group-title="1080P 新加坡" tvg-id="ZooMoo",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="1080P 新加坡" tvg-id="CNA",CNA (源1)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
 #EXTINF:-1 group-title="1080P 新加坡" tvg-id="CNA",CNA (源2)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 group-title="1080P 新加坡" tvg-id="CNA",CNA (源3)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 
 #1080P 香港
 #TVB
 #EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源1)
-http://r.jdshipin.com/62WM7
-
-#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源2)
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 
-#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源3)
+#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源2)
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 
-#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源4)
+#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源3)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 
-#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源5)
+#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源4)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
-#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 明珠台",TVB 明珠台 (源1)
-http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源5)
+http://r.jdshipin.com/62WM7
 
-#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 明珠台",TVB 明珠台 (源2)
+#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 明珠台",TVB 明珠台 (源1)
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
-#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 明珠台",TVB 明珠台 (源3)
+#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 明珠台",TVB 明珠台 (源2)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
+
+#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 明珠台",TVB 明珠台 (源3)
+http://r.jdshipin.com/ZQ4kN
 
 #EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 無綫新聞台",TVB 無綫新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
@@ -80,10 +89,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 
 #EXTINF:-1 group-title="1080P 香港" tvg-id="TVB J2",TVB J2 (源1)
-http://r.jdshipin.com/Nr5jq
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 
 #EXTINF:-1 group-title="1080P 香港" tvg-id="TVB J2",TVB J2 (源2)
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 
 #EXTINF:-1 group-title="1080P 香港" tvg-id="TVB J2",TVB J2 (源3)
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
@@ -92,13 +101,17 @@ http://php.jdshipin.com:8880/smt.php?id=j2_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 
 #EXTINF:-1 group-title="1080P 香港" tvg-id="TVB J2",TVB J2 (源5)
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
 
 #EXTINF:-1 group-title="1080P 香港" tvg-id="TVB J2",TVB J2 (源6)
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+http://r.jdshipin.com/Nr5jq
 
 #EXTINF:-1 group-title="1080P 香港" tvg-id="ViuTV",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+
+#EXTINF:-1 group-title="1080P 香港" tvg-id="ViuTV6",ViuTV6
+http://hls.168.us.kg/u/96/master.m3u8
+
 
 #鳳凰衛視
 #EXTINF:-1 group-title="1080P 香港" tvg-id="鳳凰衛視香港台",鳳凰衛視香港台 (源1)
@@ -131,11 +144,20 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 group-title="1080P 香港" tvg-id="美亞電影台",美亞電影台 (源2)
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 
-#EXTINF:-1 group-title="1080P 香港" tvg-id="香港開電視",香港開電視 (源1)
+#EXTINF:-1 group-title="1080P 香港" tvg-id="HOY 77",HOY 77 (源1)
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
-#EXTINF:-1 group-title="1080P 香港" tvg-id="香港開電視",香港開電視 (源2)
+#EXTINF:-1 group-title="1080P 香港" tvg-id="HOY 77",HOY 77 (源2)
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+
+#EXTINF:-1 group-title="1080P 香港" tvg-id="HOY 76",HOY 76
+http://hls.168.us.kg/u/76/master.m3u8
+
+#EXTINF:-1 group-title="1080P 香港" tvg-id="HOY 77",HOY 77
+http://hls.168.us.kg/u/77/master.m3u8
+
+#EXTINF:-1 group-title="1080P 香港" tvg-id="HOY 78",HOY 78
+http://hls.168.us.kg/u/78/master.m3u8
 
 #EXTINF:-1 group-title="1080P 香港" tvg-id="港台電視31",港台電視31 (源1)
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
@@ -148,6 +170,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
 #EXTINF:-1 group-title="1080P 香港" tvg-id="港台電視32",港台電視32 (源2)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+
 
 
 #1080P 澳門
@@ -214,6 +237,21 @@ https://tw1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
 
 
 #1080P 中國
+#EXTINF:-1 group-title="1080P 中國" tvg-id="CHC 動作電影",CHC 動作電影 (源1)
+http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
+#EXTINF:-1 group-title="1080P 中國" tvg-id="CHC 動作電影",CHC 動作電影 (源2)
+http://sh.lnott.top:880/dx100.m3u8
+
+#EXTINF:-1 group-title="1080P 中國" tvg-id="CHC 影迷電影",CHC 影迷電影 (源1)
+http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
+#EXTINF:-1 group-title="1080P 中國" tvg-id="CHC 影迷電影",CHC 影迷電影 (源2)
+http://sh.lnott.top:880/dx101.m3u8
+
+#EXTINF:-1 group-title="1080P 中國" tvg-id="CHC 家庭影院",CHC 家庭影院 (源1)
+http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
+#EXTINF:-1 group-title="1080P 中國" tvg-id="CHC 家庭影院",CHC 家庭影院 (源2)
+http://sh.lnott.top:880/dx93.m3u8
+
 #EXTINF:-1 group-title="1080P 中國" tvg-id="CCTV4 中文國際",CCTV4 中文國際
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 
@@ -278,8 +316,15 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #1080P 土耳其
+#EXTINF:-1 group-title="1080P 土耳其" tvg-id="360",360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
 #EXTINF:-1 group-title="1080P 土耳其" tvg-id="TMB",TMB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
+
+#1080P 阿根廷
+#EXTINF:-1 group-title="1080P 阿根廷" tvg-id="Litus",Litus
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
 #1080P 阿塞拜疆
 #EXTINF:-1 group-title="1080P 阿塞拜疆" tvg-id="ARB",ARB
@@ -317,7 +362,9 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
 
 
 #Astro
-#EXTINF:-1 group-title="馬來西亞" tvg-id="Astro Awani",Astro Awani
+#EXTINF:-1 group-title="720P 馬來西亞" tvg-id="Astro Awani",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
 #EXTINF:-1 group-title="馬來西亞" tvg-id="Astro Prima",Astro Prima
 #EXTINF:-1 group-title="馬來西亞" tvg-id="Astro Oasis",Astro Oasis
 #EXTINF:-1 group-title="馬來西亞" tvg-id="Astro Citra",Astro Citra
@@ -327,12 +374,10 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
 #EXTINF:-1 group-title="720P 馬來西亞" tvg-id="Astro AEC",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
 
-#EXTINF:-1 group-title="720P 馬來西亞" tvg-id="Astro 全佳",Astro 全佳 (源1)
+#EXTINF:-1 group-title="720P 馬來西亞" tvg-id="Astro 全佳",Astro 全佳
 http://php.jdshipin.com/smt.php?id=Quanjia
 
-#EXTINF:-1 group-title="720P 馬來西亞" tvg-id="Astro 全佳",Astro 全佳 (源2)
-
-#EXTINF:-1 group-title="720P 馬來西亞" tvg-id="Astro AOD",Astro AOD
+#EXTINF:-1 group-title="720P 馬來西亞" tvg-id="Astro AOD",Astro AOD (華語)
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
 
 #EXTINF:-1 group-title="720P 馬來西亞" tvg-id="Astro 歡喜台",Astro 歡喜台
@@ -342,22 +387,21 @@ http://php.jdshipin.com/smt.php?id=Huahee
 http://php.jdshipin.com/smt.php?id=Qiyi
 
 
-
 #Astro TVB
 #EXTINF:-1 group-title="720P 馬來西亞" tvg-id="TVB 翡翠台",TVB 翡翠台 (源1)
-http://r.jdshipin.com/thuYX
-
-#EXTINF:-1 group-title="720P 馬來西亞" tvg-id="TVB 翡翠台",TVB 翡翠台 (源2)
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 
-#EXTINF:-1 group-title="720P 馬來西亞" tvg-id="TVB 翡翠台",TVB 翡翠台 (源3)
+#EXTINF:-1 group-title="720P 馬來西亞" tvg-id="TVB 翡翠台",TVB 翡翠台 (源2)
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+
+#EXTINF:-1 group-title="720P 馬來西亞" tvg-id="TVB 翡翠台",TVB 翡翠台 (源3)
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 
 #EXTINF:-1 group-title="720P 馬來西亞" tvg-id="TVB 翡翠台",TVB 翡翠台 (源4)
 http://php.jdshipin.com/smt.php?id=Tvbjade
 
 #EXTINF:-1 group-title="720P 馬來西亞" tvg-id="TVB 翡翠台",TVB 翡翠台 (源5)
-http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+http://r.jdshipin.com/thuYX
 
 #EXTINF:-1 group-title="720P 馬來西亞" tvg-id="TVB 千禧經典台",TVB 千禧經典台 (源1)
 http://php.jdshipin.com/smt.php?id=Tvbclassic
@@ -380,8 +424,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 
 #720P 香港
 #TVB
-#EXTINF:-1 group-title="720P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源1)
-http://r.jdshipin.com/qClQf
+#EXTINF:-1 group-title="720P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源4)
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+
+#EXTINF:-1 group-title="720P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源5)
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
 #EXTINF:-1 group-title="720P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源2)
 http://php.jdshipin.com/smt.php?id=jade_twn
@@ -389,11 +436,10 @@ http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 group-title="720P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源3)
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
-#EXTINF:-1 group-title="720P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源4)
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
 
-#EXTINF:-1 group-title="720P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源5)
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+
+#EXTINF:-1 group-title="720P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源1)
+http://r.jdshipin.com/qClQf
 
 #EXTINF:-1 group-title="720P 香港" tvg-id="TVB 明珠台",TVB 明珠台 (源1)
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
@@ -431,6 +477,11 @@ http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 group-title="720P 香港" tvg-id="TVB 星河頻道",TVB 星河頻道 (源3)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
+#EXTINF:-1 group-title="720P 香港" tvg-id="有線",有線 (源1)
+http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+
+#EXTINF:-1 group-title="720P 香港" tvg-id="有線",有線 (源2)
+http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 
 #EXTINF:-1 group-title="720P 香港" tvg-id="ViuTV",ViuTV (源1)
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
@@ -522,32 +573,17 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 
 
 #720P 中國
+#EXTINF:-1 group-title="720P 中國" tvg-id="廣州综合",廣州综合
+http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
-
+#EXTINF:-1 group-title="720P 中國" tvg-id="廣州新聞",廣州新聞
+http://php.jdshipin.com:8880/gztv.php?id=xinwen
 
 #EXTINF:-1 group-title="720P 中國" tvg-id="東莞生活資訊",東莞生活資訊
 http://php.jdshipin.com:8880/0769.php?id=shzx
 
 #EXTINF:-1 group-title="720P 中國" tvg-id="東莞新聞綜合",東莞新聞綜合
 http://php.jdshipin.com:8880/0769.php?id=xwzh
-
-
-#720P 美國
-#EXTINF:-1 group-title="720P 美國" tvg-id="NBC News NOW",NBC News NOW
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-
-#EXTINF:-1 group-title="720P 美國" tvg-id="ABC News Live",ABC News Live
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-
-
-#720P 加拿大
-#EXTINF:-1 group-title="720P 加拿大" tvg-id="Global News",Global News
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
-
-
-#720P 奧地利
-#EXTINF:-1 group-title="720P 奧地利" tvg-id="Red Bull",Red Bull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 #720P 印度尼西亞
@@ -558,6 +594,51 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
 
 
+#720P 日本
+#EXTINF:-1 group-title="720P 日本" tvg-id="NHK World Premium",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+
+#720P 美國
+#EXTINF:-1 group-title="720P 美國" tvg-id="NBC News NOW",NBC News NOW
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+
+#EXTINF:-1 group-title="720P 美國" tvg-id="ABC News Live",ABC News Live
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+
+#EXTINF:-1 group-title="720P 美國" tvg-id="Extrema",Extrema
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#720P 加拿大
+#EXTINF:-1 group-title="720P 加拿大" tvg-id="Global News",Global News
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+
+#EXTINF:-1 group-title="720P 加拿大" tvg-id="CHCO TV",CHCO TV
+https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+
+
+#720P 奧地利
+#EXTINF:-1 group-title="720P 奧地利" tvg-id="Red Bull",Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#720P 荷蘭
+#EXTINF:-1 group-title="720P 荷蘭" tvg-id="Altena",Altena
+https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+
+#EXTINF:-1 group-title="720P 荷蘭" tvg-id="RTV Maastricht",RTV Maastricht
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
+
+
+#720P 秘魯
+#EXTINF:-1 group-title="720P 秘魯" tvg-id="Antares",Antares
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+
+#720P 阿根廷
+#EXTINF:-1 group-title="720P 阿根廷" tvg-id="PowerHD",PowerHD
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
 
 
