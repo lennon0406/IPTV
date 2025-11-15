@@ -58,19 +58,19 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #1080P 香港
 #TVB
-#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源1)
+#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 
-#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源2)
+#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 
-#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源3)
+#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 
-#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源4)
+#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
-#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (源5)
+#EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 翡翠台",TVB 翡翠台
 http://r.jdshipin.com/62WM7
 
 #EXTINF:-1 group-title="1080P 香港" tvg-id="TVB 明珠台",TVB 明珠台 (源1)
