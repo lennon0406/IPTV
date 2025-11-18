@@ -1,19 +1,15 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+
+#EXTINF:-1 group-title="1080P" tvg-id="123 GO! Live",123 GO! Live
+#EXTINF:-1 group-title="1080P" tvg-id="Talking Tom Shorts",Talking Tom Shorts
+#EXTINF:-1 group-title="720P" tvg-id="ABCテレビニュース",ABCテレビニュース
+
 
 #EXTINF:-1 group-title="1080P" tvg-id="RacingMag",RacingMag
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
 
 #EXTINF:-1 group-title="1080P" tvg-id="Equidia",Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-
-#EXTINF:-1 group-title="1080P" tvg-id="123 GO! Live",123 GO! Live
-https://www.youtube.com/watch?v=_oq8NO-fqN8
-
-#EXTINF:-1 group-title="1080P" tvg-id="Talking Tom Shorts",Talking Tom Shorts
-https://www.youtube.com/watch?v=m0rlKsxA-M0
-
-#EXTINF:-1 group-title="720P" tvg-id="ABCテレビニュース",ABCテレビニュース
-https://www.youtube.com/watch?v=N29LYWFOB94
 
 #EXTINF:-1 group-title="720P" tvg-id="AR",AR
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
@@ -33,9 +29,6 @@ https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
 #EXTINF:-1 group-title="馬來西亞" tvg-id="TV Ikim",TV Ikim
 #EXTINF:-1 group-title="馬來西亞" tvg-id="Suke TV",Suke TV
 #EXTINF:-1 group-title="馬來西亞" tvg-id="SelangorTV",SelangorTV
-
-#EXTINF:-1 group-title="馬來西亞" tvg-id="CinemaWorld",CinemaWorld
-http://152.32.229.52:5050/4gtv-live069/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="馬來西亞" tvg-id="TV1",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
@@ -98,6 +91,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 group-title="馬來西亞" tvg-id="Dunia Sinema",Dunia Sinema
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
 
+#EXTINF:-1 group-title="馬來西亞" tvg-id="CinemaWorld",CinemaWorld
+http://152.32.229.52:5050/4gtv-live069/index.m3u8?proxy=true
+
 
 #Astro
 #EXTINF:-1 group-title="馬來西亞" tvg-id="Astro Prima",Astro Prima
@@ -108,12 +104,18 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
 
 #EXTINF:-1 group-title="馬來西亞" tvg-id="Astro Awani",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 group-title="馬來西亞" tvg-id="Astro Awani",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #EXTINF:-1 group-title="馬來西亞" tvg-id="Astro AOD",Astro AOD (華語)
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
+#EXTINF:-1 group-title="馬來西亞" tvg-id="Astro AOD",Astro AOD (華語)
+https://stream.iptv-search.com/iptv_test/main.php?id=Astro+AOD&t=1762831815&token=6e280d7fd399f64a3883d35c6dba0408
 
 #EXTINF:-1 group-title="馬來西亞" tvg-id="Astro AEC",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 group-title="馬來西亞" tvg-id="Astro AEC",Astro AEC
+https://stream.iptv-search.com/iptv_test/main.php?id=Astro+AEC&t=1762831815&token=19da479f80acae53629b1fffbcce25d9
 
 #EXTINF:-1 group-title="馬來西亞" tvg-id="Astro 全佳",Astro 全佳
 http://php.jdshipin.com/smt.php?id=Quanjia
@@ -122,12 +124,8 @@ http://php.jdshipin.com/smt.php?id=Quanjia
 http://php.jdshipin.com/smt.php?id=Huahee
 
 #Astro TVB
-
-
 #EXTINF:-1 group-title="馬來西亞" tvg-id="TVB 翡翠台",TVB 翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-
-
 
 #EXTINF:-1 group-title="馬來西亞" tvg-id="TVB 翡翠台",TVB 翡翠台
 http://php.jdshipin.com/smt.php?id=Tvbjade
@@ -149,13 +147,24 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
 #EXTINF:-1 group-title="馬來西亞" tvg-id="天映頻道",天映頻道
 http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="天映頻道" tvg-id="" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805003741056376_18.png" group-title="Movies",天映頻道1
+https://stream1.freetv.fun/dc0638d1b892670af442e5e22e214e0f1fa62a2759a26ff73288cc1f0b595f02.ctv
 
 #540P
 #EXTINF:-1 group-title="馬來西亞" tvg-id="天映經典頻道",天映經典頻道
 http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映經典(MAS)" tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Movies",天映經典頻道1
+https://stream1.freetv.fun/762471f922bebd77888d7471741f91c8a6c8806a85bfd00da60ba07290c48525.m3u8
+#EXTINF:-1 tvg-name="天映經典(MAS)" tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Movies",天映經典頻道2
+https://stream1.freetv.fun/4fad3bfb96a651e17352754e147d85d129403a04c1879c35b9a9a0b09c663079.ctv
+#EXTINF:-1 tvg-name="天映經典(MAS)" tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Movies",天映經典頻道3
+https://stream1.freetv.fun/543807bf61044897d834a8090d0736872c415b832c4bab02b361408456b24f2b.ctv
 
+#720P
 #EXTINF:-1 group-title="馬來西亞" tvg-id="愛奇藝",愛奇藝
 http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-1 tvg-name="愛奇藝" tvg-id="3290" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/01/03/large/20240103202710753007_26.jpg" group-title="Movies",愛奇藝 1
+https://stream1.freetv.fun/9dd2f9dda0751ea8672b139396efd5a5956ca04d5b648db3e9cd3f6361097fb6.ctv
 
 
 #新加坡
@@ -196,11 +205,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 group-title="香港" tvg-id="BSTV",BSTV
 #EXTINF:-1 group-title="香港" tvg-id="創世電視",創世電視
 
-#1080P
-#EXTINF:-1 group-title="香港" tvg-id="Pet Club TV",Pet Club TV
-https://petclub-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="香港" tvg-id="Pet Club TV",Pet Club TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 
 #TVB
 #1080P
@@ -292,6 +296,10 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 
 #EXTINF:-1 group-title="香港" tvg-id="TVB J2",TVB J2
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="香港" tvg-id="TVB J2",TVB J2
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="香港" tvg-id="TVB J2",TVB J2
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 group-title="香港" tvg-id="TVB J2",TVB J2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
@@ -299,10 +307,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
 #EXTINF:-1 group-title="香港" tvg-id="TVB J2",TVB J2
 http://r.jdshipin.com/Nr5jq
-#EXTINF:-1 group-title="香港" tvg-id="TVB J2",TVB J2
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 group-title="香港" tvg-id="TVB J2",TVB J2
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+
 
 #1080P
 #EXTINF:-1 group-title="香港" tvg-id="ViuTV",ViuTV
@@ -405,6 +410,12 @@ http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 #EXTINF:-1 group-title="香港" tvg-id="Asian Action",Asian Action
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
+#1080P
+#EXTINF:-1 group-title="香港" tvg-id="Pet Club TV",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="香港" tvg-id="Pet Club TV",Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
 #576P
 #EXTINF:-1 group-title="香港" tvg-id="耀才財經資訊頻道",耀才財經資訊頻道 576P
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
@@ -422,12 +433,52 @@ http://php.jdshipin.com/TVOD/iptv.php?id=asam
 
 #台灣
 ########################################################################
-http://152.32.229.52:5050/4gtv-4gtv004/index.m3u8?proxy=true
-http://152.32.229.52:5050/4gtv-4gtv006/index.m3u8?proxy=true
-
-#1080P
+#720P
 #EXTINF:-1 group-title="台灣" tvg-logo="https://i.imgur.com/q8ahtbT.png",民視
-http://152.32.229.52:5050/4gtv-4gtv002/index.m3u8?proxy=true
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="台灣" tvg-logo="https://i.imgur.com/q8ahtbT.png",民視
+rtmp://f13h.mine.nu:1935/sat/tv051
+
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165016546996_93.png",台視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165016546996_93.png",台視
+rtmp://f13h.mine.nu:1935/sat/tv071
+
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917031118563901_35.png",CTV 中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917031118563901_35.png",CTV 中視
+rtmp://f13h.mine.nu:1935/sat/tv091
+
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165105718020_68.png",CTS 華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165105718020_68.png",CTS 華視
+rtmp://f13h.mine.nu:1935/sat/tv111
+
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917032621409180_62.jpg",非凡新聞台
+rtmp://f13h.mine.nu/sat/tv581
+
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917033004270852_19.png",緯來體育台
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917033004270852_19.png",緯來體育台
+rtmp://f13h.mine.nu:1935/sat/tv721
+
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917033004270852_19.png",！！
+rtmp://f13h.mine.nu/sat/tv731
+
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919170246492915_96.png",DAZN 2
+rtmp://f13h.mine.nu/sat/tv741
+
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919171544613160_86.png",momo綜合台
+rtmp://f13h.mine.nu/sat/tv761
+
+#EXTINF:-1 group-title="台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165120743160_73.png",公視
+rtmp://f13h.mine.nu/sat/tv771
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="台灣" tvg-logo="https://i.imgur.com/HBT2o0I.png",民視第一台
 http://152.32.229.52:5050/4gtv-4gtv003/index.m3u8?proxy=true
@@ -489,7 +540,6 @@ http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8?proxy=true
 
 #1080P
 #EXTINF:-1 group-title="台灣" tvg-id="三立 iNEWS",三立 iNEWS
-https://www.youtube.com/watch?v=pF507BLtbqU
 
 #EXTINF:-1 group-title="台灣" tvg-id="寰宇新聞台灣台",寰宇新聞台灣台
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
@@ -834,7 +884,6 @@ http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Adult",Leo HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Reality Kings 1
+#EXTINF:-1 group-title="Adult",Reality Kings
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Reality Kings 2
-http://88.212.7.11/live/test_realitykings_hd_hevc/playlist.m3u8
+
