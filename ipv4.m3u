@@ -4,6 +4,12 @@
 #EXTINF:-1 group-title="1080P" tvg-id="Talking Tom Shorts",Talking Tom Shorts
 #EXTINF:-1 group-title="720P" tvg-id="ABCテレビニュース",ABCテレビニュース
 
+#720P
+#EXTINF:-1 group-title="720P" tvg-logo="https://i.imgur.com/LdsRz2E.png",EWTN Africa
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="720P" tvg-logo="https://i.imgur.com/LdsRz2E.png",EWTN Asia-Pacific
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+
 
 #EXTINF:-1 group-title="1080P" tvg-id="RacingMag",RacingMag
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
@@ -13,6 +19,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 
 #EXTINF:-1 group-title="720P" tvg-id="AR",AR
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+
+
+
 
 
 
@@ -132,11 +141,19 @@ https://stream1.freetv.fun/b2f5e3437bddb0e2626e49de3603da664e092c44a41bdde22afa4
 
 #1080P
 #EXTINF:-1 group-title="馬來西亞" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
-https://stream1.freetv.fun/wwe-network-3.ctv
-#EXTINF:-1 group-title="馬來西亞" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
 https://stream1.freetv.fun/5ac5b2e068dd68fcb6e63b83f81f39359d76d7c7ff6c1aca39e94c1acca37a53.ctv
 #EXTINF:-1 group-title="馬來西亞" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
 https://stream1.freetv.fun/f6ccad46310e9e69a603a21f31e25be4e7abe7733aaeb73b39526769fef59c0e.ctv
+#EXTINF:-1 group-title="馬來西亞" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
+https://stream1.freetv.fun/wwe-network-3.ctv
+#EXTINF:-1 group-title="馬來西亞" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
+https://stream1.freetv.fun/wwe-network-2.ctv
+
+#720P
+#EXTINF:-1 group-title="馬來西亞" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg Asia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="馬來西亞" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg Asia Event
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 
 #720P
 #EXTINF:-1 group-title="馬來西亞" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805003741056376_18.png",天映頻道 (華語)
@@ -183,6 +200,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://stream1.freetv.fun/aura-1.m3u8
 #EXTINF:-1 group-title="馬來西亞 astro" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003930806033_58.png",astro Aura
 https://stream1.freetv.fun/96cb81b04d16b7754ab118299a7a51a47b978145fd2f1526cf1ce3d295be79b2.m3u8
+
 
 #1080P
 #EXTINF:-1 group-title="馬來西亞 astro" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png",astro Premier League
@@ -440,11 +458,15 @@ https://stream.iptv-search.com/iptv_test/main.php?id=VIUTV&t=1762831815&token=8b
 #1080P
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTV6
 http://hls.168.us.kg/u/96/master.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTV6
+https://stream1.freetv.fun/379e556ddd7712150f499cd5772db8d5a3200f9f75b60e90e35a17f70c30db3c.ctv
 #720P
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTV6
 https://stream.iptv-search.com/iptv_test/main.php?id=ViuTV6&t=1762831815&token=c104cad13a917773846a00727d47fd32
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTV6
-http://hls.168.us.kg/u/96/master.m3u8
+https://stream1.freetv.fun/b8951a2f57d8cadf943ee9d0713b6492050a3182ec0b18dc5c8d3535134d446f.ctv
+
+
 
 #1080P
 #EXTINF:-1 group-title="香港" tvg-logo="https://i.imgur.com/3oXyHvg.png",now直播台
@@ -462,7 +484,6 @@ http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 
 
 #鳳凰衛視
-
 #1080P
 #EXTINF:-1 group-title="香港" tvg-id="鳳凰衛視香港台",鳳凰衛視香港台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -513,6 +534,7 @@ https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb968
 #EXTINF:-1 group-title="香港" tvg-logo="https://i.imgur.com/B1aNrlL.png",星空衛視
 https://stream1.freetv.fun/xing-kong-wei-shi-7.ctv
 
+
 #1080P
 #EXTINF:-1 group-title="香港" tvg-id="HOY 76",HOY 76
 http://hls.168.us.kg/u/76/master.m3u8
@@ -543,6 +565,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #720P
 #EXTINF:-1 group-title="香港" tvg-id="港台電視32",港台電視32
 http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 group-title="香港" tvg-id="港台電視32",港台電視32
+https://stream1.freetv.fun/9bf369ba2735d74a70c88f6c3c6b3b47d32d51f8e786a4ec54ad43c82424e17d.ctv
 
 #720P
 #EXTINF:-1 group-title="香港" tvg-id="Asian Action",Asian Action
@@ -800,82 +824,146 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 ########################################################################
 #中國衛視
 #1080P
-#EXTINF:-1 group-title="中國 衛視" tvg-id="海峽衛視",海峽衛視
+#EXTINF:-1 group-title="中國-衛視" tvg-id="海峽衛視",海峽衛視
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
 
-#EXTINF:-1 group-title="中國 衛視" tvg-id="西藏衛視",西藏衛視
+#EXTINF:-1 group-title="中國-衛視" tvg-id="西藏衛視",西藏衛視
 http://php.jdshipin.com:8880/xztv.php?id=ws
 
-#EXTINF:-1 group-title="中國 衛視" tvg-id="西藏衛視 影視文化",西藏衛視 影視文化
+#EXTINF:-1 group-title="中國-衛視" tvg-id="西藏衛視 影視文化",西藏衛視 影視文化
 http://php.jdshipin.com:8880/xztv.php?id=ys
 
-#EXTINF:-1 group-title="中國 衛視" tvg-id="西藏衛視 藏語",西藏衛視 藏語
+#EXTINF:-1 group-title="中國-衛視" tvg-id="西藏衛視 藏語",西藏衛視 藏語
 http://php.jdshipin.com:8880/xztv.php?id=zy
 
 
-#EXTINF:-1 group-title="中國 衛視" tvg-id="CHC 動作電影",CHC 動作電影
+#EXTINF:-1 group-title="中國-衛視" tvg-id="CHC 動作電影",CHC 動作電影
 http://sh.lnott.top:880/dx100.m3u8
-#EXTINF:-1 group-title="中國 衛視" tvg-id="CHC 動作電影",CHC 動作電影
+#EXTINF:-1 group-title="中國-衛視" tvg-id="CHC 動作電影",CHC 動作電影
 http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 
-#EXTINF:-1 group-title="中國 衛視" tvg-id="CHC 影迷電影",CHC 影迷電影
+#EXTINF:-1 group-title="中國-衛視" tvg-id="CHC 影迷電影",CHC 影迷電影
 http://sh.lnott.top:880/dx101.m3u8
-#EXTINF:-1 group-title="中國 衛視" tvg-id="CHC 影迷電影",CHC 影迷電影
+#EXTINF:-1 group-title="中國-衛視" tvg-id="CHC 影迷電影",CHC 影迷電影
 http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
 
-#EXTINF:-1 group-title="中國 衛視" tvg-id="CHC 家庭影院",CHC 家庭影院
+#EXTINF:-1 group-title="中國-衛視" tvg-id="CHC 家庭影院",CHC 家庭影院
 http://sh.lnott.top:880/dx93.m3u8
-#EXTINF:-1 group-title="中國 衛視" tvg-id="CHC 家庭影院",CHC 家庭影院
+#EXTINF:-1 group-title="中國-衛視" tvg-id="CHC 家庭影院",CHC 家庭影院
 http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 
-#EXTINF:-1 group-title="中國 衛視" tvg-id="重溫經典",重溫經典
+#EXTINF:-1 group-title="中國-衛視" tvg-id="重溫經典",重溫經典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
-#EXTINF:-1 group-title="中國 衛視" tvg-id="重溫經典",重溫經典
+#EXTINF:-1 group-title="中國-衛視" tvg-id="重溫經典",重溫經典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+
+
+
 
 #中國中央電視台
 #1080P
-#EXTINF:-1 group-title="中國 央視" tvg-id="CCTV1 綜合",CCTV1 綜合
-https://ldncctvwbcdks.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?BR=td&region=beijing
+#EXTINF:-1 group-title="中國-央視" tvg-id="CCTV2 財經",CCTV2 財經
+#EXTINF:-1 group-title="中國-央視" tvg-id="CCTV4 中文國際",CCTV4 中文國際
+#EXTINF:-1 group-title="中國-央視" tvg-id="CCTV4 中文國際",CCTV4 中文國際
 
-#EXTINF:-1 group-title="中國 央視" tvg-id="CCTV2 財經",CCTV2 財經
-https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?BR=td
 
-#EXTINF:-1 group-title="中國 央視" tvg-id="CCTV4 中文國際",CCTV4 中文國際
-https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?BR=td
+#1080P
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV1 綜合
+https://stream1.freetv.fun/cctv-01-3.ctv
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV1 綜合
+https://stream1.freetv.fun/d38c8a04ea8806126f87e7695d9cb09ebc6fcbaf38d443b92a77d4e37d1eb2e9.ctv
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV1 綜合
+https://stream1.freetv.fun/600a610ee4d2acf3e80fecb59d9d6f5a04fe9ef39934142463cbf6ed3b0c96df.m3u8
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV1 綜合
+https://stream1.freetv.fun/cctv1-49.m3u8
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV1 綜合
+https://stream1.freetv.fun/1ac2829498275b94069f38237608a409baf61852cd00057d2347d2fe05e8b91c.m3u8
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV1 綜合
+https://stream1.freetv.fun/cctv1-43.m3u8
 
-#EXTINF:-1 group-title="中國 央視" tvg-id="CCTV4 中文國際",CCTV4 中文國際
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+
+#1080P
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
+http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
+http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
+http://114.230.213.27:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
+http://120.76.248.139/live/bfgd/4200000066.m3u8
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
+http://sh.lnott.top:880/dx08.m3u8
+#720P
+#EXTINF:-1 group-title="中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
+http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
+
+
+#1080P
+#EXTINF:-1 group-title="中國-央視 (咪咕視頻)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV1 綜合
+https://stream1.freetv.fun/cctv1-6.ctv
+#EXTINF:-1 group-title="中國-央視 (咪咕視頻)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV1 綜合
+https://stream1.freetv.fun/9b27262386aa6dcea6f0caf47d6ac2d64d0d956dc3a69f0ad78f166dde78e94b.ctv
+
+
+#1080P
+#EXTINF:-1 group-title="中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV1 綜合
+https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.ctv
+
+#1080P
+#EXTINF:-1 group-title="中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
+http://153.0.169.80:888/hls/8/index.m3u8
+
+
+
+
 
 #中國地方
 #720P
-#EXTINF:-1 group-title="中國 地方" tvg-id="廣東體育",廣東體育
+#EXTINF:-1 group-title="中國-地方" tvg-id="廣東體育",廣東體育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
-#EXTINF:-1 group-title="中國 地方" tvg-id="廣東珠江",廣東珠江
+#EXTINF:-1 group-title="中國-地方" tvg-id="廣東珠江",廣東珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
-#EXTINF:-1 group-title="中國 地方" tvg-id="廣東珠江",廣東珠江
+#EXTINF:-1 group-title="中國-地方" tvg-id="廣東珠江",廣東珠江
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
 
-#EXTINF:-1 group-title="中國 地方" tvg-id="河南武術世界",河南武術世界
+#EXTINF:-1 group-title="中國-地方" tvg-id="河南武術世界",河南武術世界
 http://php.jdshipin.com:8880/hntv.php?id=wspd
 
-#EXTINF:-1 group-title="中國 地方" tvg-id="河南文物寶庫",河南文物寶庫
+#EXTINF:-1 group-title="中國-地方" tvg-id="河南文物寶庫",河南文物寶庫
 http://php.jdshipin.com:8880/hntv.php?id=wwbk
 
-#EXTINF:-1 group-title="中國 地方" tvg-id="廣州综合",廣州综合
+#EXTINF:-1 group-title="中國-地方" tvg-id="廣州综合",廣州综合
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 
-#EXTINF:-1 group-title="中國 地方" tvg-id="廣州新聞",廣州新聞
+#EXTINF:-1 group-title="中國-地方" tvg-id="廣州新聞",廣州新聞
 http://php.jdshipin.com:8880/gztv.php?id=xinwen
 
-#EXTINF:-1 group-title="中國 地方" tvg-id="東莞生活資訊",東莞生活資訊
+#EXTINF:-1 group-title="中國-地方" tvg-id="東莞生活資訊",東莞生活資訊
 http://php.jdshipin.com:8880/0769.php?id=shzx
 
-#EXTINF:-1 group-title="中國 地方" tvg-id="東莞新聞綜合",東莞新聞綜合
+#EXTINF:-1 group-title="中國-地方" tvg-id="東莞新聞綜合",東莞新聞綜合
 http://php.jdshipin.com:8880/0769.php?id=xwzh
+
+
+#蒙古
+########################################################################
+#720P
+#EXTINF:-1 group-title="蒙古" tvg-logo="",TV8
+https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
+#EXTINF:-1 group-title="蒙古" tvg-logo="",TV8
+https://cdn3.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
+
+
+#柬埔寨
+########################################################################
+#720P
+#EXTINF:-1 group-title="柬埔寨" tvg-logo="https://i.imgur.com/yrdr4Po.png",CTV8
+http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 
 
 #印度尼西亞
@@ -921,9 +1009,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #法國
 ########################################################################
 #1080P
+#EXTINF:-1 group-title="法國" tvg-logo="https://i.imgur.com/mfZOYZI.png",TV5 Monde Pacifique
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 group-title="法國" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5 Monde Seasie
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
+#1080P
 #EXTINF:-1 group-title="法國" tvg-id="FashionTV",FashionTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="法國" tvg-id="FashionTV",FashionTV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
@@ -957,6 +1050,12 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 #EXTINF:-1 group-title="土耳其" tvg-id="TMB",TMB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
+
+#墨西哥
+########################################################################
+#1080P
+#EXTINF:-1 group-title="墨西哥" tvg-logo="https://i.imgur.com/klhTyDU.png",Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #阿根廷
 ########################################################################
@@ -1004,6 +1103,16 @@ https://stream1.freetv.fun/491c1cc2a4b4464453b675dc89ed78f8c152b8ced718ca63691a6
 #EXTINF:-1 group-title="葡萄牙" tvg-logo="https://i.postimg.cc/x1K0D69n/tvi.png",tvi
 https://stream1.freetv.fun/tvi-4.ctv
 
+#俄羅斯
+########################################################################
+#1080P
+#EXTINF:-1 group-title="俄羅斯" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+
+#720P
+#EXTINF:-1 group-title="俄羅斯" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608035516551050_67.png",РТР Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+
 #荷蘭
 ########################################################################
 #720P
@@ -1024,10 +1133,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #720P
 #EXTINF:-1 group-title="阿根廷" tvg-id="PowerHD",PowerHD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-
-
-
-
 
 
 
@@ -1067,12 +1172,6 @@ https://stream1.freetv.fun/fbfca06158f529857785784f5b6bf234988e3cb6a4bbd1820a282
 
 #Adult
 ########################################################################
-#EXTINF:-1 group-title="Adult",French Lover TV
-https://stream1.freetv.fun/59dc681dcbbbba148c80ce5e942df129b2095e8cc57e034c472cc6e85467b28f.m3u8
-#EXTINF:-1 group-title="Adult",French Lover TV
-https://stream1.freetv.fun/ch-ng-french-lover-1.m3u8
-
-
 #EXTINF:-1 group-title="Adult",Babes
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Adult",Brazzers
