@@ -352,9 +352,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 #1080P
 #EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台
 http://hls.168.us.kg/u/81/master.m3u8
-#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台
+#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台
+#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 #EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -363,15 +363,15 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台
 http://r.jdshipin.com/62WM7
 #720P
-#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台
+#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台
+#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台
+#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
 http://php.jdshipin.com/smt.php?id=jade_twn
-#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台
+#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台
+#EXTINF:-1 group-title="香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
 http://r.jdshipin.com/qClQf
 
 #1080P
