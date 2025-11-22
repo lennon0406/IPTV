@@ -70,8 +70,6 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-id="TV1",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-id="TV1",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1&checkedby:iptvcat.com
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-id="TV1",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #1080P
@@ -142,8 +140,6 @@ https://stream1.freetv.fun/206e3b04525e02c7c1afa88cbcb2bd2905209075dce5f44f41f4c
 
 #540P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118000105006437_69.jpg",BERNAMA
-https://stream1.freetv.fun/bernama-news--v-1.ctv
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118000105006437_69.jpg",BERNAMA
 https://stream1.freetv.fun/0de064430d0d84f68ca57f58ccac5dc6351fc8efd02a23c9e58cf02f530a12d1.ctv
 
 #720P
@@ -210,8 +206,6 @@ https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-id="RTM Berita",RTM Berita
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-id="RTM Berita",RTM Berita
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5&checkedby:iptvcat.com
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-id="RTM ASEAN",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-id="RTM Sukan",RTM Sukan
@@ -220,8 +214,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-id="RTM Parlimen Dewan Negara",RTM Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-id="RTM Parlimen Dewan Negara",RTM Parlimen Dewan Negara
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8&checkedby:iptvcat.com
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://epg.pw/media/images/epg/2025/11/13/20251113030017081383_11.jpg",Snap
@@ -249,11 +241,17 @@ https://stream1.freetv.fun/96cb81b04d16b7754ab118299a7a51a47b978145fd2f1526cf1ce
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="Astro Citra",Astro Citra
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="Astro Rania",Astro Rania
 
+
+
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="astro Awani",astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_5.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="astro Awani",astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_4.m3u8
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="astro Awani",astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="astro Awani",astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="astro Awani",astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png",astro Premier League
@@ -880,8 +878,6 @@ https://stream1.freetv.fun/012a1900f91e73ba1a44046dcda5131837d3ba0598f754aa6ba7f
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="TVBS 亞洲台",TVBS 亞洲台
 http://51.89.166.17:3002/index.php?id=Tvbasia
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="TVBS 亞洲台",TVBS 亞洲台
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="生命電視台",生命電視台
 http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
@@ -913,13 +909,13 @@ http://61.58.60.230:9319/live/124.m3u8
 
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="人間衛視",人間衛視
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="人間衛視",人間衛視
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="人間衛視",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="人間衛視",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="人間衛視",人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="人間衛視",人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="香港佛陀",香港佛陀
@@ -1046,14 +1042,11 @@ https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2ff35078a
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV1 綜合
 https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.ctv
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV1 綜合
 https://stream1.freetv.fun/437cee4d01d2d3d8dcef769eee4eea29dd9754fb19a608d318c570f1ed752385.m3u8
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
 http://153.0.169.80:888/hls/8/index.m3u8
-
-
-
-
 
 
 #🇨🇳 中國-地方
@@ -1271,10 +1264,10 @@ https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 
 
-#德國
+#🇩🇪 德國
 ########################################################################
 #1080P
-#EXTINF:-1 group-title="德國" tvg-id="DW",DW
+#EXTINF:-1 group-title="🇩🇪 德國" tvg-id="DW",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #🇨🇦 加拿大
