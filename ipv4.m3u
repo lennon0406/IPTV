@@ -1116,9 +1116,9 @@ http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playl
 #🇮🇳 印度
 ########################################################################
 #1080P
-#EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
+#EXTINF:-1 group-title="🇮🇳 印度 ★" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
 https://stream1.freetv.fun/star-movies-select-1.ctv
-#EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
+#EXTINF:-1 group-title="🇮🇳 印度 ★" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
 https://stream1.freetv.fun/9cd3c174e2d8645c5a14e8b17746cb5701d822f3250603152f1550a013ab6e12.ctv
 
 #720P
@@ -1406,6 +1406,12 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 
 #電影
 ########################################################################
+#1080P
+#EXTINF:-1 group-title="🇮🇳 印度 ★" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
+https://stream1.freetv.fun/star-movies-select-1.ctv
+#EXTINF:-1 group-title="🇮🇳 印度 ★" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
+https://stream1.freetv.fun/9cd3c174e2d8645c5a14e8b17746cb5701d822f3250603152f1550a013ab6e12.ctv
+
 #720P
 #EXTINF:-1 group-title="電影" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
 https://stream1.freetv.fun/tvs-3.m3u8
