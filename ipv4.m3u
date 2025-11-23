@@ -325,6 +325,8 @@ http://r.jdshipin.com/thuYX
 http://php.jdshipin.com/smt.php?id=Tvbjade
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="TVB 翡翠台",astro TVB 翡翠台 (華語)
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="TVB 翡翠台",astro TVB 翡翠台 (華語)
+https://stream1.freetv.fun/0f0395c924dc13b6e2461a9ea78f4557372bbf3c2f7493d4ffd9181d3202f74d.ctv
 
 
 #720P
@@ -465,11 +467,7 @@ https://stream1.freetv.fun/8a31735d012894cb8c275ebf1a898a3bb42f7201dd54d6d1201d7
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
 https://stream1.freetv.fun/363a02513a5dbd6658d52b26c733386779319595957dce38c539ddb689d7b401.ctv
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
-https://stream1.freetv.fun/fei-cui-16.ctv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
 https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.ctv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
-https://stream1.freetv.fun/0f0395c924dc13b6e2461a9ea78f4557372bbf3c2f7493d4ffd9181d3202f74d.ctv
 
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 明珠台",TVB 明珠台
