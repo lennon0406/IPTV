@@ -992,14 +992,11 @@ https://stream1.freetv.fun/cctv1-81.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
-http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
 http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
-http://114.230.213.27:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
-http://120.76.248.139/live/bfgd/4200000066.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
+http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
 http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
