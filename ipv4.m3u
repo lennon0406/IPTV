@@ -71,8 +71,6 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-id="TV1",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-id="TV1",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-id="TV2",TV2
