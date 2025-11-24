@@ -4,12 +4,78 @@
 #EXTINF:-1 group-title="1080P" tvg-id="Talking Tom Shorts",Talking Tom Shorts
 #EXTINF:-1 group-title="720P" tvg-id="ABCテレビニュース",ABCテレビニュース
 
-
 #1080P
 #EXTINF:-1 group-title="1080P" tvg-id="Plus 8",Plus 8
 https://stream1.freetv.fun/plus-8-1.ctv
 #EXTINF:-1 group-title="1080P" tvg-id="Plus 8",Plus 8
 https://stream1.freetv.fun/a4ff58ef1c87be11dc5b78a17be6e841d60a4d92f61e0cdded3c566349c99702.ctv
+
+#EXTINF:-1 group-title="1080P" tvg-id="RacingMag",RacingMag
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+
+#EXTINF:-1 group-title="1080P" tvg-id="Equidia",Equidia
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+
+
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",SBS 패밀리가 떴다
+https://d1rio2j9o2hqtj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1nujk65i146oc-ssai-prd/master.m3u8
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",SBS TV 동물농장
+https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",tvN 스트리트푸드파이터
+https://d151dxm6owf2zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rbhbw3vbbdjci-ssai-prd/23a98766_04e3_4a66_9467_aa8b36e32a7d/hls/playlist.m3u8
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",tvN 로맨스가 필요해3
+https://d1ttfbptd053sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/151248c2_45a2_45a5_a31f_bb9fc72969dd/hls/playlist.m3u8
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",tvN 멜랑꼴리아
+https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",tvN 수미네 반찬(13-24회)
+https://d2chiell4gvxfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-obcwj7uic0zcf-ssai-prd/83cd3a28_879e_4f2e_9ac4_b21dc7cad4c8/hls/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",tvN 노포의 영업비밀(9-19회)
+https://d2hzd84ca9i22o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccmcyhv2wdcxb-ssai-prd/eaa13423_ab8c_4fde_9fc7_5268a971ff22/hls/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",tvN 사이코메트리 그녀석
+https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",SBS 미운 우리 새끼
+https://d2h2h4q3zieeav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49nq9623vilm8-prod/hls-harvester2-1293-prod/us-east-1/cc-49nq9623vilm8/master.m3u8
+
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",tvN 삼시세끼 어촌편5
+https://d2jgaw7uttn3h3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f49y0pr4caw7w-ssai-prd/b1e01036_7c37_48b3_9137_7ecc71b50661/hls/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",tvN 군검사 도베르만
+https://d2mecmy93314jg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ysoihaaolxdeo-ssai-prd/8774f2b9_200a_41a9_b741_0882edc4765b/hls/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",tvN 청일전자 미쓰리
+https://d2mtknivycr9zl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ndbnpcfczvjbq-ssai-prd/b32caf42_751e_4035_8904_b2cded676be7/hls/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",tvN 벌거벗은 세계사(4-13회)
+https://d2o2hmoiqx116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o3aplgjgapswr-ssai-prd/43044fab_9b3c_461f_8bd9_89fe0142fc49/hls/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",tvN 마인
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",tvN THE K2
+https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="1080P" tvg-logo="",Mnet 스트릿 우먼 파이터
+https://d35dv31kxp3bol.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8
+
 
 #720P
 #EXTINF:-1 group-title="720P" tvg-id="C+",C+
@@ -23,33 +89,8 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="720P" tvg-logo="https://i.imgur.com/LdsRz2E.png",EWTN Asia-Pacific
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
-
-#EXTINF:-1 group-title="1080P" tvg-id="RacingMag",RacingMag
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
-
-#EXTINF:-1 group-title="1080P" tvg-id="Equidia",Equidia
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-
 #EXTINF:-1 group-title="720P" tvg-id="AR",AR
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
-
-
-#1080P
-#EXTINF:-1 group-title="1080P" tvg-logo="",1
-https://d151dxm6owf2zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rbhbw3vbbdjci-ssai-prd/23a98766_04e3_4a66_9467_aa8b36e32a7d/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200023BG
-#1080P
-#EXTINF:-1 group-title="1080P" tvg-logo="",2
-https://d1rio2j9o2hqtj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1nujk65i146oc-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#1080P
-#EXTINF:-1 group-title="1080P" tvg-logo="",3
-https://d1ttfbptd053sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m5y15fbf80yi9-ssai-prd/151248c2_45a2_45a5_a31f_bb9fc72969dd/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200032ZM
-#1080P
-#EXTINF:-1 group-title="1080P" tvg-logo="",4
-https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
-#1080P
-#EXTINF:-1 group-title="1080P" tvg-logo="",5
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-
 
 
 #🇲🇾 馬來西亞
@@ -192,13 +233,11 @@ https://stream1.freetv.fun/tian-ying-jing-dian-2.ctv
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081045631403_71.png",tvN
-https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200027ED
+https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081045631403_71.png",tvN
-https://d1zto4uvqkznpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e02jwpz12nm4y-ssai-prd/a8dbe12b_5883_496b_8f6e_c56ef91558c5/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200025QG
+https://d1zto4uvqkznpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e02jwpz12nm4y-ssai-prd/a8dbe12b_5883_496b_8f6e_c56ef91558c5/hls/playlist.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081045631403_71.png",tvN
-https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081045631403_71.png",tvN
-https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 
 
 #🇲🇾 馬來西亞 rtm
@@ -369,13 +408,13 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-id="cna",cna
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-id="cna",cna
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #720P
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-id="cna",cna
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-id="cna",cna
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-id="cna",cna
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 
 #🇧🇳 汶萊
@@ -835,16 +874,46 @@ http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165016546996_93.png",台視
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917031118563901_35.png",CTV 中視
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917031118563901_35.png",CTV 中視
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165105718020_68.png",CTS 華視
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165105718020_68.png",CTS 華視
+
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917032621409180_62.jpg",非凡新聞台
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917033004270852_19.png",緯來體育台
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917033004270852_19.png",緯來體育台
+
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917033004270852_19.png",！！
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919170246492915_96.png",DAZN 2
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919171544613160_86.png",momo綜合台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165120743160_73.png",公視
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917033004270852_19.png",緯來體育台
 
+
+
+
+#1080P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917033108660461_30.png",緯來日本台
+http://51.89.166.17:3002/index.php?id=videolandjapan
+
+
+#720P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/q8ahtbT.png",FTV 民視
+https://k44991.kylintv.tv/live/formosatv_iphone.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/0CYU3N0.png",CTV 中視新聞台
+http://51.89.166.17:3002/index.php?id=zhongshihd_twn
+
+
+
+#720P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165105718020_68.png",CTS 華視
+https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1c3d1ee25740.ctv
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165105718020_68.png",CTS 華視
+https://stream1.freetv.fun/hua-shi-5.ctv
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165105718020_68.png",CTS 華視
+https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165105718020_68.png",CTS 華視
+http://51.89.166.17:3002/index.php?id=ctshd_twn
+
+#1080P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/k4fhcPl.png",EBC 東森幼幼台
+http://51.89.166.17:3002/index.php?id=yoyo_twn
 
 
 #720P
@@ -855,9 +924,6 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/4RvCHWP.png",TVBS
 https://stream1.freetv.fun/tvbs--wj-2.m3u8
 
-#720P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/q8ahtbT.png",FTV 民視
-https://k44991.kylintv.tv/live/formosatv_iphone.m3u8
 
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917052043951323_23.jpg",博斯運動Ⅱ
@@ -923,6 +989,13 @@ https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
 #中國
 ########################################################################
 #🇨🇳 中國-衛視
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/CikxiyB.png",吉林衛視
+https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.ctv
+
+
+
+
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",CGTN
 https://0472.org/hls/cgtn.m3u8
@@ -995,8 +1068,6 @@ https://stream1.freetv.fun/cctv1-81.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
 http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
-http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV8 電視劇
 http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
@@ -1108,13 +1179,17 @@ https://cdn3.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 
 
-#🇮🇳 印度
+#🇮🇳 India印度		位于南亚次大陆上的国家
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇮🇳 印度 ★" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
 https://stream1.freetv.fun/star-movies-select-1.ctv
 #EXTINF:-1 group-title="🇮🇳 印度 ★" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
 https://stream1.freetv.fun/9cd3c174e2d8645c5a14e8b17746cb5701d822f3250603152f1550a013ab6e12.ctv
+
+#720P
+#EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/SDkiMvR.png",Sanskar TV
+https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
 
 #720P
 #EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/40kNu1w.png",Satsang Web TV
@@ -1151,11 +1226,11 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-id="CMC",CMC
 https://cmc-ono.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance
-https://yahoofinance-localnow.amagi.tv/playlist.m3u8
 #1080P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance
+https://yahoofinance-localnow.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-id="Hi-YAH!",Hi-YAH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
@@ -1215,8 +1290,17 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 
-#🇳🇱 荷蘭
+#🇳🇱 Netherlands荷蘭	位于欧洲西北部的低地国家
 ########################################################################
+🇳🇱 Netherlands
+#720P	
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="",Omroep Súdwest
+https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="",L1 TV
+https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+
 #720P
 #EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/xchUfks.png",Langstraat TV ★
 https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
@@ -1231,6 +1315,16 @@ http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 #1080P
 #EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.postimg.cc/zXTHyCCB/rtvutrecht.png",RTV Utrecht
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="",RTV oost
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+
+
+
+#720P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/hucwX6v.png",RTV LOVE
+https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/9F8ieEz.png",UStad
@@ -1249,8 +1343,16 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 #EXTINF:-1 group-title="🇩🇪 德國" tvg-id="DW",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#🇨🇦 加拿大
+#🇨🇦 Canada加拿大		位于北美洲北部
 ########################################################################
+#1080P
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://i.imgur.com/jhVjkQB.png",Noovo Comédies
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://i.imgur.com/jhVjkQB.png",Noovo Téléréalités
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
+
 #720P 
 #EXTINF:-1 group-title="🇨🇦 加拿大" tvg-id="Global News",Global News ★
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
@@ -1304,11 +1406,15 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv
 #EXTINF:-1 group-title="🇦🇿 阿塞拜疆" tvg-id="Space TV",Space TV ★
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 
-#🇪🇸 西班牙
+#🇪🇸 Spain西班牙	位於欧洲西南部的君主立宪制国家
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/b0H5f62.png",Teledeporte
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/rbJrmPw.png",SOL Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
 #🇸🇾 敘利亞
 ########################################################################
@@ -1342,8 +1448,13 @@ https://stream1.freetv.fun/prime-2.m3u8
 #EXTINF:-1 group-title="🇧🇷 巴西" tvg-logo="https://i.imgur.com/BMqSDNn.png",Prime ★
 https://stream1.freetv.fun/1c11185599447b07797934e6323f5ed6cea551e71803978de70464f6161fb263.m3u8
 
-#🇵🇹 葡萄牙
+
+#🇵🇹 葡萄牙	位于欧洲西南部
 ########################################################################
+#1080P
+#EXTINF:-1 group-title="🇵🇹 葡萄牙" tvg-logo="",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
 #720P
 #EXTINF:-1 group-title="🇵🇹 葡萄牙" tvg-logo="https://i.postimg.cc/x1K0D69n/tvi.png",tvi
 https://stream1.freetv.fun/491c1cc2a4b4464453b675dc89ed78f8c152b8ced718ca63691a6c0411f01157.ctv
@@ -1394,6 +1505,9 @@ https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #1080P
 #EXTINF:-1 group-title="🇶🇦 卡塔爾" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
+
+
 
 
 
@@ -1455,6 +1569,12 @@ https://stream1.freetv.fun/272beffed35f2cb7c974aeefa04c155e4a4d0e7e23d12c022b5d2
 #1080P
 #EXTINF:-1 group-title="鬥魚" tvg-logo="",77說電影
 https://stream1.freetv.fun/677521f386e5b9b5318f82d38eade1e75f8c59ce97b660e912ea2e940dc088e7.ctv
+
+
+
+
+
+
 
 
 
