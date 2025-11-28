@@ -968,147 +968,312 @@ https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
+http://171.116.249.77:9003/hls/1/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
+http://tvtj.jxwltx.com:8003/cctv1.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
+http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
 http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
 http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
+http://171.116.249.77:9003/hls/2/index.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
+http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
+#576P
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
+http://tvtj.jxwltx.com:8003/cctv2.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
 http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
+http://171.116.249.77:9003/hls/3/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
+http://tvtj.jxwltx.com:8003/cctv3.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
+http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 中文國際
 http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 中文國際
 http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 中文國際
+http://171.116.249.77:9003/hls/4/index.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 中文國際
+http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
+#576P
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 中文國際
+http://tvtj.jxwltx.com:8003/cctv4.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
+http://171.116.249.77:9003/hls/5/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
+http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
+http://tvtj.jxwltx.com:8003/cctv5.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 體育賽事
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 體育賽事
+http://171.116.249.77:9003/hls/6/index.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 體育賽事
+http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
 http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
 http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
+http://171.116.249.77:9003/hls/7/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
+http://tvtj.jxwltx.com:8003/cctv6.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
+http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
 http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
 http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
+http://171.116.249.77:9003/hls/8/index.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
+http://api.kkitv.itv888.cn:8080/hls/3udggaszi1i/index.m3u8
+#576P
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
+http://tvtj.jxwltx.com:8003/cctv7.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
 http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
 http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
+http://171.116.249.77:9003/hls/9/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
+http://tvtj.jxwltx.com:8003/cctv8.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
+http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
 http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
 http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
+http://171.116.249.77:9003/hls/10/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
+http://tvtj.jxwltx.com:8003/cctv9.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
+http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
 http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
+http://171.116.249.77:9003/hls/11/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
+http://tvtj.jxwltx.com:8003/cctv10.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
+http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CjOWx7L.png",CCTV-11 戲曲
 http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CjOWx7L.png",CCTV-11 戲曲
+http://api.kkitv.itv888.cn:8080/hls/og4kq4cnqm/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/CjOWx7L.png",CCTV-11 戲曲
+http://tvtj.jxwltx.com:8003/cctv11.m3u8
+#576P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CjOWx7L.png",CCTV-11 戲曲
+http://171.116.249.77:9003/hls/12/index.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/3yTuiOM.png",CCTV-12 社會與法
 http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/3yTuiOM.png",CCTV-12 社會與法
+http://171.116.249.77:9003/hls/13/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/3yTuiOM.png",CCTV-12 社會與法
+http://api.kkitv.itv888.cn:8080/hls/nwfb31kwc3l/index.m3u8
+#576P
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/3yTuiOM.png",CCTV-12 社會與法
+http://tvtj.jxwltx.com:8003/cctv12.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
 http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14 少兒
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV-15 音樂
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/ZzV6JQp.png",CCTV-16 奧林匹克
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/jSQURxS.png",CCTV-17 農業農村
-http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-
-#720P
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
-http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
-http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
-http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 中文國際
-http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
-#1080P
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
-http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
-#720P
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 體育賽事
-http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
-http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
-http://api.kkitv.itv888.cn:8080/hls/3udggaszi1i/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
-http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
-http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
-http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
-#1080P
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CjOWx7L.png",CCTV-11 戲曲
-http://api.kkitv.itv888.cn:8080/hls/og4kq4cnqm/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/3yTuiOM.png",CCTV-12 社會與法
-http://api.kkitv.itv888.cn:8080/hls/nwfb31kwc3l/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
+http://171.116.249.77:9003/hls/14/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
 http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
+#576P
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
+http://tvtj.jxwltx.com:8003/cctv13.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14 少兒
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14 少兒
+http://171.116.249.77:9003/hls/15/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14 少兒
 http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
+#576P
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14 少兒
+http://tvtj.jxwltx.com:8003/cctv14.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV-15 音樂
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV-15 音樂
 http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
+#576P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV-15 音樂
+http://171.116.249.77:9003/hls/16/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV-15 音樂
+http://tvtj.jxwltx.com:8003/cctv15.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/ZzV6JQp.png",CCTV-16 奧林匹克
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/ZzV6JQp.png",CCTV-16 奧林匹克
+http://171.116.249.77:9003/hls/17/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/ZzV6JQp.png",CCTV-16 奧林匹克
 http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/ZzV6JQp.png",CCTV-16 奧林匹克
+http://tvtj.jxwltx.com:8003/cctv5p.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/jSQURxS.png",CCTV-17 農業農村
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/jSQURxS.png",CCTV-17 農業農村
+http://171.116.249.77:9003/hls/18/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/jSQURxS.png",CCTV-17 農業農村
 http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-央視" tvg-logo="https://i.imgur.com/jSQURxS.png",CCTV-17 農業農村
+http://tvtj.jxwltx.com:8003/cctv17.m3u8
 
-#🇨🇳 中國-央視 (咪咕視頻)
-#🇨🇳 中國-央視 (中國IPTV)
+
+
+
 #1080P
-#EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
-http://171.116.249.77:9003/hls/1/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
 http://171.116.255.221:9003/hls/1/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
-http://tvtj.jxwltx.com:8003/cctv1.m3u8
+http://183.185.151.211:9003/hls/1/index.m3u8
+
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國-央視 (中國IPTV)" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
 http://153.0.169.80:888/hls/8/index.m3u8
+
+
 
 
 #🇨🇳 中國-衛視
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
 http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
+http://171.116.249.77:9003/hls/23/index.m3u8
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
 http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/btIeqQc.png",東南衛視
+http://171.116.249.77:9003/hls/24/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/btIeqQc.png",東南衛視
+http://tvtj.jxwltx.com:8003/dnws.m3u8
+#720P
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/btIeqQc.png",東南衛視
 http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/oNM7aiL.png",海峽衛視
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.postimg.cc/DZdGG2TD/hunantv.png",湖南衛視
 http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.postimg.cc/DZdGG2TD/hunantv.png",湖南衛視
+http://tvtj.jxwltx.com:8003/hunanws.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.postimg.cc/DZdGG2TD/hunantv.png",湖南衛視
 http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
+
+#720P
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/CTRa9BJ.png",湖北衛視
 http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8
+
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.postimg.cc/mrtBcmTx/zhejiangsatellitetv.png",浙江衛視
 http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://www.tvchinese.net/uploads/tv/jscs.jpg",江蘇衛視
+http://tvtj.jxwltx.com:8003/jsws.m3u8
+#720P
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://www.tvchinese.net/uploads/tv/jscs.jpg",江蘇衛視
 http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
+
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/RrLthH3.png",江西衛視
 http://api.kkitv.itv888.cn:8080/hls/pv0np60bpin/index.m3u8
+
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/AnZjWm4.png",深圳衛視
 http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg",廣東衛視
+http://171.116.249.77:9003/hls/26/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg",廣東衛視
+http://tvtj.jxwltx.com:8003/gdws.m3u8
+#720P
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg",廣東衛視
 http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
+
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/dpre5Qs.png",廣西衛視
 http://api.kkitv.itv888.cn:8080/hls/yvz4ndj9dqb/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/22pOC6H.png",大灣區衛視
+http://tvtj.jxwltx.com:8003/neimenggu.m3u8
+
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/nkcKCdr.png",貴州衛視
 http://api.kkitv.itv888.cn:8080/hls/5dqtpf3arun/index.m3u8
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/vsktAez.png",北京衛視
 http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/vsktAez.png",北京衛視
+http://171.116.249.77:9003/hls/20/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/vsktAez.png",北京衛視
 http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
+
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/K7cKOk0.png",河南衛視
 http://api.kkitv.itv888.cn:8080/hls/zkb0p6ypy6o/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/Z5Ppzbi.png",河北衛視
@@ -1119,12 +1284,26 @@ http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
 http://api.kkitv.itv888.cn:8080/hls/z2lkdkrb4w/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/t3ICc4i.png",山東衛視
 http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/UfKJBWW.png",山西衛視
+http://171.116.249.77:9003/hls/19/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/UfKJBWW.png",山西衛視
 http://api.kkitv.itv888.cn:8080/hls/8c66y3d5kp8/index.m3u8
+
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="",重慶衛視
+http://171.116.249.77:9003/hls/22/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="",重慶衛視
 http://api.kkitv.itv888.cn:8080/hls/ogh3s6tbw6/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/mBSoJdv.png",安徽衛視
+http://171.116.249.77:9003/hls/21/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/mBSoJdv.png",安徽衛視
 http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
+
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.postimg.cc/Jz87vbVf/liaoningtv.png",遼寧衛視
 http://api.kkitv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/BKi3QXB.png",陝西衛視
@@ -1133,14 +1312,26 @@ http://api.kkitv.itv888.cn:8080/hls/hyy3w1xyoaw/index.m3u8
 http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/VLaQYn4.png",新疆衛視
 http://api.kkitv.itv888.cn:8080/hls/vr12qgtucx/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/POV1PUV.png",雲南衛視
+http://tvtj.jxwltx.com:8003/ynws.m3u8
+#720P
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/POV1PUV.png",雲南衛視
 http://api.kkitv.itv888.cn:8080/hls/jwvhleddq5/index.m3u8
+
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/nUQE4Ib.png",寧夏衛視
 http://api.kkitv.itv888.cn:8080/hls/5aqjww52bju/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/9fj1uba.png",黑龍江衛視
 http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/j6kY8nh.png",甘肅衛視
+http://171.116.249.77:9003/hls/25/index.m3u8
+#720P
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/j6kY8nh.png",甘肅衛視
 http://api.kkitv.itv888.cn:8080/hls/lcceocfdwh/index.m3u8
+
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/j6kY8nh.png",海南衛視
 http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/Y4qxDqz.png",賓團衛視
@@ -1148,14 +1339,13 @@ http://api.kkitv.itv888.cn:8080/hls/nbzfa7gljzp/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/R4DWvBa.png",內蒙古衛視
 http://api.kkitv.itv888.cn:8080/hls/t4wf5047i/index.m3u8
 
-
 #1080P
-#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CBN_Classic.png/250px-CBN_Classic.png",重溫經典
-http://38.75.136.137:98/gslb/dsdqbv/cwjd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CBN_Classic.png/250px-CBN_Classic.png",重溫經典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CBN_Classic.png/250px-CBN_Classic.png",重溫經典
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/V0v3ST5.png",西藏衛視
+http://php.jdshipin.com:8880/xztv.php?id=ws
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/NtvfnVV.png",西藏衛視 藏語
+http://php.jdshipin.com:8880/xztv.php?id=zy
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="",西藏衛視 影視文化
+http://php.jdshipin.com:8880/xztv.php?id=ys
 
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",CGTN
@@ -1171,6 +1361,22 @@ https://0472.org/hls/cgtne.m3u8
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/Poz3xfi.png",CGTN Español
 https://0472.org/hls/cgtnx.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/AuiVcyh.png",CHC 動作電影
+#EXTINF:-1 group-title="🇨🇳 中國-衛視 (中國IPTV)" tvg-logo="https://i.imgur.com/AuiVcyh.png",CHC 動作電影
+http://42.237.155.44:9003/hls/60/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/ed3ve9F.png",CHC 影迷電影
+http://sh.lnott.top:880/dx101.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/AwBldBE.png",CHC 家庭影院
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CBN_Classic.png/250px-CBN_Classic.png",重溫經典
+http://38.75.136.137:98/gslb/dsdqbv/cwjd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CBN_Classic.png/250px-CBN_Classic.png",重溫經典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CBN_Classic.png/250px-CBN_Classic.png",重溫經典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 
 #EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="",lbss1
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
@@ -1241,9 +1447,9 @@ http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playl
 #🇮🇳 India印度		位于南亚次大陆上的国家
 ########################################################################
 #1080P
-#EXTINF:-1 group-title="🇮🇳 印度 ★" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
+#EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
 https://stream1.freetv.fun/star-movies-select-1.ctv
-#EXTINF:-1 group-title="🇮🇳 印度 ★" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
+#EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
 https://stream1.freetv.fun/9cd3c174e2d8645c5a14e8b17746cb5701d822f3250603152f1550a013ab6e12.ctv
 
 #1080P
@@ -1367,9 +1573,9 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
 #720P
-#EXTINF:-1 group-title="🇫🇷 法國 ★" tvg-logo="https://www.irtv.website/index_files/channels/persianaplus.png",Persiana+
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianaplus.png",Persiana+
 https://stream1.freetv.fun/persiana-plus-1.m3u8
-#EXTINF:-1 group-title="🇫🇷 法國 ★" tvg-logo="https://www.irtv.website/index_files/channels/persianaplus.png",Persiana+
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianaplus.png",Persiana+
 https://stream1.freetv.fun/e8ef69df7ffe2b12fdb3f6d36bd02a47a4fab7a9a397439734b1cc75f426b611.m3u8
 
 #1080P
