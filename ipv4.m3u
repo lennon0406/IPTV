@@ -1196,12 +1196,12 @@ http://183.185.151.211:9003/hls/1/index.m3u8
 
 #🇨🇳 中國-衛視
 #1080P
-#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
 http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
 http://171.116.249.77:9003/hls/23/index.m3u8
 #720P
-#EXTINF:-1 group-title="🇨🇳 中國-衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
 http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
 
 #1080P
