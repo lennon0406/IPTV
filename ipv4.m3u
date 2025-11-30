@@ -14,8 +14,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 
 #EXTINF:-1 group-title="1080P" tvg-logo="",Pluto TV Catastrophe
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a69ef53af63d000825e0ee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68b1c3a0-a3f2-41b3-ae05-e83e4e687617
-#EXTINF:-1 group-title="1080P" tvg-logo="",Pluto TV Catastrophe
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a69ef53af63d000825e0ee/master.m3u8
 
 #720P
 #EXTINF:-1 group-title="720P" tvg-id="C+",C+
@@ -242,11 +240,6 @@ https://stream1.freetv.fun/fb1e10e01220409b2d6104c5590b8acd6ab819027402d1ba3900e
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://epg.pw/media/images/epg/2025/06/18/20250618021318572375_55.png",astro Arena
 https://stream1.freetv.fun/83cb2b6f1388da1c14d5caf84c30de57626fd4b2a3104f9da72b55b1157bf1e0.ctv
 
-
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609105315486342_76.png",astro Awani ★
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_5.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609105315486342_76.png",astro Awani ★
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_4.m3u8
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609105315486342_76.png",astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
@@ -1892,6 +1885,27 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 
 
 
+
+
+#🚴🏻 運動
+########################################################################
+#720P
+#EXTINF:-1 group-title="🚴🏻 運動" tvg-id="PRO Sport International",PRO Sport International
+https://proshls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🚴🏻 運動" tvg-logo="https://epg.pw/media/images/channel/2023/08/10/large/20230810214339931354_43.png",W-sport
+https://stream1.freetv.fun/w-sports--v-1.ctv
+#EXTINF:-1 group-title="🚴🏻 運動" tvg-logo="https://epg.pw/media/images/channel/2023/08/10/large/20230810214339931354_43.png",W-sport
+https://stream1.freetv.fun/e5721df234d80458cfe9da8cf3a71c2ce9159218f68bd53902a3559ff8033232.ctv
+
+#720P
+#EXTINF:-1 group-title="🚴🏻 運動" tvg-logo="https://i.imgur.com/BZZyglC.png",astro Football
+https://stream1.freetv.fun/astro-football--v-1.ctv
+#EXTINF:-1 group-title="🚴🏻 運動" tvg-logo="https://i.imgur.com/BZZyglC.png",astro Football
+https://stream1.freetv.fun/fbfca06158f529857785784f5b6bf234988e3cb6a4bbd1820a282b3e4221e43e.ctv
+
+
 #🎥 電影
 ########################################################################
 #1080P
@@ -1913,58 +1927,43 @@ https://stream1.freetv.fun/tvs-3.m3u8
 #EXTINF:-1 group-title="🎥 電影" tvg-id="Hi-YAH!",Hi-YAH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
-#🚴🏻 運動
+
+🎬 電影 | 中文
 ########################################################################
 #720P
-#EXTINF:-1 group-title="🚴🏻 運動" tvg-id="PRO Sport International",PRO Sport International
-https://proshls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🚴🏻 運動" tvg-logo="https://epg.pw/media/images/channel/2023/08/10/large/20230810214339931354_43.png",W-sport
-https://stream1.freetv.fun/w-sports--v-1.ctv
-#EXTINF:-1 group-title="🚴🏻 運動" tvg-logo="https://epg.pw/media/images/channel/2023/08/10/large/20230810214339931354_43.png",W-sport
-https://stream1.freetv.fun/e5721df234d80458cfe9da8cf3a71c2ce9159218f68bd53902a3559ff8033232.ctv
-
-#720P
-#EXTINF:-1 group-title="🚴🏻 運動" tvg-logo="https://i.imgur.com/BZZyglC.png",astro Football
-https://stream1.freetv.fun/astro-football--v-1.ctv
-#EXTINF:-1 group-title="🚴🏻 運動" tvg-logo="https://i.imgur.com/BZZyglC.png",astro Football
-https://stream1.freetv.fun/fbfca06158f529857785784f5b6bf234988e3cb6a4bbd1820a282b3e4221e43e.ctv
+#EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",喜劇
+http://live.metshop.top/huya/11342423?cdn=alicdn
+#EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",蜘蛛俠
+http://live.metshop.top/huya/21059599?cdn=alicdn
+#EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",八點檔
+http://live.metshop.top/huya/880261?cdn=alicdn
+#1080P
+#EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",劉德華
+http://live.metshop.top/huya/11342424?cdn=alicdn
 
 
-#🎥 電影解說
+#📽️ 電影 | 解說
 ########################################################################
 #1080P
-#EXTINF:-1 group-title="🎥 電影解說" tvg-logo="",3說電影
+#EXTINF:-1 group-title="📽️ 電影 | 解說" tvg-logo="",3說電影
 https://stream1.freetv.fun/3shuo-dian-ying-1.ctv
-#EXTINF:-1 group-title="🎥 電影解說" tvg-logo="",3說電影
+#EXTINF:-1 group-title="📽️ 電影 | 解說" tvg-logo="",3說電影
 https://stream1.freetv.fun/c5a2f22ff0bb436d059bd549c693d5d96b0194cacca05be90b0815202ab6b291.ctv
 
 
-#🎥 鬥魚
+#📽️ 鬥魚
 ########################################################################
 #1080P
-#EXTINF:-1 group-title="🎥 鬥魚" tvg-logo="",懸疑MOVIE
+#EXTINF:-1 group-title="📽️ 鬥魚" tvg-logo="",懸疑MOVIE
 https://stream1.freetv.fun/xuan-yi-movie-1.ctv
-#EXTINF:-1 group-title="🎥 鬥魚" tvg-logo="",懸疑MOVIE
+#EXTINF:-1 group-title="📽️ 鬥魚" tvg-logo="",懸疑MOVIE
 https://stream1.freetv.fun/272beffed35f2cb7c974aeefa04c155e4a4d0e7e23d12c022b5d276a96ad2439.ctv
 
 #1080P
-#EXTINF:-1 group-title="🎥 鬥魚" tvg-logo="",77說電影
+#EXTINF:-1 group-title="📽️ 鬥魚" tvg-logo="",77說電影
 https://stream1.freetv.fun/677521f386e5b9b5318f82d38eade1e75f8c59ce97b660e912ea2e940dc088e7.ctv
 
-🎬 電影-中文
-########################################################################
-#720P
-#EXTINF:-1 group-title="🎬 電影-中文" tvg-logo="",喜劇
-http://live.metshop.top/huya/11342423?cdn=alicdn
-#EXTINF:-1 group-title="🎬 電影-中文" tvg-logo="",蜘蛛俠
-http://live.metshop.top/huya/21059599?cdn=alicdn
-#EXTINF:-1 group-title="🎬 電影-中文" tvg-logo="",八點檔
-http://live.metshop.top/huya/880261?cdn=alicdn
-#1080P
-#EXTINF:-1 group-title="🎬 電影-中文" tvg-logo="",劉德華
-http://live.metshop.top/huya/11342424?cdn=alicdn
+
 
 #韓國節目
 ########################################################################
@@ -2024,24 +2023,24 @@ https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#Adult
+#🔞 Adult
 ########################################################################
-#EXTINF:-1 group-title="Adult",Babes
+#EXTINF:-1 group-title="🔞 Adult",Babes
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Brazzers
+#EXTINF:-1 group-title="🔞 Adult",Brazzers
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Erox
+#EXTINF:-1 group-title="🔞 Adult",Erox
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Eroxxx
+#EXTINF:-1 group-title="🔞 Adult",Eroxxx
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Extasy
+#EXTINF:-1 group-title="🔞 Adult",Extasy
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Desire
+#EXTINF:-1 group-title="🔞 Adult",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Dorcel
+#EXTINF:-1 group-title="🔞 Adult",Dorcel
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Leo
+#EXTINF:-1 group-title="🔞 Adult",Leo
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult",Reality Kings
+#EXTINF:-1 group-title="🔞 Adult",Reality Kings
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
