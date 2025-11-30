@@ -38,6 +38,7 @@ https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-id="Colors Hindi",Colors Hindi
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-id="Zee Cinema",Zee Cinema
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-id="TV Alhijrah",TV Alhijrah
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-id="Cartoon Network",Cartoon Network
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-id="TV Ikim",TV Ikim
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-id="Suke TV",Suke TV
@@ -61,11 +62,15 @@ https://stream1.freetv.fun/3d34a41d483d768df850c1819df529f27a2003a76c52124e592c0
 
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
 https://stream1.freetv.fun/f68ad2bad48c4a0493d4cef84f2ccd83f82002110d02ed5ad8df4db95ba13056.ctv
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/V2jREQ5.png",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/V2jREQ5.png",Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.postimg.cc/rshG38zb/maahtv.png",Maah TV
@@ -75,13 +80,19 @@ https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/bK8UH9D.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/bK8UH9D.png",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/bK8UH9D.png",TV6
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8
 
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/7qehib0.png",Didik TV
+https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/7qehib0.png",Didik TV
 https://stream1.freetv.fun/2a978f96e3e3b7faeba9579c2936cddec1558209a2a4cd8eb643072afcfbd139.ctv
 
 #1080P
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Jkx9W88.png",八度空間
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Jkx9W88.png",八度空間
 http://cdn6.163189.xyz/163189/8tv
 #720P
@@ -89,6 +100,8 @@ http://cdn6.163189.xyz/163189/8tv
 http://php.jdshipin.com/smt.php?id=TV8
 
 #720P
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
+https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
 https://stream1.freetv.fun/e2aa33ca1b79ded0272a76edec67402ffaec0a2a1dc04f04baed6012d3502ce2.ctv
 
@@ -192,10 +205,15 @@ https://stream1.freetv.fun/tian-ying-jing-dian-2.ctv
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/1Xzxsgl.png",RTM Berita
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/1Xzxsgl.png",RTM Berita
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/skAiUxg.png",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/1pYYSu2.png",RTM Sukan
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-id="RTM Parlimen Dewan Rakyat",RTM Parlimen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-id="RTM Parlimen Dewan Negara",RTM Parlimen Dewan Negara
