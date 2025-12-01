@@ -61,13 +61,13 @@ https://stream1.freetv.fun/wwe-network-2.ctv
 
 
 
-
-
-
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
+https://live-ssar-02.tonton.com.my/1764619010/0x2bd37c0c82cb1be250e686916245316c673fd6d6a326abe5530b8a9440cb890e/stream-tv3/master_1080.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
+https://live-ssar-02.tonton.com.my/1764619010/0x2bd37c0c82cb1be250e686916245316c673fd6d6a326abe5530b8a9440cb890e/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10c3a44a157-41124f69-d345-4181-9420-2fb4f92a4ae7&category=all&did=d56784e8-2f1a-9a33-e63c-b5206509f841&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAACDhwkQb5FVj_6qD0yU21FXsX7d8aMpOWcefiiBg57yH2pasWDr7oyntBFwdX5J5oa6xCKMOqwjQG_00h_m6EZSNTbNxCAwIf6bmAsqhWO1BS3e9-YbEKwU4ZwuXEdZ2crh1MUzUCKMT2-v6AC7s1wt4ih6T8Mp0ByaPtwvQilrmE-hzjAL-NekvxWsF5MFshcs7KG1o82Utc97lFjg7iQ
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
 https://stream1.freetv.fun/f68ad2bad48c4a0493d4cef84f2ccd83f82002110d02ed5ad8df4db95ba13056.ctv
-
 
 
 #720P
@@ -83,11 +83,22 @@ https://stream1.freetv.fun/2a978f96e3e3b7faeba9579c2936cddec1558209a2a4cd8eb6430
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Jkx9W88.png",八度空間
+https://live-ssar-02.tonton.com.my/1764622864/0x40a38228a1e77f5ba8ece20c502cf907514a275f252a67cc2e0ef6641e0b27d1/stream-8tv/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02e2fe99cb3eff9bcf&bpkio_sessionid=10c3e5e81-236ae71f-51ce-454d-b704-c0ff1c1e6f20&category=all&did=d56784e8-2f1a-9a33-e63c-b5206509f841&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAACDhwkQb5FVj_6qD0yU21FXsX7d8aMpOWcefiiBg57yH2pasWDr7oyntBFwdX5J5oa6xCKMOqwjQG_00h_m6EZSNTbNxCAwIf6bmAsqhWO1BS3e9-YbEKwU4ZwuXEdZ2crh1MUzUCKMT2-v6AC7s1wt4ih6T8Mp0ByaPtwvQilrmE-hzjAL-NekvxWsF5MFshcs7KG1o82Utc97lFjg7iQ
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Jkx9W88.png",八度空間
 http://cdn6.163189.xyz/163189/8tv
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Jkx9W88.png",八度空間
 http://php.jdshipin.com/smt.php?id=TV8
 
+#1080P
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
+https://live-ssar-02.tonton.com.my/1764620591/0x1c8d72e1029f5e86b48c0a1439ecf7148f267010f73aae818530dc33038360b9/stream-tv9/master_1080.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
+https://live-ssar-02.tonton.com.my/1764622954/0x1c9239a9e6b396049f0f8b3c0a48b4d8c5f35d4b2c1ff029f95739ae09641554/stream-tv9/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5&bpkio_sessionid=10a3d46e139-c0672243-b86e-4199-bb06-cdd1d9284c4a&category=all&did=d56784e8-2f1a-9a33-e63c-b5206509f841&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAACDhwkQb5FVj_6qD0yU21FXsX7d8aMpOWcefiiBg57yH2pasWDr7oyntBFwdX5J5oa6xCKMOqwjQG_00h_m6EZSNTbNxCAwIf6bmAsqhWO1BS3e9-YbEKwU4ZwuXEdZ2crh1MUzUCKMT2-v6AC7s1wt4ih6T8Mp0ByaPtwvQilrmE-hzjAL-NekvxWsF5MFshcs7KG1o82Utc97lFjg7iQ
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
+https://live-ssar-02.tonton.com.my/1764620591/0x1c8d72e1029f5e86b48c0a1439ecf7148f267010f73aae818530dc33038360b9/stream-tv9/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5&bpkio_sessionid=10c3e46a139-2736fac9-2d6e-4c6e-85dc-4b43be07a751&category=all&did=d56784e8-2f1a-9a33-e63c-b5206509f841&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAACDhwkQb5FVj_6qD0yU21FXsX7d8aMpOWcefiiBg57yH2pasWDr7oyntBFwdX5J5oa6xCKMOqwjQG_00h_m6EZSNTbNxCAwIf6bmAsqhWO1BS3e9-YbEKwU4ZwuXEdZ2crh1MUzUCKMT2-v6AC7s1wt4ih6T8Mp0ByaPtwvQilrmE-hzjAL-NekvxWsF5MFshcs7KG1o82Utc97lFjg7iQ
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
+https://live-ssar-02.tonton.com.my/1764622016/0xfe59b6bf83eb4d5b4701a9bdcb8a2a37e3e930dbd6f1a85f80caad03c92dc785/stream-tv9/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5&bpkio_sessionid=10e3c46a139-055c61d4-bfbf-4345-ad04-c38745121f73&category=all&did=d56784e8-2f1a-9a33-e63c-b5206509f841&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAACDhwkQb5FVj_6qD0yU21FXsX7d8aMpOWcefiiBg57yH2pasWDr7oyntBFwdX5J5oa6xCKMOqwjQG_00h_m6EZSNTbNxCAwIf6bmAsqhWO1BS3e9-YbEKwU4ZwuXEdZ2crh1MUzUCKMT2-v6AC7s1wt4ih6T8Mp0ByaPtwvQilrmE-hzjAL-NekvxWsF5MFshcs7KG1o82Utc97lFjg7iQ
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
 https://stream1.freetv.fun/e2aa33ca1b79ded0272a76edec67402ffaec0a2a1dc04f04baed6012d3502ce2.ctv
@@ -127,6 +138,8 @@ https://stream1.freetv.fun/fa3efa35f211acc3f0449ab81f46b820fb32733818946a43cb8eb
 https://stream1.freetv.fun/bernama-news--v-1.ctv
 
 #1080P
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TVS_logo_%282024%29.png/330px-TVS_logo_%282024%29.png",TVS
+https://live-tvs.tvsarawak.my/live/tvs_1080p2628kbs/index.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TVS_logo_%282024%29.png/330px-TVS_logo_%282024%29.png",TVS
 https://live.mana2.my/TvS/tracks-v1a1/mono.m3u8?token=1764598450-bb932671299a48219e72a649d2cd0a3d-0-4a05d9be58f30ea13f8911a653e5e1fe&auth_key=1764598450-bb932671299a48219e72a649d2cd0a3d-0-d1a21aea34c10ed247dd6e0ae3ee3043
 
@@ -2260,4 +2273,3 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="🔞 Adult",Reality Kings
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-
