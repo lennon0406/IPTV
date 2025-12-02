@@ -41,34 +41,10 @@ https://stream1.freetv.fun/wwe-network-2.ctv
 
 
 
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/x90U1Bf.png",Awesome TV
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/otNIlhu.png",Boo
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/D2qNVZ7.png",CinemaWorld
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609082645830029_30.png",Colors Hindi
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/BqIVmN1.png",Drama Sangat
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/FwrIKox.png",Hello
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/rn2pgA8.png",PRIMEtime
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/AoA611C.png",Seri
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/oumX3Gn.png",SIAR
-
-
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/yTqdaN6.png",Sun TV
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/c7PJsNw.png",TA-DAA!
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/03/tvs-logo-reduced.png",TVS
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/KH9GuhQ.png",WowShop
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Ixoabqf.png",Unifi Sports
-
-
-
 
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
-https://live-ssar-02.tonton.com.my/1764619010/0x2bd37c0c82cb1be250e686916245316c673fd6d6a326abe5530b8a9440cb890e/stream-tv3/master_1080.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
-https://live-ssar-02.tonton.com.my/1764619010/0x2bd37c0c82cb1be250e686916245316c673fd6d6a326abe5530b8a9440cb890e/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10c3a44a157-41124f69-d345-4181-9420-2fb4f92a4ae7&category=all&did=d56784e8-2f1a-9a33-e63c-b5206509f841&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAACDhwkQb5FVj_6qD0yU21FXsX7d8aMpOWcefiiBg57yH2pasWDr7oyntBFwdX5J5oa6xCKMOqwjQG_00h_m6EZSNTbNxCAwIf6bmAsqhWO1BS3e9-YbEKwU4ZwuXEdZ2crh1MUzUCKMT2-v6AC7s1wt4ih6T8Mp0ByaPtwvQilrmE-hzjAL-NekvxWsF5MFshcs7KG1o82Utc97lFjg7iQ
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
 https://stream1.freetv.fun/f68ad2bad48c4a0493d4cef84f2ccd83f82002110d02ed5ad8df4db95ba13056.ctv
-
 
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg Asia
@@ -76,29 +52,17 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg Asia Event
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 
-
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/7qehib0.png",Didik TV
 https://stream1.freetv.fun/2a978f96e3e3b7faeba9579c2936cddec1558209a2a4cd8eb643072afcfbd139.ctv
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Jkx9W88.png",八度空間
-https://live-ssar-02.tonton.com.my/1764622864/0x40a38228a1e77f5ba8ece20c502cf907514a275f252a67cc2e0ef6641e0b27d1/stream-8tv/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02e2fe99cb3eff9bcf&bpkio_sessionid=10c3e5e81-236ae71f-51ce-454d-b704-c0ff1c1e6f20&category=all&did=d56784e8-2f1a-9a33-e63c-b5206509f841&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAACDhwkQb5FVj_6qD0yU21FXsX7d8aMpOWcefiiBg57yH2pasWDr7oyntBFwdX5J5oa6xCKMOqwjQG_00h_m6EZSNTbNxCAwIf6bmAsqhWO1BS3e9-YbEKwU4ZwuXEdZ2crh1MUzUCKMT2-v6AC7s1wt4ih6T8Mp0ByaPtwvQilrmE-hzjAL-NekvxWsF5MFshcs7KG1o82Utc97lFjg7iQ
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Jkx9W88.png",八度空間
 http://cdn6.163189.xyz/163189/8tv
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Jkx9W88.png",八度空間
 http://php.jdshipin.com/smt.php?id=TV8
 
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
-https://live-ssar-02.tonton.com.my/1764620591/0x1c8d72e1029f5e86b48c0a1439ecf7148f267010f73aae818530dc33038360b9/stream-tv9/master_1080.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
-https://live-ssar-02.tonton.com.my/1764622954/0x1c9239a9e6b396049f0f8b3c0a48b4d8c5f35d4b2c1ff029f95739ae09641554/stream-tv9/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5&bpkio_sessionid=10a3d46e139-c0672243-b86e-4199-bb06-cdd1d9284c4a&category=all&did=d56784e8-2f1a-9a33-e63c-b5206509f841&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAACDhwkQb5FVj_6qD0yU21FXsX7d8aMpOWcefiiBg57yH2pasWDr7oyntBFwdX5J5oa6xCKMOqwjQG_00h_m6EZSNTbNxCAwIf6bmAsqhWO1BS3e9-YbEKwU4ZwuXEdZ2crh1MUzUCKMT2-v6AC7s1wt4ih6T8Mp0ByaPtwvQilrmE-hzjAL-NekvxWsF5MFshcs7KG1o82Utc97lFjg7iQ
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
-https://live-ssar-02.tonton.com.my/1764620591/0x1c8d72e1029f5e86b48c0a1439ecf7148f267010f73aae818530dc33038360b9/stream-tv9/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5&bpkio_sessionid=10c3e46a139-2736fac9-2d6e-4c6e-85dc-4b43be07a751&category=all&did=d56784e8-2f1a-9a33-e63c-b5206509f841&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAACDhwkQb5FVj_6qD0yU21FXsX7d8aMpOWcefiiBg57yH2pasWDr7oyntBFwdX5J5oa6xCKMOqwjQG_00h_m6EZSNTbNxCAwIf6bmAsqhWO1BS3e9-YbEKwU4ZwuXEdZ2crh1MUzUCKMT2-v6AC7s1wt4ih6T8Mp0ByaPtwvQilrmE-hzjAL-NekvxWsF5MFshcs7KG1o82Utc97lFjg7iQ
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
-https://live-ssar-02.tonton.com.my/1764622016/0xfe59b6bf83eb4d5b4701a9bdcb8a2a37e3e930dbd6f1a85f80caad03c92dc785/stream-tv9/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5&bpkio_sessionid=10e3c46a139-055c61d4-bfbf-4345-ad04-c38745121f73&category=all&did=d56784e8-2f1a-9a33-e63c-b5206509f841&dnt=0&ifatype=sessionid&lot_auds&mm_sp&plt=web&ttd_uid2=A4AAACDhwkQb5FVj_6qD0yU21FXsX7d8aMpOWcefiiBg57yH2pasWDr7oyntBFwdX5J5oa6xCKMOqwjQG_00h_m6EZSNTbNxCAwIf6bmAsqhWO1BS3e9-YbEKwU4ZwuXEdZ2crh1MUzUCKMT2-v6AC7s1wt4ih6T8Mp0ByaPtwvQilrmE-hzjAL-NekvxWsF5MFshcs7KG1o82Utc97lFjg7iQ
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Krh1F8d.png",TV9
 https://stream1.freetv.fun/e2aa33ca1b79ded0272a76edec67402ffaec0a2a1dc04f04baed6012d3502ce2.ctv
@@ -127,98 +91,49 @@ https://proshls.wns.live/hls/stream.m3u8
 
 #🇲🇾 馬來西亞
 ########################################################################
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/x90U1Bf.png",Awesome TV
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/otNIlhu.png",Boo
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/D2qNVZ7.png",CinemaWorld
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609082645830029_30.png",Colors Hindi
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/BqIVmN1.png",Drama Sangat
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/FwrIKox.png",Hello
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/rn2pgA8.png",PRIMEtime
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/AoA611C.png",Seri
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/oumX3Gn.png",SIAR
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/yTqdaN6.png",Sun TV
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/c7PJsNw.png",TA-DAA!
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/03/tvs-logo-reduced.png",TVS
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/KH9GuhQ.png",WowShop
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Ixoabqf.png",Unifi Sports
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TVS_logo_%282024%29.png/330px-TVS_logo_%282024%29.png",TVS
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png",TV5 ENJOY TV
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/SfcZyqm.png",TaiwanPlus
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/xWglicB.png",cna
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euro News
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/hCwH3s0.png",Suke TV
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://static.wixstatic.com/media/2d0f62_0e21adf8bce04e5bb7a1d9960148fdc2~mv2.jpeg",BORNEO TV
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/8t9mdg9.png",NHK World
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT International
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera English
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera Arabic
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/X6JKNEE.png",TV Ikim
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/rKJjhv6.png",TV Alhijrah
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://www.usim.edu.my/wp-content/uploads/2016/04/USIMTV-LOGO.png",UsimTV
+
+
 #1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/skJjF4m.png",BERNAMA
-https://live.mana2.my/Bernama/tracks-v1a1/mono.m3u8?token=1764593645-f06ecf6b76a842e9ab7c805d9751abf6-0-122662d419f0528931eee9406178721e&auth_key=1764593645-f06ecf6b76a842e9ab7c805d9751abf6-0-79e121aa9d1121b2b2071fc9f22d8b35
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/skJjF4m.png",BERNAMA
-https://live.mana2.my/Bernama/tracks-v1a1/mono.m3u8?token=1764599035-167c82d1aabf4d6186d0c1024e60fb5e-0-62e0aeefd86e83e3213988f369b6b7b8&auth_key=1764599035-167c82d1aabf4d6186d0c1024e60fb5e-0-e34617e9128474684e5a6a53f70d4d3b
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/skJjF4m.png",BERNAMA
 https://stream1.freetv.fun/fa3efa35f211acc3f0449ab81f46b820fb32733818946a43cb8ebcef98ec17d4.ctv
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/skJjF4m.png",BERNAMA
 https://stream1.freetv.fun/bernama-news--v-1.ctv
 
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TVS_logo_%282024%29.png/330px-TVS_logo_%282024%29.png",TVS
-https://live-tvs.tvsarawak.my/live/tvs_1080p2628kbs/index.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TVS_logo_%282024%29.png/330px-TVS_logo_%282024%29.png",TVS
-https://live.mana2.my/TvS/tracks-v1a1/mono.m3u8?token=1764598450-bb932671299a48219e72a649d2cd0a3d-0-4a05d9be58f30ea13f8911a653e5e1fe&auth_key=1764598450-bb932671299a48219e72a649d2cd0a3d-0-d1a21aea34c10ed247dd6e0ae3ee3043
-
 #720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png",TV5 ENJOY TV
-https://live.mana2.my/Tv5/tracks-v1a1/mono.m3u8?token=1764598228-ebfee86caf7d48e1815b1bb4dbf7194a-0-0b4eefaad86da3c7e1f125908019edd1&auth_key=1764598228-ebfee86caf7d48e1815b1bb4dbf7194a-0-73b36b8a4a02316dfe60c7360e008658
-
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://www.tontonlive.com/images/channels/selangor_tv_malaysia.png",SelangorTV
-https://live.mana2.my/SelangorTv/tracks-v1a1/mono.m3u8?token=1764577025-c8263193d446430d910839ae9d82d548-0-cce5e33b887065170286146eac8fb642&auth_key=1764577025-c8263193d446430d910839ae9d82d548-0-054f12cf261b7a07a3e169db5599ee33
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://www.tontonlive.com/images/channels/selangor_tv_malaysia.png",SelangorTV
-https://live.mana2.my/SelangorTv/tracks-v1a1/mono.m3u8?token=1764600518-256ac5c4fa7b434ab404dd6e26dc9d56-0-3a8c31fa205a19c9aa81677176f4bfd7&auth_key=1764600518-256ac5c4fa7b434ab404dd6e26dc9d56-0-48cbb16eb0d8da91213facb4f845c7de
-#720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://www.tontonlive.com/images/channels/selangor_tv_malaysia.png",SelangorTV
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png",SelangorTV
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://www.tontonlive.com/images/channels/selangor_tv_malaysia.png",SelangorTV
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png",SelangorTV
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b2596000_slmsa.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/SfcZyqm.png",TaiwanPlus
-https://live.mana2.my/TaiwanPlus/tracks-v1a1/mono.m3u8?token=1764599930-bb7a97a018de44debc2a19aef415c8f7-0-0da311da03365d0ccd08597541e54db8&auth_key=1764599930-bb7a97a018de44debc2a19aef415c8f7-0-a8db189121b7288304038c5814e3c88a
-
-#720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
-https://live.mana2.my/Arirang/tracks-v1a1/mono.m3u8?token=1764599742-d3b88619ca454ff9b216d31a557d8e63-0-3f6b53499e3046fb55078ae316dd90d5&auth_key=1764599742-d3b88619ca454ff9b216d31a557d8e63-0-3050d4269080e165e096a13ae61df3e2
-
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/xWglicB.png",cna
-https://live.mana2.my/CNA/tracks-v1a1/mono.m3u8?token=1764599214-b27ba4a27ee04b5fb70837df6a894786-0-065829c8787196c15d152f34fc6f0a17&auth_key=1764599214-b27ba4a27ee04b5fb70837df6a894786-0-10bd7aee91ef3eb5f77733e078e6e2b0
-
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euro News
-https://live.mana2.my/EuroNews/tracks-v1a1/mono.m3u8?token=1764599601-612abb8d0b79455693ffd8dac18bdfd5-0-8f883fc75af783f9cd1e15ecfc9b2f71&auth_key=1764599601-612abb8d0b79455693ffd8dac18bdfd5-0-f88e30b08d76ce94994f914bc12478c2
-
-#720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/hCwH3s0.png",Suke TV
-https://live.mana2.my/SukeTv/tracks-v1a1/mono.m3u8?token=1764577008-701f59ac5be1415ba27409693d316143-0-9dae63a0eacab1dbf63b4d69a1a7c456&auth_key=1764577008-701f59ac5be1415ba27409693d316143-0-963290feda0bcd63c91edb6d58e8e24c
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/hCwH3s0.png",Suke TV
-https://live.mana2.my/SukeTv/tracks-v1a1/mono.m3u8?token=1764599127-fd7e6879cdff490497b90a301ef0972b-0-3e4c7ea93c70c331906494e7bee5bc29&auth_key=1764599127-fd7e6879cdff490497b90a301ef0972b-0-e3c303ef53dca1fb3ba1c77bf82797f0
-
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://static.wixstatic.com/media/2d0f62_0e21adf8bce04e5bb7a1d9960148fdc2~mv2.jpeg",BORNEO TV
-https://live.mana2.my/BorneoTv/tracks-v1a1/mono.m3u8?token=1764600691-5234ad3fe6f94be686255fcf79fd17b6-0-ffb6d0c984472f43db6e9b95870785e4&auth_key=1764600691-5234ad3fe6f94be686255fcf79fd17b6-0-96a3b1f9709834d225dbb16982932e01
-
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/8t9mdg9.png",NHK World
-https://live.mana2.my/NhkWorld/tracks-v1a1/mono.m3u8?token=1764600027-39778cf356e74cbf90f869e6416e21b7-0-346b5fe613bfaa017f8af9007608fe64&auth_key=1764600027-39778cf356e74cbf90f869e6416e21b7-0-42aaf9b17140733bec913db0fa63ce1d
-
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/8MRNFb9.png",DW
-https://live.mana2.my/DW/tracks-v1a1/mono.m3u8?token=1764600102-71fa6afb7f1a44d09a31a0cf0088b518-0-565c2bff645d72c1ef324603f1bdca72&auth_key=1764600102-71fa6afb7f1a44d09a31a0cf0088b518-0-e7a8e1c48414254e00d33395b56bcc79
-
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT International
-https://live.mana2.my/Rti/tracks-v1a1/mono.m3u8?token=1764600302-4c665c1d308c4f1b85343918d8133375-0-e1513b360a01d6afe1ea6bc6c3bf7f10&auth_key=1764600302-4c665c1d308c4f1b85343918d8133375-0-5bff6eda705a9193435c8a1a551d8f59
-
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera English
-https://live.mana2.my/AljazeeraEnglish/tracks-v1a1/mono.m3u8?token=1764599440-b235cd11f9cc4ec4ab912f0d7554d0cd-0-a2ab79bef7ab9f34774cc5437357c625&auth_key=1764599440-b235cd11f9cc4ec4ab912f0d7554d0cd-0-5641a8a5fe796b7d588f8580a0877e78
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera Arabic
-https://live.mana2.my/AljazeeraArabic/tracks-v1a1/mono.m3u8?token=1764600446-9bb26c1c107d4b418c89871af97b9295-0-f96bd04dc4986097c30a7056f59c787d&auth_key=1764600446-9bb26c1c107d4b418c89871af97b9295-0-ba4b13b838753d1461671731f3806ce8
-
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/X6JKNEE.png",TV Ikim
-https://live.mana2.my/TvIkim/tracks-v1a1/mono.m3u8?token=1764600626-3ef6f7f6b94247eb94f33b6974fa77b9-0-99f177b3a03a7c4eac7c9f2d6ea08a8f&auth_key=1764600626-3ef6f7f6b94247eb94f33b6974fa77b9-0-de4eb9631b79949dd5f3278f5f0fbc67
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/X6JKNEE.png",TV Ikim
-https://live.mana2.my/TvIkim/tracks-v1a1/mono.m3u8?token=1764577101-ced2c90abdd649a88f5fa6477cc94691-0-a987c48cc5f057ed74f3473ffc74ff87&auth_key=1764577101-ced2c90abdd649a88f5fa6477cc94691-0-18ab7d5d0a7d92d2852f73c370b11cab
-
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/rKJjhv6.png",TV Alhijrah
-https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1764593909-1e7d7f553db24da191788d3e136025cf-0-866cbda7f157982dfdc9f3a074663708&auth_key=1764593909-1e7d7f553db24da191788d3e136025cf-0-eb4a8a7ea056ffca55a47a24aacc2f18
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/rKJjhv6.png",TV Alhijrah
-https://live.mana2.my/TvAlhijrah/tracks-v1a1/mono.m3u8?token=1764598689-f8c1bd9f287149d096f06577f861695f-0-857f6c91e602385b88e5efe8e0115e9a&auth_key=1764598689-f8c1bd9f287149d096f06577f861695f-0-37612cfa68c9799503c5db96f8911040
-
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://www.usim.edu.my/wp-content/uploads/2016/04/USIMTV-LOGO.png",UsimTV
-https://live.mana2.my/UsimTV/tracks-v1a1/mono.m3u8?token=1764598019-d10be89aa0754c149c209c7a87403fd7-0-cac07e044ae1408f256bd45fe413990e&auth_key=1764598019-d10be89aa0754c149c209c7a87403fd7-0-824c1547cc97cc7d8f252f7acb453d4b
-
-
 
 
 #🇲🇾 馬來西亞 rtm
@@ -230,8 +145,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1
-https://live.mana2.my/Tv1/tracks-v1a1/mono.m3u8?token=1764597925-615c918389f84b189553af1efab8705d-0-c214e02fff74f94c57d239b169cce7bb&auth_key=1764597925-615c918389f84b189553af1efab8705d-0-38f3b28c9645a4b2f0ef61872a8ffee8
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/LGEdeyJ.png",TV2
@@ -240,8 +153,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/LGEdeyJ.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/LGEdeyJ.png",TV2
-https://live.mana2.my/Tv2/tracks-v1a1/mono.m3u8?token=1764597970-50ad32d178924addb32e0bb8049d7304-0-b14a397b82aab820afca451fdef9bd5a&auth_key=1764597970-50ad32d178924addb32e0bb8049d7304-0-5a430b020b4a89f7bca402a856d594a3
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/V2jREQ5.png",Okey
@@ -250,8 +161,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/V2jREQ5.png",Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/V2jREQ5.png",Okey
-https://live.mana2.my/TvOkey/tracks-v1a1/mono.m3u8?token=1764598994-83df499389514415b1fc5da702a8a3fb-0-f481f520412eb3d72739f0f357c818bc&auth_key=1764598994-83df499389514415b1fc5da702a8a3fb-0-cd16fee4329ee5ae8e6444b6b2e7c32b
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/1pYYSu2.png",RTM Sukan
@@ -260,8 +169,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?i
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/1pYYSu2.png",RTM Sukan
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/1pYYSu2.png",RTM Sukan
-https://live.mana2.my/SukanRtm/tracks-v1a1/mono.m3u8?token=1764598861-0323000d189d4035a7934e7951c4965e-0-c7228e55b0a5594bbe01ad0e70b04655&auth_key=1764598861-0323000d189d4035a7934e7951c4965e-0-5b63d7b902300fb70fbc103f5927b1b8
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/1Xzxsgl.png",RTM Berita
@@ -270,8 +177,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/1Xzxsgl.png",RTM Berita
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/1Xzxsgl.png",RTM Berita
-https://live.mana2.my/BeritaRtm/tracks-v1a1/mono.m3u8?token=1764598915-4bf605694b6b4f53aa3f2f11385c9d13-0-0689dfb82f5b0824cca4afd1210b1f53&auth_key=1764598915-4bf605694b6b4f53aa3f2f11385c9d13-0-a2fd3a7ab81cb22f45114599eda24ffa
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/bK8UH9D.png",TV6
@@ -281,11 +186,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/bK8UH9D.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/bK8UH9D.png",TV6
-https://live.mana2.my/Tv6/tracks-v1a1/mono.m3u8?token=1764598956-61c86925121449aea6f8d3b13630241a-0-79ccbf33a8caf051137b8ad7e405b919&auth_key=1764598956-61c86925121449aea6f8d3b13630241a-0-c2b17edb5ce151a0dbeb96187ae328c0
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/bK8UH9D.png",TV6
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8
 
-
+#1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png",RTM Parlimen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?id=7
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png",RTM Parlimen Dewan Rakyat
@@ -293,7 +196,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png",RTM Parlimen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 
-
+#1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png",RTM Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png",RTM Parlimen Dewan Negara
@@ -301,7 +204,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png",RTM Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 
-
+#1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/skAiUxg.png",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://i.imgur.com/skAiUxg.png",RTM ASEAN
@@ -314,8 +217,6 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://epg.pw/media/images/epg/2025/11/13/20251113030037807897_42.jpg",Roll
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://epg.pw/media/images/epg/2025/11/13/20251113030037807897_42.jpg",Roll
-https://d1sq2slp9afh7o.cloudfront.net/smil:roll/manifest.mpd
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://epg.pw/media/images/epg/2025/11/13/20251113030037807897_42.jpg",Roll
 https://stream1.freetv.fun/7800a2993b8300f0ec15bb3d01410220078c20af4158662907a7b6648bcb6ca2.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://epg.pw/media/images/epg/2025/11/13/20251113030037807897_42.jpg",Roll
@@ -341,13 +242,11 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/playlist.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg",Apetito
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/manifest.mpd
 
-
+#1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-lead-my.png",Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-lead-my.png",Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-lead-my.png",Lead
-https://d1sq2slp9afh7o.cloudfront.net/smil:lead/manifest.mpd
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-aura-my.png",Aura
@@ -379,7 +278,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg",JR.
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/manifest.mpd
-
 
 
 #🇲🇾 馬來西亞 astro
@@ -1101,11 +999,6 @@ http://51.89.166.17:3002/index.php?id=ctshd_twn
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/k4fhcPl.png",EBC 東森幼幼台
 http://51.89.166.17:3002/index.php?id=yoyo_twn
 
-
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/pFIMLsA.png",大立電視 ★
-http://www.dalitv.com.tw:4568/live/dali/index_5.m3u8
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/pFIMLsA.png",大立電視 ★
-http://www.dalitv.com.tw:4568/live/dali/index_3.m3u8
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/pFIMLsA.png",大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -1180,137 +1073,109 @@ https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
 #中國 | 央視
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
-http://153.0.169.80:888/hls/1/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
-http://171.116.249.77:9003/hls/1/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
-http://tvtj.jxwltx.com:8003/cctv1.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
-http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
 http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
 http://171.116.249.77:9003/hls/2/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
-http://153.0.169.80:888/hls/2/index.m3u8
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
 http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
-http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
 http://171.116.249.77:9003/hls/3/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
 http://tvtj.jxwltx.com:8003/cctv3.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
-http://153.0.169.80:888/hls/3/index.m3u8
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
 http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 中文國際
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 中文國際
 http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 中文國際
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 中文國際
 http://171.116.249.77:9003/hls/4/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 中文國際
-http://153.0.169.80:888/hls/4/index.m3u8
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 中文國際
 http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
 http://171.116.249.77:9003/hls/5/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
 http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
 http://tvtj.jxwltx.com:8003/cctv5.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
-http://153.0.169.80:888/hls/5/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 體育賽事
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 體育賽事
-http://171.116.249.77:9003/hls/6/index.m3u8
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 體育賽事
 http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
-http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
 http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
 http://171.116.249.77:9003/hls/7/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
 http://tvtj.jxwltx.com:8003/cctv6.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
-http://153.0.169.80:888/hls/6/index.m3u8
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
 http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
-http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
 http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
 http://171.116.249.77:9003/hls/8/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
-http://153.0.169.80:888/hls/7/index.m3u8
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
 http://api.kkitv.itv888.cn:8080/hls/3udggaszi1i/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
-http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
 http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
 http://171.116.249.77:9003/hls/9/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
 http://tvtj.jxwltx.com:8003/cctv8.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
-http://153.0.169.80:888/hls/8/index.m3u8
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
 http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
-http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
 http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
-http://153.0.169.80:888/hls/9/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
-http://171.116.249.77:9003/hls/10/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
-http://tvtj.jxwltx.com:8003/cctv9.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
 http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
@@ -1320,10 +1185,6 @@ http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
 http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
 http://171.116.249.77:9003/hls/11/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
-http://153.0.169.80:888/hls/10/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
-http://tvtj.jxwltx.com:8003/cctv10.m3u8
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
 http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
@@ -1333,10 +1194,6 @@ http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
 http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CjOWx7L.png",CCTV-11 戲曲
 http://api.kkitv.itv888.cn:8080/hls/og4kq4cnqm/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/CjOWx7L.png",CCTV-11 戲曲
-http://153.0.169.80:888/hls/11/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/CjOWx7L.png",CCTV-11 戲曲
-http://tvtj.jxwltx.com:8003/cctv11.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/3yTuiOM.png",CCTV-12 社會與法
@@ -1345,20 +1202,14 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 http://171.116.249.77:9003/hls/13/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/3yTuiOM.png",CCTV-12 社會與法
 http://api.kkitv.itv888.cn:8080/hls/nwfb31kwc3l/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/3yTuiOM.png",CCTV-12 社會與法
-http://153.0.169.80:888/hls/12/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
 http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
-http://153.0.169.80:888/hls/13/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視 (中國IPTV)" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
-http://171.116.249.77:9003/hls/14/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14 少兒
@@ -1410,6 +1261,8 @@ http://183.185.151.211:9003/hls/1/index.m3u8
 
 #🇨🇳 中國 | 衛視
 #1080P
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視 test
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
 http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
@@ -1432,6 +1285,8 @@ http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
 
 #1080P
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.postimg.cc/DZdGG2TD/hunantv.png",湖南衛視 test
+http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.postimg.cc/DZdGG2TD/hunantv.png",湖南衛視
 http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.postimg.cc/DZdGG2TD/hunantv.png",湖南衛視
@@ -1493,6 +1348,8 @@ http://tvtj.jxwltx.com:8003/neimenggu.m3u8
 http://api.kkitv.itv888.cn:8080/hls/5dqtpf3arun/index.m3u8
 
 #1080P
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/vsktAez.png",北京衛視 tesst
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/vsktAez.png",北京衛視
 http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/vsktAez.png",北京衛視
@@ -1633,6 +1490,8 @@ http://sh.lnott.top:880/dx101.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/AwBldBE.png",CHC 家庭影院
 
 #1080P
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CBN_Classic.png/250px-CBN_Classic.png",重溫經典 test
+http://38.75.136.137:98/gslb/dsdqbv/cwjd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CBN_Classic.png/250px-CBN_Classic.png",重溫經典
 http://38.75.136.137:98/gslb/dsdqbv/cwjd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CBN_Classic.png/250px-CBN_Classic.png",重溫經典
@@ -1742,15 +1601,10 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/ufH48jV.png",TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
-
-#EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/SDkiMvR.png",Sanskar TV ★
-https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index_5.m3u8
 #720P
 #EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/SDkiMvR.png",Sanskar TV
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
 
-#EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/40kNu1w.png",Satsang Web TV ★
-https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index_5.m3u8
 #720P
 #EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/40kNu1w.png",Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
