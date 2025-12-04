@@ -1,9 +1,137 @@
 #EXTM3U
+
+#1080P
+#EXTINF:-1 group-title="🇦🇫 Afghanistan" tvg-logo="https://i.imgur.com/yj8RNnG.png",AMC
+https://amchls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇦🇫 Afghanistan" tvg-logo="https://i.imgur.com/To7VnsA.png",Eslah TV
+https://eslahtvhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇦🇫 Afghanistan" tvg-logo="https://i.imgur.com/edGyj5H.png",Tamadon TV
+https://hls.tamadon.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇫🇮 Finland" tvg-logo="https://i.imgur.com/YteKXJy.png",Navahang TV
+https://hls.navahang.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.postimg.cc/vZWdM86g/afra-film.jpg",AFRA Film
+https://afrafhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.postimg.cc/0QqcjgXX/araxtv.png",arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://www.lyngsat.com/logo/tv/oo/oxir-tv.png",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.imgur.com/8AfAfZE.png",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://www.irtv.website/index_files/channels/avafamily.png",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://www.lyngsat.com/logo/tv/hh/homeplus.png",HomePlus
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.imgur.com/X38vWJ1.png",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.imgur.com/U4sKHWy.png",ITN TV
+https://itnhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png",FX 2
+https://toonixhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.postimg.cc/KvsfL3sM/goldstar.jpg",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.postimg.cc/3w2FPSrX/newflix.png",NewFlix
+https://newfhls.wns.live/hls/stream.m3u8
+
+
+#720P
+#EXTINF:-1 group-title="🇹🇷 Turkiye" tvg-logo="https://i.imgur.com/PexhKwp.png",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇹🇷 Turkiye" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+
+#1080P
+#EXTINF:-1 group-title="🇦🇪 United Arab Emirates" tvg-logo="https://www.irtv.website/index_files/channels/pmcroyale.png",PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://www.parsatv.com/index_files/channels/go2travel.png",Go2Travel
+https://go2thls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/CeMf68L.png",Go2Travel
+https://oitnhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.imgur.com/ixgcgZY.png",IraneFarda TV
+https://hls.iranfarda.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://www.parsatv.com/index_files/channels/kanaljadid.png",Kanal Jadid
+https://kjhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="" tvg-logo="",Channel ONE
+https://ch1hls.wns.live/hls/stream.m3u8
+
+
+#720P
+#EXTINF:-1 group-title="" tvg-logo="",TM TV
+https://hls.tmtv.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="" tvg-logo="",Pars TV
+https://parshls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Erfan_Halqeh_logo.png",Erfan Halgheh TV
+https://hls.erfanhalgheh.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇲🇾 Malaysia" tvg-logo="https://i.postimg.cc/rshG38zb/maahtv.png",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+
+
+
+
+
+
+
 #1080P
 #EXTINF:-1 group-title="1080P" tvg-id="Plus 8",Plus 8
 https://stream1.freetv.fun/a4ff58ef1c87be11dc5b78a17be6e841d60a4d92f61e0cdded3c566349c99702.ctv
-#EXTINF:-1 group-title="1080P" tvg-id="Plus 8",Plus 8
-https://stream1.freetv.fun/plus-8-1.ctv
 
 #EXTINF:-1 group-title="1080P" tvg-id="RacingMag",RacingMag
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
@@ -74,6 +202,12 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?nimblesessionid=108626435
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/X6JKNEE.png",TV Ikim
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+
+
+
+
+
 
 
 
@@ -406,10 +540,6 @@ http://php.jdshipin.com/smt.php?id=Celestial2
 https://stream1.freetv.fun/4fad3bfb96a651e17352754e147d85d129403a04c1879c35b9a9a0b09c663079.ctv
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg",天映經典頻道
 https://stream1.freetv.fun/543807bf61044897d834a8090d0736872c415b832c4bab02b361408456b24f2b.ctv
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg",天映經典頻道
-https://stream1.freetv.fun/tian-ying-jing-dian-12.ctv
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg",天映經典頻道
-https://stream1.freetv.fun/tian-ying-jing-dian-2.ctv
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://i.imgur.com/BZZyglC.png",astro Football
@@ -651,8 +781,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 明珠台",TVB 明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 明珠台",TVB 明珠台
-https://stream1.freetv.fun/ming-zhu-2.ctv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 明珠台",TVB 明珠台
 https://stream1.freetv.fun/ming-zhu-9.ctv
 
 #720P
@@ -664,10 +792,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 https://stream1.freetv.fun/9f3cc38c6035c8df21a7055aca8d449b14238eb1d6d3a5fb1d41cc47e2f4785f.ctv
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 娛樂新聞台",TVB 娛樂新聞台
 https://stream1.freetv.fun/d2e0ed204eedfb09cfab9b3b52b8650add49758c43cb81e502da46c6cbcf2a63.ctv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 娛樂新聞台",TVB 娛樂新聞台
-https://stream1.freetv.fun/tvbyu-le-xin-wen-6.ctv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 娛樂新聞台",TVB 娛樂新聞台
-https://stream1.freetv.fun/tvbyu-le-xin-wen-1.ctv
 
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 無綫新聞台",TVB 無綫新聞台
@@ -718,8 +842,6 @@ https://stream1.freetv.fun/tvbplus-6.ctv
 #720P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB PLUS",TVB PLUS
 https://stream1.freetv.fun/98f8d72ac1e36f0754f5ffbe2be02dc15727ab560b18903a36a7ad4655d931a3.ctv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB PLUS",TVB PLUS
-https://stream1.freetv.fun/tvbplus-3.ctv
 
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB J2",TVB J2 (字幕)
@@ -767,11 +889,7 @@ https://stream1.freetv.fun/viutv-12.ctv
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTV6
 http://hls.168.us.kg/u/96/master.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTV6
-https://stream1.freetv.fun/viu6tv-1.ctv
 #720P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTV6
-https://stream1.freetv.fun/viu6tv-2.ctv
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTV6
 https://stream1.freetv.fun/viutvsix-1.ctv
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTV6
@@ -810,8 +928,6 @@ http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.ctv
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="鳳凰衛視香港台",鳳凰衛視香港台
 https://stream1.freetv.fun/de73fec89305dacef19eafcb697172c30729dd00897cb0d30c80affbb3a582e9.ctv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="鳳凰衛視香港台",鳳凰衛視香港台
-https://stream1.freetv.fun/feng-huang-xiang-gang---wj-2.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="鳳凰衛視中文台",鳳凰衛視中文台
@@ -825,10 +941,6 @@ https://stream1.freetv.fun/e0c859ca201f3d03836f51e08e68b5d21c2f94462c3bc76860583
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="鳳凰衛視中文台",鳳凰衛視中文台
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="鳳凰衛視中文台",鳳凰衛視中文台
-https://stream1.freetv.fun/feng-huang-wei-shi---wj-2.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="鳳凰衛視中文台",鳳凰衛視中文台
-https://stream1.freetv.fun/feng-huang-zhong-wen---wj-2.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="鳳凰衛視資訊台",鳳凰衛視資訊台
@@ -848,10 +960,6 @@ https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff
 https://stream1.freetv.fun/6cb73e3cad873d275ae7399762214060046e7b08b051b249f8bdb95ec3fea2fc.ctv
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="鳳凰衛視資訊台",鳳凰衛視資訊台
 https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="鳳凰衛視資訊台",鳳凰衛視資訊台
-https://stream1.freetv.fun/feng-huang-zi-xun-11.ctv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="鳳凰衛視資訊台",鳳凰衛視資訊台
-https://stream1.freetv.fun/feng-huang-zi-xun-1.ctv
 
 #576P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/wCWizQL.png",鳳凰衛視電影台
@@ -869,9 +977,6 @@ http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 http://171.213.163.149:8000/udp/239.93.1.10:2193
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/B1aNrlL.png",星空衛視
 https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.ctv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/B1aNrlL.png",星空衛視
-https://stream1.freetv.fun/xing-kong-wei-shi-7.ctv
-
 
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="HOY 76",HOY 76
@@ -879,10 +984,8 @@ http://hls.168.us.kg/u/76/master.m3u8
 
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="HOY 77",HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="HOY 77",HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="HOY 77",HOY 77
 http://hls.168.us.kg/u/77/master.m3u8
 
@@ -907,12 +1010,6 @@ http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 https://stream1.freetv.fun/9bf369ba2735d74a70c88f6c3c6b3b47d32d51f8e786a4ec54ad43c82424e17d.ctv
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="港台電視32",港台電視32
 https://stream1.freetv.fun/bfda078a4914aa0805ec3b7dea6adc640852bad0f83ae920df3045a6d1dc018b.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="港台電視32",港台電視32
-https://stream1.freetv.fun/rthk-32-3.ctv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="港台電視32",港台電視32
-https://stream1.freetv.fun/rthk32--wj-1.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="港台電視32",港台電視32
-https://stream1.freetv.fun/rthk32--wj-2.m3u8
 
 #720P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="Asian Action",Asian Action
@@ -1023,7 +1120,6 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/4RvCHWP.png",TVBS
-https://stream1.freetv.fun/tvbs--wj-2.m3u8
 
 
 #720P
@@ -1178,6 +1274,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
 http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
+http://goo.bkpcp.top/mg/cctv7
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
 http://183.185.151.211:9003/hls/8/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
 http://171.116.249.77:9003/hls/8/index.m3u8
@@ -1242,6 +1340,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
 http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
+http://goo.bkpcp.top/mg/cctv13
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
 http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
 
 #1080P
@@ -1287,6 +1387,10 @@ http://tvtj.jxwltx.com:8003/cctv17.m3u8
 
 #🇨🇳 中國 | 衛視
 #1080P
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視 4K 超高清
+http://goo.bkpcp.top/mg/dfws
+
+#1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
 http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
@@ -1296,6 +1400,14 @@ http://183.185.151.211:9003/hls/23/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
 http://171.116.249.77:9003/hls/23/index.m3u8
 #720P
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
+http://cnlive.org/channel/5bdef3ac/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
+https://cdn.ryplay10.com/20250130/36137_74d8136b/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
+https://svipsvip.ffzyread1.com/20250130/35479_aa1ec909/index.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
+https://v.cdnlz21.com/20250130/5033_1ab50b18/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
 http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
 
@@ -1338,6 +1450,8 @@ http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8
 http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
 
 #1080P
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://www.tvchinese.net/uploads/tv/jscs.jpg",江蘇衛視
+http://goo.bkpcp.top/mg/jsws
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://www.tvchinese.net/uploads/tv/jscs.jpg",江蘇衛視
 http://171.116.249.77:9003/hls/35/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://www.tvchinese.net/uploads/tv/jscs.jpg",江蘇衛視
@@ -1487,6 +1601,8 @@ http://api.kkitv.itv888.cn:8080/hls/lcceocfdwh/index.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/j6kY8nh.png",海南衛視
+http://goo.bkpcp.top/mg/hinws
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/j6kY8nh.png",海南衛視
 http://171.116.249.77:9003/hls/28/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/j6kY8nh.png",海南衛視
 http://153.0.169.80:888/hls/14/index.m3u8
@@ -1518,14 +1634,24 @@ http://php.jdshipin.com:8880/xztv.php?id=ys
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",CGTN
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
+http://goo.bkpcp.top/mg/cgtnjl
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
 https://0472.org/hls/cgtnd.m3u8
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/AkFFrS7.png",CGTN العربية
+http://goo.bkpcp.top/mg/cgtna
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/AkFFrS7.png",CGTN العربية
 https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/nDWkCmL.png",CGTN Pусский
+http://goo.bkpcp.top/mg/cgtnr
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/nDWkCmL.png",CGTN Pусский
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/BwhledK.png",CGTN Français
+http://goo.bkpcp.top/mg/cgtnf
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/BwhledK.png",CGTN Français
 https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/Poz3xfi.png",CGTN Español
+http://goo.bkpcp.top/mg/cgtne
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/Poz3xfi.png",CGTN Español
 https://0472.org/hls/cgtnx.m3u8
 
@@ -1797,6 +1923,60 @@ https://live.ntdtv.com/cnlive900/playlist.m3u8
 
 #🇫🇷 法國		位于西欧，其首都为巴黎，并且拥有海外领地
 ########################################################################
+#Persiana
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianafamilytv.png",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianacinematv.png",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png",Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianakorea.png",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianavibe.png",Persiana Vibe
+https://raphls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianairaniantv.png",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianacomedytv.png",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianaplus.png",Persiana Plus
+https://euhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-docs-fr.png",Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianajunior.png",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-folk-fr.png",Persiana Folk
+https://sonhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persiananostalgiatv.png",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#1080P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.lyngsat.com/logo/tv/num/4-kurd-fr.png",Persiana 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianaturkiye.png",Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianareality.png",Persiana Reality
+https://twohls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianamedical.png",Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.postimg.cc/RF9L97qj/persiana-Travel.png",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+
+
 #1080P
 #EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="",Trends Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
@@ -1811,22 +1991,19 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 #EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5 Monde Seasie
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianaplus.png",Persiana+
-https://stream1.freetv.fun/persiana-plus-1.m3u8
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.irtv.website/index_files/channels/persianaplus.png",Persiana+
-https://stream1.freetv.fun/e8ef69df7ffe2b12fdb3f6d36bd02a47a4fab7a9a397439734b1cc75f426b611.m3u8
+
 
 #EXTINF:-1 group-title="🇫🇷 法國" tvg-id="Equidia",Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/ucTh9tO.png",FashionTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/ucTh9tO.png",FashionTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/ucTh9tO.png",FashionTV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/ucTh9tO.png",FashionTV
-http://80.94.54.42/fashiontv/stream/playlist.m3u8
+
 
 #🇳🇱 Netherlands荷蘭	位于欧洲西北部的低地国家
 ########################################################################
@@ -2144,25 +2321,25 @@ https://stream1.freetv.fun/astro-football--v-1.ctv
 https://stream1.freetv.fun/fbfca06158f529857785784f5b6bf234988e3cb6a4bbd1820a282b3e4221e43e.ctv
 
 
-#🎥 電影
+#🎥 電影 | 頻道
 ########################################################################
 #1080P
-#EXTINF:-1 group-title="🎥 電影" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
+#EXTINF:-1 group-title="🎥 電影 | 頻道" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
 https://stream1.freetv.fun/star-movies-select-1.ctv
-#EXTINF:-1 group-title="🎥 電影" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
+#EXTINF:-1 group-title="🎥 電影 | 頻道" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select ★
 https://stream1.freetv.fun/9cd3c174e2d8645c5a14e8b17746cb5701d822f3250603152f1550a013ab6e12.ctv
 
 #720P
-#EXTINF:-1 group-title="🎥 電影" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
+#EXTINF:-1 group-title="🎥 電影 | 頻道" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
-#EXTINF:-1 group-title="🎥 電影" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
+#EXTINF:-1 group-title="🎥 電影 | 頻道" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
 https://stream1.freetv.fun/a7a46db9f6f5cfc10be4a09951476eac042d49777940b5f355a0a4769e11ff06.m3u8
-#EXTINF:-1 group-title="🎥 電影" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
+#EXTINF:-1 group-title="🎥 電影 | 頻道" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
 https://stream1.freetv.fun/b2f5e3437bddb0e2626e49de3603da664e092c44a41bdde22afa493c12593ce1.m3u8
-#EXTINF:-1 group-title="🎥 電影" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
+#EXTINF:-1 group-title="🎥 電影 | 頻道" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
 https://stream1.freetv.fun/tvs-3.m3u8
 
-#EXTINF:-1 group-title="🎥 電影" tvg-id="Hi-YAH!",Hi-YAH!
+#EXTINF:-1 group-title="🎥 電影 | 頻道" tvg-id="Hi-YAH!",Hi-YAH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
 
@@ -2263,6 +2440,26 @@ https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #🔞 Adult
 ########################################################################
+#2160
+#EXTINF:-1 group-title="🔞 Adult 4K",Anal 4K
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12190/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult 4K",Cum4K UHD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12157/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult 4K",Eromania 4K
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/10049/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult 4K",Exotic 4K
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12107/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult 4K",Extasy 4K
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5014/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult 4K",Tiny 4K
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6258/index.m3u8
+
+
+#576
+#EXTINF:-1 group-title="🔞 Adult",Blue Hustler TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/1064/index.m3u8
+
+
 #EXTINF:-1 group-title="🔞 Adult",Babes
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="🔞 Adult",Brazzers
@@ -2281,3 +2478,474 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="🔞 Adult",Reality Kings
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="🔞 Adult",Playboy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Adult",JAPAN HDV
+http://7e401b76.rossteleccom.net/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6225/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="🔞 Adult edemist",VF Граиндхаус
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/14158/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Русская Ночь orig
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/9344/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Exxxotica HD orig
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/9346/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Eroxxx HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5015/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Playboy
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/527/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Ню Арт HD (18+)
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/31716/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Русская Ночь
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/147/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Brazzers TV Europe Россия
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/910/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Redlight HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/242/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Private TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/243/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Hustler HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/244/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dorcel TV HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/245/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Babes TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/2161/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Vivid Red HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/2162/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Exxxotica HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/2397/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",XXL
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5009/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Penthouse Passion HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5010/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Penthouse Gold HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5011/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Penthouse Reality TV HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5012/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Penthouse Reality TV FHD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5013/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",SexArt HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6165/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",PlayBoyz TV HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/31709/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Adult TV (18+)
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/31707/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Adult Time
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6166/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Anal Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6167/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Club Sweethearts HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6168/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Babes TV FHD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6171/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Babes TV HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6172/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Bang Bros HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6173/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Bang!
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6174/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Big Ass Adult TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6175/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Big Dick Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6176/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Big Tits Adult TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6177/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Blacked HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6178/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Blonde Adult TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6179/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Blowjob Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6180/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Brazzers eXXtra
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6181/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Brazzers HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6182/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Brunette Adult TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6183/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Cherry Pimps
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6185/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Club 17
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6186/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Compilation Adult TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6187/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Cuckold Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6188/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Cum Louder
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6189/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Daughter Swap
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6191/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Day with a Pornstar
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6192/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",DDF Busty
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6193/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",DDF Network
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6194/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Digital Desire HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6195/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Digital Playground HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6196/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dorcel Club
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6197/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dusk
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6198/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Evil Angel HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6199/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Evolved Fights
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6200/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Fake Taxi HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6202/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Fap TV Compilation
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6208/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",FemJoy
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6212/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Fetish Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6213/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Gangbang Adult TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6214/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Gay Adult TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6215/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Got MYLF
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6216/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",DDF Hands on Hardcore
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6217/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Hard X
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6218/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Hardcore Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6219/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Hitzefrei HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6220/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Holed
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6221/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Hot and Mean
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6222/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Hot Guys Fuck
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6223/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Interracial Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6224/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Japan HDV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6225/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Latina Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6226/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Lesbea
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6227/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Lesbian Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6228/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Lethal Hardcore
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6229/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Little Asians HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6230/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Live Cams Adult TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6231/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Lust Cinema
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6232/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",MetArt HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6233/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",MILF Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6234/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Monsters of Cock
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6235/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",MYLF TV HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6236/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Naughty America
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6237/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Nubiles TV HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6238/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Pink Erotic 3
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6240/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Pink Erotic 4
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6241/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Playboy Plus
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Pornstar Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6243/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",POV Adult TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6244/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Private.com HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6245/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Public Agent
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6246/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Reality Kings HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6247/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",RK Prime
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6248/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",RK TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6249/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Rough Adult TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6250/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Russian Adult TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6251/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Sex With Muslims
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6252/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",SexArt
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6253/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",SINematica
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6255/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Teen Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6256/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Threesome Red TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6257/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Trans Angels
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6259/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",True Amateurs
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6260/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Tushy HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6261/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Tushy RAW HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6262/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Visit-X TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6263/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Vivid TV Europe
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6264/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Vixen HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6265/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",We Live Together
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6266/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",White Boxxx
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6267/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Wicked
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6268/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Xpanded TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6269/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Balkan Erotic
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6270/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Red Lips
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6271/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Leo TV HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6272/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Extreme
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6273/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Fast Boyz
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6274/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",HOT
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6275/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",HOT XXL HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6276/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Hot Pleasure
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6277/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Playboy LA
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6280/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Red XXX
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6281/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Sexy Hot
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6282/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Venus
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6284/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",X-MO
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6285/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",XY Max HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6286/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",XY Mix HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6287/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",XY Plus HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6288/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Erotic
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6289/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Erotic 2
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6290/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Erotic 3
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6291/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Erotic 4
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6292/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Erotic 6
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6293/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Erotic 7
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6294/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Erotic 8
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6295/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Erox HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6296/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",SuperOne HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6298/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dorcel TV HD orig
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/9064/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Hustler HD orig
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/9065/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Redlight HD orig
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/9066/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Extasy TV HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/11051/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",KinoXXX
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/11052/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",ОХ-АХ HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/11068/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",VF Cartoon 18+
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/11117/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Alba XXX 1
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12106/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Euro Girls On Girls
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12108/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Erotica X
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12109/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Erotic Spice
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12110/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",DP Fanatics
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12111/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",PURE BABES
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12112/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Brazzers TV Europe HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12113/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",XY Plus 1
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12115/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",XY Plus 2
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12116/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",XY Plus 6
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12117/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",XY Plus 12
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12118/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",XY Plus 24
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12119/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Passion XXX
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12120/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",SuperOne
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12121/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dirty Wives Club
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12122/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",French Lover
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12124/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Meiden Van Holland
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12125/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dirty Masseur
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12128/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dirty Flix
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12130/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dorcel TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12131/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dorcel XXX
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12132/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Venus HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12133/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Playboy TV Europe HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12135/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Passie XXX TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12136/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Devils Film HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12137/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Deep Throat Sirens
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12138/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Deep Lush
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12139/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dark X
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12140/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",VERAPORN GROUP SEX
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12141/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",VERAPORN GROUP SEX 2
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12142/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dane Jones
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12143/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dancing Bear
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12144/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",VERAPORN BIG TITS
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12145/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",PINK EROTICA 1
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12146/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",PINK EROTICA 2
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12147/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",PINK EROTICA 3
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12148/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",PINK EROTICA 4
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12149/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",PINK EROTICA 5
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12150/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",PINK EROTICA 6
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12151/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",PINK EROTICA 7
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12152/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",PINK EROTICA 8
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12153/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Dad Crush
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12154/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Family Swap
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12155/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Family Strokes
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12156/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Cum Perfection
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12158/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",MetArt FHD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12160/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Bratty Sis
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12161/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Brand New Amateurs
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12162/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Beate Uhse
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12163/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",BBC Pie
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12164/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Barely Legal TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12165/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Bang POV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12166/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Bang Bus
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12167/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Banana Fever
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12168/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Asshole Fever
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12169/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",BANG U
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12170/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",XXXINTERRACIAL TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12171/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",LATINA TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12172/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",MILF TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12173/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",PORNSTAR TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12174/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",POV TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12175/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",ROUGH TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12176/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",RUSSIAN TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12177/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Ass Parade
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12178/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",THREESOME TV
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12180/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Anal Time
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12181/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Anal Teen Angels
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12183/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Anal Only
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12184/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Hot Wife XXX
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12187/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Tushy
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12188/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Anal Mom
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12189/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Amateur Boxxx
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12191/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",All Anal
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12192/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Alex Legend
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12193/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Alba XXX 2 HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12194/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Alba XXX 1 HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12204/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",21 Sextury
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12205/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",XXX Love\'s Berry HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/14140/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Yosso TV Sexy
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/14176/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Liberty Эротика FHD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/16069/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Kinoshka Adult HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/18060/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Tviksel Кино 18+ HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/18075/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",Tviksel Кино 18+ International
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/18076/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",BCU Charm HD
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/18053/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",CineMan ExExEx
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/20089/index.m3u8
+#EXTINF:-1 group-title="🔞 Adult edemist",CineMan ExExEx TWO
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/20090/index.m3u8
