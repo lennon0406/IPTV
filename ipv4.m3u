@@ -1,132 +1,178 @@
 #EXTM3U
 
-#1080P
-#EXTINF:-1 group-title="🇦🇫 Afghanistan" tvg-logo="https://i.imgur.com/yj8RNnG.png",AMC
-https://amchls.wns.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇮🇩 Indonesia" tvg-logo="https://i.imgur.com/pI76ufZ.png",Dunia Anak
+http://smart.cityq.xyz:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
+
+#540P
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",CNN
+http://smart.cityq.xyz:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 
 #720P
-#EXTINF:-1 group-title="🇦🇫 Afghanistan" tvg-logo="https://i.imgur.com/To7VnsA.png",Eslah TV
-https://eslahtvhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇦🇫 Afghanistan" tvg-logo="https://i.imgur.com/edGyj5H.png",Tamadon TV
-https://hls.tamadon.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇫🇮 Finland" tvg-logo="https://i.imgur.com/YteKXJy.png",Navahang TV
-https://hls.navahang.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.postimg.cc/vZWdM86g/afra-film.jpg",AFRA Film
-https://afrafhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.postimg.cc/0QqcjgXX/araxtv.png",arax TV
-https://araxhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://www.lyngsat.com/logo/tv/oo/oxir-tv.png",OXIR TV
-https://hls.oxir.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.imgur.com/8AfAfZE.png",AVA Series
-https://avaserieshls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="",Cafe Film
-https://cafefhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",Cafe Trade TV
-https://cafetradehls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://www.irtv.website/index_files/channels/avafamily.png",AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://www.lyngsat.com/logo/tv/hh/homeplus.png",HomePlus
-https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",ABC News Live
+http://smart.cityq.xyz:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 
 #1080P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.imgur.com/X38vWJ1.png",YourTime TV
-https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/250px-2018_Animal_Planet_logo.svg.png",Animal Planet
+http://smart.cityq.xyz:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+#1080P
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://www.beyondgroup.com.tw/userfiles/images/%E5%8B%95%E7%89%A9%E6%98%9F%E7%90%83logo.png",動物星球
+http://smart.cityq.xyz:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
 
 #720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.imgur.com/U4sKHWy.png",ITN TV
-https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/Asu5pE9.png",arirang
+http://smart.cityq.xyz:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+
+#1080P
+#EXTINF:-1 group-title="🇲🇾 Malaysia" tvg-logo="https://i.imgur.com/QtsG3ra.png",astro Premier League 2
+http://smart.cityq.xyz:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
+
+#1080P
+#EXTINF:-1 group-title="🇲🇾 Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",AXN
+http://smart.cityq.xyz:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
+#EXTINF:-1 group-title="🇲🇾 Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",AXN
+http://smart.cityq.xyz:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
 
 #720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png",FX 2
-https://toonixhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",Meta Film TV
-https://metafilmhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.postimg.cc/KvsfL3sM/goldstar.jpg",Gold Star
-https://moviethls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 Iran" tvg-logo="https://i.postimg.cc/3w2FPSrX/newflix.png",NewFlix
-https://newfhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇲🇾 Malaysia" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609105315486342_76.png",astro Awani
+http://smart.cityq.xyz:8278/Awani/playlist.m3u8?tid=MADA3704315537043155&ct=19254&tsum=b13ed0c5ea09f584d34097329df9150b
+#EXTINF:-1 group-title="🇲🇾 Malaysia" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609105315486342_76.png",astro Awani
+http://smart.cityq.xyz:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
 
 
 #720P
-#EXTINF:-1 group-title="🇹🇷 Turkiye" tvg-logo="https://i.imgur.com/PexhKwp.png",4U TV
-https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇲🇾 Malaysia" tvg-logo="https://i.imgur.com/Mb5ssnu.png",天映頻道
+http://smart.cityq.xyz:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
 
 #720P
-#EXTINF:-1 group-title="🇹🇷 Turkiye" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",Grand Cinema
-https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",AXN
+http://smart.cityq.xyz:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",AXN
+http://smart.cityq.xyz:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",AXN
+http://smart.cityq.xyz:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",AXN
+https://tv.ddns.vn/tv/axnhd/index.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/En2sLlW.png",DMAX
+http://smart.cityq.xyz:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+
+#1080P
+#EXTINF:-1 group-title="🇲🇾 Malaysia" tvg-logo="https://epg.pw/media/images/epg/2025/07/22/20250722024717678527_83.png",astro Grandstand
+http://smart.cityq.xyz:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
+
+#1080P
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/GTV_One_logo_2018_01.png",GTV 八大第1台
+http://smart.cityq.xyz:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/GTV_One_logo_2018_01.png",GTV 八大第1台
+http://smart.cityq.xyz:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+
+#1080P
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png",GTV 八大戲劇台
+http://smart.cityq.xyz:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png",GTV 八大戲劇台
+http://smart.cityq.xyz:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+
+#1080P
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/GTV_Variety_logo_2018.png",GTV 八大綜合台
+http://smart.cityq.xyz:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/GTV_Variety_logo_2018.png",GTV 八大綜合台
+http://smart.cityq.xyz:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
+
+#1080P
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/9aRW2dy.png",龍祥時代
+http://smart.cityq.xyz:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+
+
 
 
 #1080P
-#EXTINF:-1 group-title="🇦🇪 United Arab Emirates" tvg-logo="https://www.irtv.website/index_files/channels/pmcroyale.png",PMC Royale
-https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/c8crJfA.png",Cinemax
+http://smart.cityq.xyz:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/c8crJfA.png",Cinemax
+http://smart.cityq.xyz:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/c8crJfA.png",Cinemax
+http://smart.cityq.xyz:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+
 
 #720P
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://www.parsatv.com/index_files/channels/go2travel.png",Go2Travel
-https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",cti 中天新聞台
+http://smart.cityq.xyz:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",cti 中天新聞台
+http://smart.cityq.xyz:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",cti 中天新聞台
+http://smart.cityq.xyz:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
+
+#1080P
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/FLzDLMv.png",cti 中天娛樂台
+http://smart.cityq.xyz:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/FLzDLMv.png",cti 中天娛樂台
+http://smart.cityq.xyz:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+
+
+#1080P
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/tqsKObw.png",cti 中天綜合台
+http://smart.cityq.xyz:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/tqsKObw.png",cti 中天綜合台
+http://smart.cityq.xyz:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
+
+
 
 #720P
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/CeMf68L.png",Go2Travel
-https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/q8ahtbT.png",FTV 民視
+http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ff/ftv-tw.png",FTV 民視
+http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ff/ftv-tw.png",FTV 民視
+http://smart.cityq.xyz:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
+
 
 #720P
-#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.imgur.com/ixgcgZY.png",IraneFarda TV
-https://hls.iranfarda.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/j9Gebr5.png",FTV 民視新聞台
+http://smart.cityq.xyz:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+
+
 
 #720P
-#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://www.parsatv.com/index_files/channels/kanaljadid.png",Kanal Jadid
-https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/p108I5g.png",FTV 民視台灣台
+http://smart.cityq.xyz:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/p108I5g.png",FTV 民視台灣台
+http://smart.cityq.xyz:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/p108I5g.png",FTV 民視台灣台
+http://smart.cityq.xyz:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+
+#720P
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/laGiFM1.png",美亞電影台
+http://smart.cityq.xyz:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/laGiFM1.png",美亞電影台
+http://smart.cityq.xyz:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/laGiFM1.png",美亞電影台
+http://smart.cityq.xyz:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+#EXTINF:-1 group-title="🇹🇼 Taiwan" tvg-logo="https://i.imgur.com/laGiFM1.png",美亞電影台
+http://smart.cityq.xyz:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+
+
+
+
+
+
 
 #720P
 #EXTINF:-1 group-title="" tvg-logo="",Channel ONE
 https://ch1hls.wns.live/hls/stream.m3u8
 
+#720P
+#EXTINF:-1 group-title="" tvg-logo="",Classic TV
+https://scbhls.wns.live/hls/stream.m3u8
 
 #720P
-#EXTINF:-1 group-title="" tvg-logo="",TM TV
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tmlive.tv/wp-content/uploads/2018/07/immigration-consultants-network-en-.png",TM TV
 https://hls.tmtv.live/hls/stream.m3u8
 
 #720P
-#EXTINF:-1 group-title="" tvg-logo="",Pars TV
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/RQ5DzEE.png",Pars TV
 https://parshls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Erfan_Halqeh_logo.png",Erfan Halgheh TV
-https://hls.erfanhalgheh.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇲🇾 Malaysia" tvg-logo="https://i.postimg.cc/rshG38zb/maahtv.png",Maah TV
-https://hls.maahtv.live/hls/stream.m3u8
-
-
-
-
-
 
 
 #1080P
@@ -154,15 +200,7 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="720P" tvg-id="AR",AR
 https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8
 
-#1080P
-#EXTINF:-1 group-title="🇺🇸 United States美國" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
-https://stream1.freetv.fun/5ac5b2e068dd68fcb6e63b83f81f39359d76d7c7ff6c1aca39e94c1acca37a53.ctv
-#EXTINF:-1 group-title="🇺🇸 United States美國" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
-https://stream1.freetv.fun/f6ccad46310e9e69a603a21f31e25be4e7abe7733aaeb73b39526769fef59c0e.ctv
-#EXTINF:-1 group-title="🇺🇸 United States美國" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
-https://stream1.freetv.fun/wwe-network-3.ctv
-#EXTINF:-1 group-title="🇺🇸 United States美國" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
-https://stream1.freetv.fun/wwe-network-2.ctv
+
 
 
 	
@@ -204,7 +242,9 @@ https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?nimbl
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 
-
+#720P
+#EXTINF:-1 group-title="🇲🇾 Malaysia" tvg-logo="https://i.postimg.cc/rshG38zb/maahtv.png",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
 
 
 
@@ -579,8 +619,7 @@ https://stream1.freetv.fun/w-sports--v-1.ctv
 #🇲🇾 馬來西亞 astro TVB
 ########################################################################
 #720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="TVB 翡翠台",TVB 翡翠台 TEST
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="TVB 翡翠台",astro TVB 翡翠台 (華語)
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="TVB 翡翠台",astro TVB 翡翠台 (華語)
@@ -720,6 +759,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 #720P
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-id="TVB 翡翠台",TVB 翡翠台 TEST
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="TVB 翡翠台",TVB 翡翠台 (字幕)
@@ -1401,8 +1442,6 @@ http://183.185.151.211:9003/hls/23/index.m3u8
 http://171.116.249.77:9003/hls/23/index.m3u8
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
-http://cnlive.org/channel/5bdef3ac/index.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
 https://cdn.ryplay10.com/20250130/36137_74d8136b/index.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
 https://svipsvip.ffzyread1.com/20250130/35479_aa1ec909/index.m3u8
@@ -1730,7 +1769,7 @@ http://php.jdshipin.com:8880/hntv.php?id=wspd
 http://php.jdshipin.com:8880/hntv.php?id=wwbk
 
 
-🇰🇷 South Korea 韓國		位於東亞的朝鮮半島南部
+🇰🇷 South Korea 韓國	位於東亞的朝鮮半島南部
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
@@ -1902,6 +1941,21 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/VwAMqA7.png",INFAST
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 
+#720P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://www.parsatv.com/index_files/channels/go2travel.png",Go2Travel
+https://go2thls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/CeMf68L.png",Omid e Iran TV
+https://oitnhls.wns.live/hls/stream.m3u8
+
+#540P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
+http://205.185.120.57:8081/channel/1bd5436d/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
+http://smart.cityq.xyz:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
+
+
 #1080P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-id="TVB J1",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -1976,7 +2030,6 @@ https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.postimg.cc/RF9L97qj/persiana-Travel.png",Persiana Travel
 https://ptravelhls.persiana.live/hls/stream.m3u8
 
-
 #1080P
 #EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="",Trends Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
@@ -1992,7 +2045,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
 
-
 #EXTINF:-1 group-title="🇫🇷 法國" tvg-id="Equidia",Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 
@@ -2004,6 +2056,21 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/ucTh9tO.png",FashionTV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
+#🇬🇧 United Kingdom 英國		位於西歐並具有海外領地的主權國家
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://i.imgur.com/ixgcgZY.png",IraneFarda TV
+https://hls.iranfarda.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://www.parsatv.com/index_files/channels/kanaljadid.png",Kanal Jadid
+https://kjhls.wns.live/hls/stream.m3u8
+
+#🇫🇮 Finland 芬蘭		位於歐洲北部的國家，也是北歐五國之一
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇫🇮 芬蘭" tvg-logo="https://i.imgur.com/YteKXJy.png",Navahang TV
+https://hls.navahang.live/hls/stream.m3u8
 
 #🇳🇱 Netherlands荷蘭	位于欧洲西北部的低地国家
 ########################################################################
@@ -2049,6 +2116,26 @@ https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="",Trends Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 
+#🇲🇨 Monaco 摩納哥		位于欧洲法国的东南部沿海地区
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇲🇨 摩納哥" tvg-logo="https://i.imgur.com/cgjgjE1.png",Superyacht TV
+https://sy.wns.live/hls/stream.m3u8
+
+#🇦🇫 Afghanistan 阿富汗		位于亚洲中南部的内陆国家
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇦🇫 阿富汗" tvg-logo="https://i.imgur.com/yj8RNnG.png",AMC
+https://amchls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇦🇫 阿富汗" tvg-logo="https://i.imgur.com/To7VnsA.png",Eslah TV
+https://eslahtvhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇦🇫 阿富汗" tvg-logo="https://i.imgur.com/edGyj5H.png",Tamadon TV
+https://hls.tamadon.live/hls/stream.m3u8
+
 
 #🇩🇪 德國
 ########################################################################
@@ -2056,7 +2143,7 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 #EXTINF:-1 group-title="🇩🇪 德國" tvg-id="DW",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#🇨🇦 Canada加拿大		位于北美洲北部
+#🇨🇦 Canada 加拿大		位于北美洲北部
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://i.imgur.com/jhVjkQB.png",Noovo Comédies Home
@@ -2081,24 +2168,16 @@ https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
+#720P
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Erfan_Halqeh_logo.png",Erfan Halgheh TV
+https://hls.erfanhalgheh.live/hls/stream.m3u8
+
 #🇯🇵 日本
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇯🇵 日本" tvg-id="NHK World Premium",NHK World Premium ★
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
-#🇹🇷 Turkiye 土耳其
-########################################################################
-#720P
-#EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://i.imgur.com/PexhKwp.png",4U TV
-https://hls.4utv.live/hls/stream.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇹🇷 土耳其" tvg-id="360",360
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 土耳其" tvg-id="TMB",TMB ★
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
 
 #墨西哥
 ########################################################################
@@ -2122,21 +2201,114 @@ https://stream1.freetv.fun/b2f5e3437bddb0e2626e49de3603da664e092c44a41bdde22afa4
 #EXTINF:-1 group-title="🇩🇴 多明尼加" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
 https://stream1.freetv.fun/tvs-3.m3u8
 
-#🇮🇷 Iran伊朗		位於亞洲西南方之中東地區，屬西亞
-########################################################################
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/0QqcjgXX/araxtv.png",arax TV
-https://stream1.freetv.fun/abc9f74fe88f7310572d44db13c4e40e388b108f11f4cd698a6d79d5e825e9e7.m3u8
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/0QqcjgXX/araxtv.png",arax TV
-https://stream1.freetv.fun/arax-tv-1.m3u8
-
 #🇦🇪 United Arab Emirates 阿聯酋		位于亚洲西南部、阿拉伯半岛东南的一个联邦制君主国
 ########################################################################
+#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.imgur.com/H2TTn7t.png",Dubai Racing
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.imgur.com/H2TTn7t.png",Dubai Racing 2
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.imgur.com/Vg4fxmc.png",Dubai Racing 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.imgur.com/Poxw8lG.png",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b3000000.m3u8
 #1080P
-#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.imgur.com/PbENHJw.png",Dubai Sports 2
+#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.postimg.cc/qRHqQ87Z/dubaisports2.png",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.postimg.cc/qRHqQ87Z/dubaisports2.png",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.imgur.com/PbENHJw.png",Dubai Sports 3
+
+#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.postimg.cc/hj8jYfz4/dubaisports3.png",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.postimg.cc/hj8jYfz4/dubaisports3.png",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://www.irtv.website/index_files/channels/pmcroyale.png",PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+
+#🇹🇷 Turkiye 土耳其		亚洲的小亚细亚半岛
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://i.imgur.com/PexhKwp.png",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇹🇷 土耳其" tvg-id="360",360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 土耳其" tvg-id="TMB",TMB ★
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
+
+
+#🇮🇷 Iran 伊朗		位於亞洲西南方之中東地區，屬西亞
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/vZWdM86g/afra-film.jpg",AFRA Film
+https://afrafhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/0QqcjgXX/araxtv.png",arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/oo/oxir-tv.png",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/U4sKHWy.png",ITN TV
+https://itnhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png",FX 2
+https://toonixhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/8AfAfZE.png",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.irtv.website/index_files/channels/avafamily.png",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/n9cuM2W.jpg",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/BVuUx5R.jpg",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/KvsfL3sM/goldstar.jpg",GOLD STAR
+https://moviethls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/3w2FPSrX/newflix.png",NEWFLIX
+https://newfhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/hh/homeplus.png",HomePlus
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/X38vWJ1.png",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
+
 
 #🇦🇿 阿塞拜疆
 ########################################################################
@@ -2366,16 +2538,16 @@ https://stream1.freetv.fun/3shuo-dian-ying-1.ctv
 https://stream1.freetv.fun/c5a2f22ff0bb436d059bd549c693d5d96b0194cacca05be90b0815202ab6b291.ctv
 
 
-#📽️ 鬥魚
+#📽️ 電影 | 鬥魚
 ########################################################################
 #1080P
-#EXTINF:-1 group-title="📽️ 鬥魚" tvg-logo="",懸疑MOVIE
+#EXTINF:-1 group-title="📽️ 電影 | 鬥魚" tvg-logo="",懸疑MOVIE
 https://stream1.freetv.fun/xuan-yi-movie-1.ctv
-#EXTINF:-1 group-title="📽️ 鬥魚" tvg-logo="",懸疑MOVIE
+#EXTINF:-1 group-title="📽️ 電影 | 鬥魚" tvg-logo="",懸疑MOVIE
 https://stream1.freetv.fun/272beffed35f2cb7c974aeefa04c155e4a4d0e7e23d12c022b5d276a96ad2439.ctv
 
 #1080P
-#EXTINF:-1 group-title="📽️ 鬥魚" tvg-logo="",77說電影
+#EXTINF:-1 group-title="📽️ 電影 | 鬥魚" tvg-logo="",77說電影
 https://stream1.freetv.fun/677521f386e5b9b5318f82d38eade1e75f8c59ce97b660e912ea2e940dc088e7.ctv
 
 
