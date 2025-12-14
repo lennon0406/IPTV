@@ -1319,55 +1319,55 @@ https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
 ########################################################################
 #🇨🇳 中國 | 央視
 #1080P
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-1.png",CCTV-1 綜合
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-1.png",CCTV-1 綜合
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-2.png",CCTV-2 財經
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-2.png",CCTV-2 財經
 http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-3.png",CCTV-3 綜藝
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-3.png",CCTV-3 綜藝
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png",CCTV-4 中文國際
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png",CCTV-4 中文國際
 http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E6%AC%A7%E6%B4%B2.png",CCTV-4 中文國際 歐洲
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E6%AC%A7%E6%B4%B2.png",CCTV-4 中文國際 歐洲
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-5.png?raw=true",CCTV-5 體育
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-5.png",CCTV-5 體育
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-5.png?raw=true",CCTV-5 體育
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-5.png",CCTV-5 體育
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-5+.png",CCTV-5+ 體育賽事
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-5+.png",CCTV-5+ 體育賽事
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-6%20%E7%94%B5%E5%BD%B1.png",CCTV-6 電影
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-6.png",CCTV-6 電影
 http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-6%20%E7%94%B5%E5%BD%B1.png",CCTV-6 電影
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-6.png",CCTV-6 電影
 http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.png",CCTV-7 國防軍事
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-7.png",CCTV-7 國防軍事
 http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.png",CCTV-7 國防軍事
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-7.png",CCTV-7 國防軍事
 http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-8 电视剧.png",CCTV-8 電視劇
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-8.png",CCTV-8 電視劇
 http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-8 电视剧.png",CCTV-8 電視劇
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-8.png",CCTV-8 電視劇
 http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-9%20%E7%BA%AA%E5%BD%95.png",CCTV-9 紀錄
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-9.png",CCTV-9 紀錄
 http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-9%20%E7%BA%AA%E5%BD%95.png",CCTV-9 紀錄
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-9.png",CCTV-9 紀錄
 http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-10 科教.png",CCTV-10 科教
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-10.png",CCTV-10 科教
 http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-11%E6%88%8F%E6%9B%B2.png",CCTV-11 戲曲
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-11.png",CCTV-11 戲曲
 http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-12社会与法.png",CCTV-12 社會與法
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-12.png",CCTV-12 社會與法
 http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-13.png",CCTV-13 新聞
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-13.png",CCTV-13 新聞
 http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14 少兒
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-14.png",CCTV-14 少兒
 http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV-15 音樂
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-15.png",CCTV-15 音樂
 http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/ZzV6JQp.png",CCTV-16 奧林匹克
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-16.png",CCTV-16 奧林匹克
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/jSQURxS.png",CCTV-17 農業農村
+#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-17.png",CCTV-17 農業農村
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
 #🇨🇳 中國 | 衛視
@@ -1456,6 +1456,7 @@ http://183.185.151.211:9003/hls/15/index.m3u8
 http://183.185.151.211:9003/hls/17/index.m3u8
 #EXTINF:-1 group-title="183.185🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/jSQURxS.png",CCTV-17 農業農村
 http://183.185.151.211:9003/hls/18/index.m3u8
+
 #EXTINF:-1 group-title="183.185🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/UfKJBWW.png",山西衛視
 http://183.185.151.211:9003/hls/19/index.m3u8
 #EXTINF:-1 group-title="183.185🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/vsktAez.png",北京衛視
