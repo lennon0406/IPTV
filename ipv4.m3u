@@ -38,13 +38,13 @@ http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
 http://cdn8.163189.xyz/163189/dycj
 
 #720P
-#EXTINF:-1 group-title="" tvg-logo="https://logos.fandom.com/vi/wiki/%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2?file=%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png",上海 五星體育
+#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanghai-sports-cn.png",上海 五星體育
 http://cdn3.101.qzz.io/163189/wxty
-#EXTINF:-1 group-title="" tvg-logo="https://logos.fandom.com/vi/wiki/%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2?file=%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png",上海 五星體育
+#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanghai-sports-cn.png",上海 五星體育
 http://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 group-title="" tvg-logo="https://logos.fandom.com/vi/wiki/%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2?file=%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png",上海 五星體育
+#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanghai-sports-cn.png",上海 五星體育
 http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://logos.fandom.com/vi/wiki/%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2?file=%E4%B8%8A%E6%B5%B7%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png",上海 五星體育
+#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanghai-sports-cn.png",上海 五星體育
 http://cdn8.163189.xyz/163189/wxty
 
 
@@ -740,32 +740,32 @@ http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/FQmNKDS.png",港台電視 35
 
 #1080P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/512px-HOY_TV_Logo.svg.png",HOY 76
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 76
 http://hls.168.us.kg/u/76/master.m3u8
 
 #1080P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/512px-HOY_TV_Logo.svg.png",HOY 77
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 77
 http://cdn6.101.qzz.io/163189/hoy
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/512px-HOY_TV_Logo.svg.png",HOY 77
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 77
 http://cdn2.163189.xyz/163189/hoy
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/512px-HOY_TV_Logo.svg.png",HOY 77
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 77
 http://cdn6.163189.xyz/163189/hoy
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/512px-HOY_TV_Logo.svg.png",HOY 77
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 77
 http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/512px-HOY_TV_Logo.svg.png",HOY 77
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 77
 http://cdn2.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/512px-HOY_TV_Logo.svg.png",HOY 77
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 77
 http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/512px-HOY_TV_Logo.svg.png",HOY 77
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 77
 http://v2h.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/512px-HOY_TV_Logo.svg.png",HOY 77
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/512px-HOY_TV_Logo.svg.png",HOY 77
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/512px-HOY_TV_Logo.svg.png",HOY 77
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 77
 http://hls.168.us.kg/u/77/master.m3u8
 
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/512px-HOY_TV_Logo.svg.png",HOY 78
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",HOY 78
 http://hls.168.us.kg/u/78/master.m3u8
 
 #TVB
@@ -775,79 +775,81 @@ http://hls.168.us.kg/u/78/master.m3u8
 
 
 #1080P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4f/TVB_PLUS_LOGO.jpg",TVB PLUS
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png",TVB PLUS
 http://cdn6.101.qzz.io/163189/tvbp
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4f/TVB_PLUS_LOGO.jpg",TVB PLUS
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png",TVB PLUS
 http://cdn6.163189.xyz/163189/tvbp
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4f/TVB_PLUS_LOGO.jpg",TVB PLUS
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png",TVB PLUS
 http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4f/TVB_PLUS_LOGO.jpg",TVB PLUS
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png",TVB PLUS
 http://v2h.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4f/TVB_PLUS_LOGO.jpg",TVB PLUS
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png",TVB PLUS
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4f/TVB_PLUS_LOGO.jpg",TVB PLUS
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png",TVB PLUS
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4f/TVB_PLUS_LOGO.jpg",TVB PLUS
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png",TVB PLUS
 http://hls.168.us.kg/u/82/master.m3u8
 
 #1080P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://cdn6.101.qzz.io/163189/wxxw
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://cdn6.163189.xyz/163189/wxxw
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://hls.168.us.kg/u/83/master.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://r.jdshipin.com/CkuBd
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://php.jdshipin.com/smt.php?id=inews_twn
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #720P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://cdn6.101.qzz.io/163189/wxxwt
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://cdn6.163189.xyz/163189/wxxwt
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://cdn6.veryfast.filegear-sg.me/live/wxxwt/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://v2h.veryfast.filegear-sg.me/live/wxxwt/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/Gwij0Fj.png",TVB 無綫新聞台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png",TVB 無綫新聞台
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153399
 
 #1080P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/UPdcMkW.png",TVB 明珠台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8E%E7%8F%A0.png",TVB 明珠台
 http://cdn6.101.qzz.io/163189/mzt
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/UPdcMkW.png",TVB 明珠台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8E%E7%8F%A0.png",TVB 明珠台
 http://cdn6.163189.xyz/163189/mzt
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/UPdcMkW.png",TVB 明珠台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8E%E7%8F%A0.png",TVB 明珠台
 http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/UPdcMkW.png",TVB 明珠台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8E%E7%8F%A0.png",TVB 明珠台
 http://v2h.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/UPdcMkW.png",TVB 明珠台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8E%E7%8F%A0.png",TVB 明珠台
 http://hls.168.us.kg/u/84/master.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/UPdcMkW.png",TVB 明珠台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8E%E7%8F%A0.png",TVB 明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/UPdcMkW.png",TVB 明珠台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8E%E7%8F%A0.png",TVB 明珠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/UPdcMkW.png",TVB 明珠台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8E%E7%8F%A0.png",TVB 明珠台
 http://r.jdshipin.com/ZQ4kN
 #720P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/UPdcMkW.png",TVB 明珠台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8E%E7%8F%A0.png",TVB 明珠台
 http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/UPdcMkW.png",TVB 明珠台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8E%E7%8F%A0.png",TVB 明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/UPdcMkW.png",TVB 明珠台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8E%E7%8F%A0.png",TVB 明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 
 #1080P
@@ -870,29 +872,29 @@ http://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn
 http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
 #1080P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png",ViuTV
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png",ViuTV
 http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png",ViuTV
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png",ViuTV
 http://hls.168.us.kg/u/99/master.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png",ViuTV
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #720P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png",ViuTV
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png",ViuTV
 http://cdn9.163189.xyz/smt1.1.php?id=viu1_twn
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png",ViuTV
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png",ViuTV
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png",ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/512px-ViuTV_logo.svg.png",ViuTV
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png",ViuTV
 http://r.jdshipin.com/TcKr2
 
 #1080P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTV6
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png",ViuTV6
 http://hls.168.us.kg/u/96/master.m3u8
 #720P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTV6
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png",ViuTV6
 http://cdn9.163189.xyz/smt1.1.php?id=viusix_twn
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png",ViuTV6
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png",ViuTV6
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 
 #1080P
@@ -969,10 +971,6 @@ http://r.jdshipin.com/Nr5jq
 
 #鳳凰衛視
 #1080P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/twkvbfa.png",鳳凰衛視美洲台
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156408
-
-#1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://www.phoenixtv.com/static/img/logo-icon.ea16445.png",鳳凰衛視中文台
 http://cdn6.101.qzz.io/163189/fhzw
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://www.phoenixtv.com/static/img/logo-icon.ea16445.png",鳳凰衛視中文台
@@ -994,26 +992,28 @@ http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 
 #1080P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",鳳凰衛視資訊台
 http://cdn6.101.qzz.io/163189/fhzx
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",鳳凰衛視資訊台
 http://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",鳳凰衛視資訊台
 http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",鳳凰衛視資訊台
 http://v2h.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",鳳凰衛視資訊台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",鳳凰衛視資訊台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",鳳凰衛視資訊台
 http://r.jdshipin.com/0Rp07
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",鳳凰衛視資訊台
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156407
 #720P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",鳳凰衛視資訊台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",鳳凰衛視資訊台
 http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png",鳳凰衛視資訊台
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 
 #576P
@@ -1237,16 +1237,19 @@ http://tzh911.qzz.io/play-smt.php?id=animalplanet_twn
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919165120743160_73.png",公視
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917033004270852_19.png",緯來體育台
 
-
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/4RvCHWP.png",TVBS
+#1080P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png",TVBS 亞洲台
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153507
 #720P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="TVBS 亞洲台",TVBS 亞洲台
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png",TVBS 亞洲台
 http://51.89.166.17:3002/index.php?id=Tvbasia
 
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917033108660461_30.png",緯來日本台
 http://51.89.166.17:3002/index.php?id=videolandjapan
 
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/4RvCHWP.png",TVBS
+
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917052043951323_23.jpg",博斯運動Ⅱ
 
 #1080P
@@ -1316,43 +1319,43 @@ https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
 ########################################################################
 #🇨🇳 中國 | 央視
 #1080P
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 綜合
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-1.png",CCTV-1 綜合
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 財經
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-2.png",CCTV-2 財經
 http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/iFlkIuw.png",CCTV-3 綜藝
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-3.png",CCTV-3 綜藝
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png",CCTV-4 中文國際
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png",CCTV-4 中文國際
 http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://logos.fandom.com/vi/wiki/%E5%A4%AE%E8%A7%86%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%E6%AC%A7%E6%B4%B2%E5%8F%B0?file=CCTV4_Europe_logo_2019.png",CCTV-4 中文國際 歐洲
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E6%AC%A7%E6%B4%B2.png",CCTV-4 中文國際 歐洲
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-5.png?raw=true",CCTV-5 體育
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 體育
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-5.png?raw=true",CCTV-5 體育
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 體育賽事
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-5+.png",CCTV-5+ 體育賽事
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-6%20%E7%94%B5%E5%BD%B1.png",CCTV-6 電影
 http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/rFiaef7.png",CCTV-6 電影
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-6%20%E7%94%B5%E5%BD%B1.png",CCTV-6 電影
 http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.png",CCTV-7 國防軍事
 http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 國防軍事
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.png",CCTV-7 國防軍事
 http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-8 电视剧.png",CCTV-8 電視劇
 http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/GyHaZ8X.png",CCTV-8 電視劇
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-8 电视剧.png",CCTV-8 電視劇
 http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-9%20%E7%BA%AA%E5%BD%95.png",CCTV-9 紀錄
 http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.postimg.cc/Bvjp0G41/cctv9.png",CCTV-9 紀錄
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-9%20%E7%BA%AA%E5%BD%95.png",CCTV-9 紀錄
 http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 科教
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-10 科教.png",CCTV-10 科教
 http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/CjOWx7L.png",CCTV-11 戲曲
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-11%E6%88%8F%E6%9B%B2.png",CCTV-11 戲曲
 http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/3yTuiOM.png",CCTV-12 社會與法
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://github.com/lennon0406/IPTV-icon/blob/main/CCTV-12社会与法.png",CCTV-12 社會與法
 http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="38.75🇨🇳 中國 | 央視" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 新聞
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
@@ -1368,26 +1371,33 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
 #🇨🇳 中國 | 衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/WqM6xnF.png",東方衛視
-http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/btIeqQc.png",東南衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/oNM7aiL.png",海峽衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.postimg.cc/DZdGG2TD/hunantv.png",湖南衛視
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南衛視
 http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/CTRa9BJ.png",湖北衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.postimg.cc/mrtBcmTx/zhejiangsatellitetv.png",浙江衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://www.tvchinese.net/uploads/tv/jscs.jpg",江蘇衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/RrLthH3.png",江西衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/AnZjWm4.png",深圳衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg",廣東衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/dpre5Qs.png",廣西衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/22pOC6H.png",大灣區衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/nkcKCdr.png",貴州衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/vsktAez.png",北京衛視
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江衛視
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江蘇衛視
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",東方衛視
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京衛視
 http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳衛視
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",廣東衛視
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png",大灣區衛視
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png",東南衛視
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",廣西衛視
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北衛視
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川衛視
+
+
+
+
+
+
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png",海峽衛視
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西衛視
+
+#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/nkcKCdr.png",貴州衛視
 #EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/K7cKOk0.png",河南衛視
 #EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/Z5Ppzbi.png",河北衛視
-#EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/Crapy6M.png",四川衛視
 #EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/Bg24eaH.png",天津衛視
 #EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/t3ICc4i.png",山東衛視
 #EXTINF:-1 group-title="38.75🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/UfKJBWW.png",山西衛視
@@ -1811,6 +1821,9 @@ https://oitnhls.wns.live/hls/stream.m3u8
 #540P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
 
+#1080P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E6%AC%A7%E6%B4%B2.png",CCTV-4 中文國際 美洲
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156404
 
 #1080P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/hczuV6I.png",TVB DRAMA
@@ -1819,6 +1832,9 @@ https://6.cdn.loc.cc/163189.php?id=tvbd
 http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/hczuV6I.png",TVB DRAMA
 http://v2h.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/hczuV6I.png",TVB DRAMA
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153400
 
 #1080P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/5Z9JWV9.png",TVB1
@@ -1827,6 +1843,10 @@ https://6.cdn.loc.cc/163189.php?id=tvb1
 http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/5Z9JWV9.png",TVB1
 http://v2h.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/5Z9JWV9.png",TVB1
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153396
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/5Z9JWV9.png",TVB1
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153401
 
 #1080P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/neM9H0h.png",TVB J1
@@ -1837,9 +1857,34 @@ http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
 http://v2h.veryfast.filegear-sg.me/live/j1/stream.m3u8
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/neM9H0h.png",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#720P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/neM9H0h.png",TVB J1
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153395
 
+#720P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/enHTD7h.png",TVBe
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153398
 
+#1080P
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/twkvbfa.png",鳳凰衛視 美洲台
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156408
+
+#1080P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/XRk0QVA.png",ETTV 東森衛視 美洲
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156394
+
+#1080P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/XRk0QVA.png",ETTV 東森美洲
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156397
+
+#720P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/gasGlXQ.jpg",天下衛視 1
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156399
+
+
+#720P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="",
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156400
 
 
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/iyFXcDy.png",新唐人美東台
