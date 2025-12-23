@@ -1,8 +1,10 @@
 #EXTM3U
+
+
 #480P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 
 
@@ -42,13 +44,7 @@ https://hplayer1.juyun.tv/camera/154379194.m3u8
 #EXTINF:-1 group-title="" tvg-logo="",horror machine
 https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 
-#540P
-#EXTINF:-1 group-title="" tvg-logo="",tvN
-http://smart.cityq.xyz:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
-#EXTINF:-1 group-title="" tvg-logo="",tvN
-http://smart.cityq.xyz:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9
-#EXTINF:-1 group-title="" tvg-logo="",tvN
-https://tzh911.qzz.io/play-smt.php?id=TVN
+
 
 #1080P
 #EXTINF:-1 group-title="" tvg-logo="",CGN 中文台
@@ -62,9 +58,6 @@ https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CG
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 
 
-#1080P
-#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://i.imgur.com/ppxUDxB.png",meWATCH LIVE 1
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #1080P
 #EXTINF:-1 group-title="" tvg-logo="",VoA TV
@@ -133,9 +126,7 @@ http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
 http://cdn8.163189.xyz/163189/wxty
 
 
-#1080P
-#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png",Animal Planet
-http://tzh911.qzz.io/play-smt.php?id=AnimalPlanet
+
 
 #720P
 #EXTINF:-1 group-title="" tvg-logo="",Channel ONE
@@ -567,9 +558,9 @@ http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 http://tzh911.qzz.io/play-smt.php?id=AAprima
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",astro Prima
 http://tzh911.qzz.io/play-smt.php?id=AAprima1
-
+#540P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",astro Oasis
-
+http://smart.cityq.xyz:8278/Oasis/playlist.m3u8?tid=MABA2020629120206291&ct=19249&tsum=46be05252007b1efaae28ae3ab4cc7bb
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",astro Citra
 http://tzh911.qzz.io/play-smt.php?id=AAcitra
@@ -726,9 +717,7 @@ https://stream1.freetv.fun/e5721df234d80458cfe9da8cf3a71c2ce9159218f68bd53902a35
 
 #動物
 ########################################################################
-#1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/250px-2018_Animal_Planet_logo.svg.png",Animal Planet
-http://tzh911.qzz.io/play-smt.php?id=AnimalPlanet
+
 
 #卡通
 ########################################################################
@@ -768,16 +757,23 @@ http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/512px-Mediacorp_Channel_U_2023.svg.png",MU
 http://v2h.veryfast.filegear-sg.me/live/chu/stream.m3u8
 
+#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logo-small.png",GEM
+
 #1080P
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png",AXN
 http://tzh911.qzz.io/play-smt.php?id=Axn
 
+#1080P
+#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/AnimalPlanet.png",Animal Planet
+http://smart.cityq.xyz:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+
 #720P
-#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://www.animax-asia.com/sites/all/themes/responsive/responsive_animax_asia_2/logo.png",ANIMAX
-http://tzh911.qzz.io/play-smt.php?id=Animax
+#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Animax.png",ANIMAX
+http://smart.cityq.xyz:8278/Animax/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=aceff7688c2c3307497c5161715a262f
 
-
-#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logo-small.png",GEM
+#1080P
+#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png",HBO Signature
+http://smart.cityq.xyz:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-id="HBO Asia",HBO Asia
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-id="HBO Family Asia",HBO Family Asia
 
@@ -795,6 +791,10 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 #Auto
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://i.imgur.com/xWglicB.png",cna
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://i.imgur.com/ppxUDxB.png",meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 
 #🇹🇭 Thailand 泰國		位於東南亞中南半島，地理位置介於中國和印度之間
@@ -1220,6 +1220,9 @@ http://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 http://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="美亞電影台",美亞電影台
 http://php.jdshipin.com/smt.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-id="美亞電影台",美亞電影台
+http://smart.cityq.xyz:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+
 
 #576P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/B1aNrlL.png",星空衛視
@@ -1314,46 +1317,67 @@ http://php.jdshipin.com/TVOD/iptv.php?id=amty
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",FTV 民視
 https://k44991.kylintv.tv/live/formosatv_iphone.m3u8
-
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png",FTV 民視第一台
-
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png",FTV 民視台灣台
-
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png",FTV 民視新聞台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png",FTV 民視影劇台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png",FTV 民視綜藝台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png",FTV 民視旅遊台
 
+
+
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/GTV_One_logo_2018_01.png",GTV 八大第1台
+http://smart.cityq.xyz:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/GTV_One_logo_2018_01.png",GTV 八大第1台
-
+http://smart.cityq.xyz:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/GTV_One_logo_2018_01.png",GTV 八大第1台
+http://smart.cityq.xyz:8278/badafirst/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b4a36d76017a30eaa9caadd8d222ec75
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/GTV_Variety_logo_2018.png",GTV 八大綜合台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/GTV_Variety_logo_2018.png",GTV 八大綜合台
-
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png",GTV 八大戲劇台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png",GTV 八大戲劇台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/GTV_Entertainment_logo_2018.png",GTV 八大娛樂台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png",GTV 八大精彩台
 
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.ctitv.com.tw/wp-content/uploads/2018/08/cti-logo.png",cti 中天電視台
+
 
 #1080P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/tqsKObw.png",cti 中天綜合台
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/tqsKObw.png",cti 中天綜合台
-
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/wCHFqoD.png",EBC 東森電影
+http://smart.cityq.xyz:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#720P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/oUhYdea.png",EBC 東森洋片
+http://smart.cityq.xyz:8278/ettvwestern/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=2fac6b68e4fc0ec301eb1b84f8f20d61
 #1080P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/FLzDLMv.png",cti 中天娛樂台
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/FLzDLMv.png",cti 中天娛樂台
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/H0lfVpg.png",EBC 東森綜合
+http://smart.cityq.xyz:8278/ettvzhonghe/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=a811c16f7faa13d2e7a88bf3caeff307
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="東森超視 34.5",東森超視 34.5
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="東森購物 5台",東森購物 5台
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/k4fhcPl.png",EBC 東森幼幼台
 
 #720P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",SET 三立綜合台
+http://smart.cityq.xyz:8278/sanlizhonghe/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=2cfec3b545ed1903e5bdaae8adffa38e
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",SET 三立戲劇台
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="三立 iNEWS",三立 iNEWS
+
+
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.ctitv.com.tw/wp-content/uploads/2018/08/cti-logo.png",cti 中天電視台
+#1080P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/tqsKObw.png",cti 中天綜合台
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/tqsKObw.png",cti 中天綜合台
+#1080P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/FLzDLMv.png",cti 中天娛樂台
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/FLzDLMv.png",cti 中天娛樂台
+#720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/FZONZEr.png",cti 中天新聞台
-
-
+http://smart.cityq.xyz:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/U8zCAxt.png",cti 中天亞洲台
+
+
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/7W6d5pM.png",CTV 中視
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/7W6d5pM.png",CTV 中視綜合台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/7W6d5pM.png",CTV 中視經典台
@@ -1366,6 +1390,8 @@ https://k44991.kylintv.tv/live/formosatv_iphone.m3u8
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.ttv.com.tw/group/15/images/TTVF_LOGO_36.png",TTV 台視財經台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.ttv.com.tw/group/15/images/TTVG_LOGO_36.png",TTV 台視綜合台
 
+
+
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",CTS 華視
 https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1c3d1ee25740.ctv
@@ -1373,13 +1399,10 @@ https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1
 https://stream1.freetv.fun/hua-shi-5.ctv
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png",CTS 華視
 https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
-
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://educ.cts.com.tw/uploads/news/47de1c359a391b06cc5165f6587c54f6.png",CTS 華視教育文化
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png",CTS 華視新聞資訊
-
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@22@1736.png",CTS 國會頻道1
 http://61.58.60.230:9319/live/123.m3u8
-
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@22@1735.png",CTS 國會頻道2
 http://61.58.60.230:9319/live/124.m3u8
 
@@ -1393,8 +1416,8 @@ http://61.58.60.230:9319/live/124.m3u8
 #動物
 ####################
 #1080P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.discoverychannel.com.tw/images/logo/channel/animal.png",動物星球
-http://tzh911.qzz.io/play-smt.php?id=animalplanet_twn
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/AnimalPlanet.png",動物星球
+http://smart.cityq.xyz:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
 
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",緯來電影
@@ -1432,14 +1455,16 @@ http://8.iptv543.com:50009/li-4gtv-4gtv055/index.m3u8?proxy=true
 
 
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111617747154_24.png",采昌影劇台
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="東森超視 34.5",東森超視 34.5
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="東森美洲電視",東森美洲電視
+
+
+
+
+
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",TVBS NEWS
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",SET 三立戲劇台
 
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917031454937667_62.jpg",動物星球
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="東森購物 5台",東森購物 5台
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="三立 iNEWS",三立 iNEWS
+
+
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="寰宇新聞台灣台",寰宇新聞台灣台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="公視",公視
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="YOYO TV",YOYO TV
@@ -1463,8 +1488,7 @@ http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream
 
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917052043951323_23.jpg",博斯運動Ⅱ
 
-#1080P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/k4fhcPl.png",EBC 東森幼幼台
+
 
 
 
@@ -1949,17 +1973,22 @@ http://tzh911.qzz.io/play-smt.php?id=asianet_raj
 #🇮🇩 印度尼西亞
 ########################################################################
 #720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://s3.ap-northeast-2.amazonaws.com/tvn-wordpress/tvn-movies/staging/tvN-Movies-Logo-at-top-banner2.png",tvN MOVIES
-https://tzh911.qzz.io/play-smt.php?id=Tvnmovie
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://s3.ap-northeast-2.amazonaws.com/tvn-wordpress/tvn-movies/staging/tvN-Movies-Logo-at-top-banner2.png",tvN MOVIES
-http://smart.cityq.xyz:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
-
-#720P
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_celestialmovies.png",天映頻道 (華語)
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://images.indihometv.com/images/channels/image_ch_celestialmovies.png",天映頻道 (華語)
 http://php.jdshipin.com:8880/smt.php?id=Celestial
 
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/transtv-white.png",TransTV
+http://smart.cityq.xyz:8278/Transtv/playlist.m3u8?tid=MCFC2537709525377095&ct=19249&tsum=dcb22c095fc52f971f7dea381f456a43
+
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-MetroTV.png",MetroTV
+http://smart.cityq.xyz:8278/metrotv_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=99329a7a667558dce68f0420cf676b89
+
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/SK8pjQy.png",MNC TV
+http://smart.cityq.xyz:8278/Mnctv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ea845e9031e34ef4f68d13d6ea0bd7bf
 
 #720P
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",antv
@@ -1983,6 +2012,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/bUfeG7Y.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
+
 
 #720P
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.postimg.cc/SRDWxRGs/13092012142252.jpg",BERITA SATU
