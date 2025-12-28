@@ -1,5 +1,4 @@
 #EXTM3U
-
 #480P
 #EXTINF:-1 group-title="🇰🇭 🇭🇰 🇮🇩 🇲🇾 🇵🇭 🇸🇬 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
@@ -12,7 +11,6 @@ http://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 #EXTINF:-1 group-title="🇰🇭 🇭🇰 🇮🇩 🇲🇾 🇵🇭 🇸🇬 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 
-
 #480P
 #EXTINF:-1 group-title="🇭🇰 🇮🇩 🇲🇾 🇵🇭 🇸🇬 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/thrill.png",thrill
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
@@ -21,12 +19,9 @@ http://smart.cityq.xyz:8278/Thrill/playlist.m3u8?tid=MF7F5665582956655829&ct=193
 #EXTINF:-1 group-title="🇭🇰 🇮🇩 🇲🇾 🇵🇭 🇸🇬 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/thrill.png",thrill
 http://smart.cityq.xyz:8278/Thrill/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f5d66da861193c2db867043239712cd9
 
-
 #720P
 #EXTINF:-1 group-title="🇭🇰 🇮🇩 🇵🇭 🇸🇬 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/KIX.png",KIX
 http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=926171
-
-
 
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="",PopC
@@ -41,12 +36,58 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="",香港C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 
+
+
+
+
+
+#2160P
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",浙江衛視 4K超高清
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
+#2160P
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",深圳衛視 4K超高清
+http://cdn3.101.qzz.io/163189/szws4k
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",深圳衛視 4K超高清
+http://cdn3.163189.xyz/163189/szws4k
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",深圳衛視 4K超高清
+http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",深圳衛視 4K超高清
+http://cdn8.163189.xyz/163189/szws4k
+
+#1080P
+#EXTINF:-1 group-title="" tvg-logo="",深圳財經生活
+http://cdn3.101.qzz.io/163189/szcjsh
+#EXTINF:-1 group-title="" tvg-logo="",深圳財經生活
+http://cdn3.163189.xyz/163189/szcjsh
+#EXTINF:-1 group-title="" tvg-logo="",深圳財經生活
+http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",深圳財經生活
+http://cdn8.163189.xyz/163189/szcjsh
+
+
+#EXTINF:-1 group-title="" tvg-logo="",四平 新聞綜合
+http://stream2.jlntv.cn/sptv/sd/live.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Golf.png",Golf
 http://smart.cityq.xyz:8278/Agolf/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=bf77fae2b7de1ba581af1fb0742cc78b
 
 #1080P
 #EXTINF:-1 group-title="" tvg-logo="",encore
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",encore
+https://streams2.sofast.tv/ptnr-yupptv/title-ENCORE-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/390efe7e-4a1a-4f9f-8266-b4d90ab7121a/6f2b4dea-2fa5-48b6-b743-84f823152fb4/2.m3u8
 
 #1080P
 #EXTINF:-1 group-title="埃及" tvg-logo="https://i.postimg.cc/wBsfSbK2/pncdrama.png",PNC Drama
@@ -75,74 +116,27 @@ https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 group-title="" tvg-logo="",motor vision tv
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
-#720P
-#EXTINF:-1 group-title="" tvg-logo="",transtv
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-
 #EXTINF:-1 group-title="" tvg-logo="",NORTE visión
 http://amaru.dyndns.org:8870/0.m3u8
-
-#2160P
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",浙江衛視 4K超高清
-https://play-qukan.cztv.com/live/1758879019692345.m3u8
-
-#1080P
-#EXTINF:-1 group-title="" tvg-logo="",新聞綜合
-https://hplayer1.juyun.tv/camera/154379194.m3u8
-
-#1080P
-#EXTINF:-1 group-title="" tvg-logo="",CGN 中文台
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇨🇳 中國" tvg-logo="https://i.imgur.com/896132Z.png",TV BRICS Chinese
-https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 
 #1080P
 #EXTINF:-1 group-title="" tvg-logo="",VoA TV
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 
+#EXTINF:-1 group-title="" tvg-id="RacingMag",RacingMag
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="",四平 新聞綜合
-http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
-
-
-
-#2160P
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",深圳衛視 4K超高清
-http://cdn3.101.qzz.io/163189/szws4k
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",深圳衛視 4K超高清
-http://cdn3.163189.xyz/163189/szws4k
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",深圳衛視 4K超高清
-http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",深圳衛視 4K超高清
-http://cdn8.163189.xyz/163189/szws4k
-
-
-#1080P
-#EXTINF:-1 group-title="" tvg-logo="",深圳財經生活
-http://cdn3.101.qzz.io/163189/szcjsh
-#EXTINF:-1 group-title="" tvg-logo="",深圳財經生活
-http://cdn3.163189.xyz/163189/szcjsh
-#EXTINF:-1 group-title="" tvg-logo="",深圳財經生活
-http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",深圳財經生活
-http://cdn8.163189.xyz/163189/szcjsh
-
-
+#EXTINF:-1 group-title="" tvg-logo="",Pluto TV Catastrophe
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a69ef53af63d000825e0ee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68b1c3a0-a3f2-41b3-ae05-e83e4e687617
 
 #720P
-#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanghai-sports-cn.png",上海 五星體育
-http://cdn3.101.qzz.io/163189/wxty
-#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanghai-sports-cn.png",上海 五星體育
-http://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanghai-sports-cn.png",上海 五星體育
-http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanghai-sports-cn.png",上海 五星體育
-http://cdn8.163189.xyz/163189/wxty
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/LdsRz2E.png",EWTN Africa
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/LdsRz2E.png",EWTN Asia-Pacific
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="" tvg-id="AR",AR
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8
 
 #720P
 #EXTINF:-1 group-title="" tvg-logo="",Channel ONE
@@ -153,55 +147,43 @@ https://ch1hls.wns.live/hls/stream.m3u8
 https://scbhls.wns.live/hls/stream.m3u8
 
 #720P
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tmlive.tv/wp-content/uploads/2018/07/immigration-consultants-network-en-.png",TM TV
-https://hls.tmtv.live/hls/stream.m3u8
-
-
-
-#EXTINF:-1 group-title="1080P" tvg-id="RacingMag",RacingMag
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
-
-#EXTINF:-1 group-title="1080P" tvg-logo="",Pluto TV Catastrophe
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a69ef53af63d000825e0ee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68b1c3a0-a3f2-41b3-ae05-e83e4e687617
-
-
-
-#720P
-#EXTINF:-1 group-title="720P" tvg-logo="https://i.imgur.com/LdsRz2E.png",EWTN Africa
-https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="720P" tvg-logo="https://i.imgur.com/LdsRz2E.png",EWTN Asia-Pacific
-https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-
-#EXTINF:-1 group-title="720P" tvg-id="AR",AR
-https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8
-
-
-
-
-
-
-
-
-#720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.postimg.cc/rshG38zb/maahtv.png",Maah TV
-https://hls.maahtv.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.postimg.cc/7hjCP4mf/PROSport-International.png",PRO Sport International
-https://proshls.wns.live/hls/stream.m3u8
-
-#720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg Asia Event
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/X6JKNEE.png",TV Ikim
-https://edge-sg1.vediostream.com/live/tvikim/chunks.m3u8
 
 
 
-#🇲🇾 馬來西亞
+
+
+
+
+
+
+
+#🇰🇭 Cambodia 柬埔寨			位於東南亞中南半島的君主立憲制國家
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇰🇭 柬埔寨" tvg-logo="https://i.imgur.com/yrdr4Po.png",CTV8 ★
+http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
+
+
+#🇹🇭 Thailand 泰國			位於東南亞中南半島中部的君主立憲制國家
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://news1live.com/images/social-share-logo.png",News1
+http://news1.live14.com/stream/news1_hi.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://i.imgur.com/CwalZjr.png",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#720P
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://i.imgur.com/CwalZjr.png",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+
+#🇲🇾 Malaysia 馬來西亞			位於東南亞的多元種族國家
 ########################################################################
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Enjoy_TV5.png",ENJOY TV5
 http://205.185.120.57:8081/channel/270c9a0b/index.m3u8
@@ -217,10 +199,23 @@ http://tzh911.qzz.io/play-smt.php?id=Alhijrah_backup
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/skJjF4m.png",BERNAMA
 
+#1080P
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TVS_logo_%282024%29.png/330px-TVS_logo_%282024%29.png",tvs+
+http://stream2.smg.my/live/tvsplus_1080p2628kbs/index.m3u8
+#720P
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TVS_logo_%282024%29.png/330px-TVS_logo_%282024%29.png",tvs+
+http://stream2.smg.my/live/tvsplus_720p2628kbs/index.m3u8
 
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TVS_logo_%282024%29.png/330px-TVS_logo_%282024%29.png",TVS
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.imgur.com/X6JKNEE.png",TV Ikim
+https://edge-sg1.vediostream.com/live/tvikim/chunks.m3u8
 
+#720P
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.postimg.cc/rshG38zb/maahtv.png",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
 
+#720P
+#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://i.postimg.cc/7hjCP4mf/PROSport-International.png",PRO Sport International
+https://proshls.wns.live/hls/stream.m3u8
 
 
 #🇲🇾 馬來西亞 rtm
@@ -349,7 +344,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 rtm" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-RTM-JR..png",JR.
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/manifest.mpd
 
-
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png",SelangorTV
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b2596000_slmsa.m3u8
@@ -467,6 +461,8 @@ http://php.jdshipin.com:8880/smt.php?id=Aodhd
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
 http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
 http://smart.cityq.xyz:8278/Aodhd/playlist.m3u8?tid=MDAD6684326166843261&ct=20241&tsum=f41b7e6b5828914ac4665c1634177f43
@@ -555,7 +551,7 @@ http://tzh911.qzz.io/play-smt.php?id=AAcitra1
 
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+http://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",astro Awani
 http://smart.cityq.xyz:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",astro Awani
@@ -564,7 +560,7 @@ http://smart.cityq.xyz:8278/Awani/playlist.m3u8?tid=MADA3704315537043155&ct=1925
 http://smart.cityq.xyz:8278/Awani/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ccec11db5f1639921c5168032894cb38
 #Auto
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+http://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 
 
@@ -629,17 +625,8 @@ http://tzh911.qzz.io/play-smt.php?id=Astroktv
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png",astro Showcase
 
-
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",astro Boo
-
-
-
-
-
-
-
-
 
 #音樂
 ########################################################################
@@ -699,7 +686,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=4
 
 
 
-#🇸🇬 新加坡
+#🇸🇬 Singapore 新加坡			位於東南亞中南半島最南端的島國和城邦
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-M5.png",M5
@@ -745,7 +732,6 @@ http://smart.cityq.xyz:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-id="HBO Asia",HBO Asia
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-id="HBO Family Asia",HBO Family Asia
 
-
 #1080P
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-id="ZooMoo",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -765,28 +751,104 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 
-#🇹🇭 Thailand 泰國		位於東南亞中南半島，地理位置介於中國和印度之間
+#🇮🇩 Indonesia 印度尼西亞			位於東南亞的群島國家
 ########################################################################
-#1080P
-#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://news1live.com/images/social-share-logo.png",News1
-http://news1.live14.com/stream/news1_hi.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://i.imgur.com/CwalZjr.png",Thai PBS
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#IndiHomeTV
+##############################
 #720P
-#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://i.imgur.com/CwalZjr.png",Thai PBS
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",IndiHomeTV 天映頻道
+http://smart.cityq.xyz:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",IndiHomeTV 天映頻道
+http://smart.cityq.xyz:8278/Celestialindo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6b606cecf8c8f952cd6a9f5d9774f394
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",IndiHomeTV 天映頻道
+http://smart.cityq.xyz:8278/Celestialindo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=345dfee9bedab7b1d4f2372a1faebd18
 
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/transtv-white.png",TransTV
+http://smart.cityq.xyz:8278/Transtv/playlist.m3u8?tid=MCFC2537709525377095&ct=19249&tsum=dcb22c095fc52f971f7dea381f456a43
 
-🇦🇱 Albania 阿爾巴尼亞	位於歐洲東南部、巴爾幹半島西南部的一個國家
-########################################################################
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-antv.png",antv
+http://smart.cityq.xyz:8278/Antv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ee3b56d5da66231fc3ee9dc9dafc786c
+
 #1080P
-#EXTINF:-1 group-title="🇦🇱 阿爾巴尼亞" tvg-logo="https://i.imgur.com/eG33jue.png",News 24
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/AnimalPlanet.png",Animal Planet
+http://smart.cityq.xyz:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/AnimalPlanet.png",Animal Planet
+http://smart.cityq.xyz:8278/AnimalPlanet/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6d2818cd115581012d7b0cb83eeebd1e
+
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Animax.png",ANIMAX
+http://smart.cityq.xyz:8278/Animax/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=aceff7688c2c3307497c5161715a262f
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Animax.png",ANIMAX
+http://smart.cityq.xyz:8278/Animax/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=90ba99b6d5f029b594e33429eb569415
+
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-MetroTV.png",MetroTV
+http://smart.cityq.xyz:8278/metrotv_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=99329a7a667558dce68f0420cf676b89
+
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/SK8pjQy.png",MNC TV
+http://smart.cityq.xyz:8278/Mnctv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ea845e9031e34ef4f68d13d6ea0bd7bf
+
+#1080P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/sXsAcZ3.png",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/sXsAcZ3.png",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/transtv-white.png",transtv
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
+#Auto
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/transtv-white.png",transtv
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/l0JyOrm.png",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#Auto
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/l0JyOrm.png",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/l0JyOrm.png",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/l0JyOrm.png",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/bUfeG7Y.png",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
+#Auto
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/bUfeG7Y.png",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/bUfeG7Y.png",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/bUfeG7Y.png",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://www.beritasatu.com/img/btv-newlogo-white.png",BTV
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://www.beritasatu.com/img/btv-newlogo-white.png",BTV
 
 
-#🇧🇳 汶萊
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-BERITASATU.png",BERITA SATU
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-BERITASATU.png",BERITA SATU
+http://smart.cityq.xyz:8278/BeritaSatu_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3d62701e711c2cd6a892d23ccfe749e2
+
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/YC7JCHo.png",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/S4aoHg8.png",Horee!
+http://tzh911.qzz.io/play-smt.php?id=Babytv
+
+
+#🇧🇳 Brunei 汶萊				位於東南亞婆羅洲北岸的國家
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇧🇳 汶萊" tvg-logo="https://i.imgur.com/WpMGnTr.png",RTB Sukmaindera
@@ -799,7 +861,16 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 
-#香港
+#🇵🇭 Philippines 菲律賓			位於東南亞西太平洋的群島國家
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇵🇭 菲律賓" tvg-logo="https://i.imgur.com/cWCVP3j.png",GMA Pinoy TV
+https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+
+
+
+
+#🇭🇰 Hong Kong 香港			位於南海北岸
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/kf818kM.png",港台電視 31
@@ -1169,7 +1240,6 @@ http://r.jdshipin.com/sXuuD
 http://r.jdshipin.com/Voac4
 
 
-
 #鳳凰衛視
 #######################################
 #1080P
@@ -1267,8 +1337,6 @@ http://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
 http://php.jdshipin.com/smt.php?id=meiyamovie_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-id="美亞電影台",美亞電影台
 http://smart.cityq.xyz:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
-
-
 
 
 #576P
@@ -1545,19 +1613,9 @@ http://8.iptv543.com:50009/li-4gtv-4gtv055/index.m3u8?proxy=true
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111537323882_17.png",靖洋戲劇台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110304607222_48.png",靖天綜合台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110311314723_46.png",靖天日本台
-
-
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111617747154_24.png",采昌影劇台
-
-
-
-
-
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",TVBS NEWS
-
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917031454937667_62.jpg",動物星球
-
-
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="寰宇新聞台灣台",寰宇新聞台灣台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="公視",公視
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="YOYO TV",YOYO TV
@@ -1575,18 +1633,7 @@ http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png",TVBS 亞洲台
 
-
-
-
-
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917052043951323_23.jpg",博斯運動Ⅱ
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="CYC 世新綜合",CYC 世新綜合
 http://61.58.60.230:9319/live/49.m3u8
@@ -1908,6 +1955,16 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 #🇨🇳 中國 | 地方
 ####################
 #720P
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanghai-sports-cn.png",上海 五星體育
+http://cdn3.101.qzz.io/163189/wxty
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanghai-sports-cn.png",上海 五星體育
+http://cdn3.163189.xyz/163189/wxty
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanghai-sports-cn.png",上海 五星體育
+http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shanghai-sports-cn.png",上海 五星體育
+http://cdn8.163189.xyz/163189/wxty
+
+#720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://www.yicai.com/images/logo.png",上海 第1財經
 http://cdn3.101.qzz.io/163189/dycj
 #EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://www.yicai.com/images/logo.png",上海 第1財經
@@ -1999,7 +2056,7 @@ http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
 http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 
 
-🇰🇷 South Korea 韓國	位於東亞的朝鮮半島南部
+🇰🇷 South Korea 韓國			位於東亞的朝鮮半島南部
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
@@ -2037,6 +2094,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=2
 #EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/YD8fbTH.png",SPOTV2
 http://iptv.4666888.xyz/iptv2A.php?id=1
 
+#1080P
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="",CGN 中文台
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+
 
 
 #🇲🇳 蒙古
@@ -2048,18 +2109,14 @@ https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
 https://cdn3.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
 
 
-#🇰🇭 柬埔寨		位于亚洲中南半岛南部的国家
-########################################################################
-#720P
-#EXTINF:-1 group-title="🇰🇭 柬埔寨" tvg-logo="https://i.imgur.com/yrdr4Po.png",CTV8 ★
-http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
-
-
-#🇮🇳 India 印度		位于南亚次大陆上的国家
+#🇮🇳 India 印度			位于南亚次大陆上的国家
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select
 
+#720P
+#EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.postimg.cc/rshG38zb/SunMusic.png",Sun Music
+https://hls.sunmusic.live/hls/stream.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/Wc5Z3iS.png",WION
@@ -2108,106 +2165,342 @@ https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/in
 http://smart.cityq.xyz:8278/asianet_raj/playlist.m3u8?tid=MB4B2450319024503190&ct=19254&tsum=ad3799bb18ad9ecf8dbd135dcf453f47
 
 
-#🇮🇩 印度尼西亞
+
+
+#🇦🇫 Afghanistan 阿富汗			位於亞洲中南部的內陸國家
 ########################################################################
-#IndiHomeTV
-##############################
-#720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",IndiHomeTV 天映頻道
-http://smart.cityq.xyz:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",IndiHomeTV 天映頻道
-http://smart.cityq.xyz:8278/Celestialindo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6b606cecf8c8f952cd6a9f5d9774f394
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",IndiHomeTV 天映頻道
-http://smart.cityq.xyz:8278/Celestialindo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=345dfee9bedab7b1d4f2372a1faebd18
-
-#720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/transtv-white.png",TransTV
-http://smart.cityq.xyz:8278/Transtv/playlist.m3u8?tid=MCFC2537709525377095&ct=19249&tsum=dcb22c095fc52f971f7dea381f456a43
-
-#720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-antv.png",antv
-http://smart.cityq.xyz:8278/Antv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ee3b56d5da66231fc3ee9dc9dafc786c
+#576P
+#EXTINF:-1 group-title="🇦🇫 阿富汗" tvg-logo="https://i.imgur.com/C9lM1KP.png",Dunya Naw TV
+https://dunyanhls.wns.live/hls/stream.m3u8
 
 #1080P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/AnimalPlanet.png",Animal Planet
-http://smart.cityq.xyz:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/AnimalPlanet.png",Animal Planet
-http://smart.cityq.xyz:8278/AnimalPlanet/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6d2818cd115581012d7b0cb83eeebd1e
+#EXTINF:-1 group-title="🇦🇫 阿富汗" tvg-logo="https://i.imgur.com/yj8RNnG.png",AMC
+https://amchls.wns.live/hls/stream.m3u8
 
 #720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Animax.png",ANIMAX
-http://smart.cityq.xyz:8278/Animax/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=aceff7688c2c3307497c5161715a262f
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Animax.png",ANIMAX
-http://smart.cityq.xyz:8278/Animax/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=90ba99b6d5f029b594e33429eb569415
+#EXTINF:-1 group-title="🇦🇫 阿富汗" tvg-logo="https://i.imgur.com/To7VnsA.png",Eslah TV
+https://eslahtvhls.wns.live/hls/stream.m3u8
 
 #720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-MetroTV.png",MetroTV
-http://smart.cityq.xyz:8278/metrotv_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=99329a7a667558dce68f0420cf676b89
-
-#720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/SK8pjQy.png",MNC TV
-http://smart.cityq.xyz:8278/Mnctv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ea845e9031e34ef4f68d13d6ea0bd7bf
+#EXTINF:-1 group-title="🇦🇫 阿富汗" tvg-logo="https://i.imgur.com/edGyj5H.png",Tamadon TV
+https://hls.tamadon.live/hls/stream.m3u8
 
 
-
-#1080P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/sXsAcZ3.png",Garuda TV
-https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
-#720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/sXsAcZ3.png",Garuda TV
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/l0JyOrm.png",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/bUfeG7Y.png",CNBC Indonesia
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
-#Auto
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/bUfeG7Y.png",CNBC Indonesia
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/bUfeG7Y.png",CNBC Indonesia
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://www.beritasatu.com/img/btv-newlogo-white.png",BTV
-#720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://www.beritasatu.com/img/btv-newlogo-white.png",BTV
-
-#720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-BERITASATU.png",BERITA SATU
-https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-BERITASATU.png",BERITA SATU
-http://smart.cityq.xyz:8278/BeritaSatu_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3d62701e711c2cd6a892d23ccfe749e2
-
-#720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/YC7JCHo.png",DAAI TV
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/S4aoHg8.png",Horee!
-http://tzh911.qzz.io/play-smt.php?id=Babytv
-
-
-#🇸🇦 Saudi Arabia 沙烏地阿拉伯		是位於亞洲西部的國家
+#🇸🇦 Saudi Arabia 沙烏地阿拉伯		位於亞洲西部的國家
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇸🇦 沙烏地阿拉伯" tvg-logo="https://i.imgur.com/Knd2lAQ.png",Al Khalij TV
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 
 
-#🇺🇸 美國		位于北美洲，北面与加拿大接壤，南面濒临墨西哥湾，西面是太平洋，东面是太平洋
+#🇮🇷 Iran 伊朗				位於亞洲西南方之中東地區，屬西亞
 ########################################################################
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/C9lM1KP.png",FX 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="",Atrina TV
+https://atrihls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arko-tv.png",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/g0mb09vM/afra-series.jpg",Afra Series
+https://afrashls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/vZWdM86g/afra-film.jpg",AFRA Film
+https://afrafhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/0QqcjgXX/araxtv.png",arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/oo/oxir-tv.png",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pars-tv-us.png",Pars TV
+https://parshls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/U4sKHWy.png",ITN TV
+https://itnhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png",FX 2
+https://toonixhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/8AfAfZE.png",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.irtv.website/index_files/channels/avafamily.png",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/n9cuM2W.jpg",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/BVuUx5R.jpg",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/KvsfL3sM/goldstar.jpg",GOLD STAR
+https://moviethls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/3w2FPSrX/newflix.png",NEWFLIX
+https://newfhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/hh/homeplus.png",HomePlus
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/X38vWJ1.png",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
+
+
+
+#🇫🇷 France 法國				位於西歐雙首長制共和國
+########################################################################
+#Persiana
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Vibe
+https://raphls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Plus
+https://euhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Folk
+https://sonhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#1080P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Reality
+https://twohls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Medical
+https://tfnhls.wns.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Travel
+https://mardomhls.wns.live/hls/stream.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="",Trends Z
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.postimg.cc/PrbrSsjT/bfm2.png",BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/mfZOYZI.png",TV5 Monde Pacifique
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5 Monde Seasie
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
+
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-id="Equidia",Equidia
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/wlBkL9j.png",FTV International
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/wlBkL9j.png",FTV International
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_7201280_p_0.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/wlBkL9j.png",Fashion TV
+https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+
+#450P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/7Bigo7u.png",FTV Czech&Slovak
+https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+
+
+#🇬🇧 United Kingdom 英國		位於西歐並具有海外領地的主權國家
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://i.imgur.com/r8MmFRX.png",Afghanistan International
+https://hls.afintl.com/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://i.imgur.com/ixgcgZY.png",IraneFarda TV
+https://hls.iranfarda.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://www.parsatv.com/index_files/channels/kanaljadid.png",Kanal Jadid
+https://kjhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://i.postimg.cc/q7qBL10L/fashionone.png",Fashion One
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://i.imgur.com/8XGFbUl.png",Gemporia
+https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/chunklist.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT Sports 1
+http://iptv.4666888.xyz/iptv2A.php?id=3
+
+#720P
+#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=90288
+
+
+
+#🇩🇪 Germany 德國			位於中西歐的聯邦共和國
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇩🇪 德國" tvg-logo="https://i.imgur.com/8MRNFb9.png",Deutsche Welle
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=90283
+
+#1080P
+#EXTINF:-1 group-title="🇩🇪 德國" tvg-id="DW",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+
+
+
+
+🇭🇳 Honduras 洪都拉斯		位於中美洲
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇭🇳 洪都拉斯" tvg-logo="https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",Imagen FM 105.1
+https://streaming.imagenfm105-1.com/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇭🇳 洪都拉斯" tvg-logo="https://i.imgur.com/fc5IHSy.png",Lenca TV
+https://lencatelevision.com/hls/stream.m3u8
+
+#🇧🇷 Brasil 巴西			位於南美東部
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇧🇷 巴西" tvg-logo="https://i.imgur.com/C0VEHXU.png",Discovery Kids
+
+#1080P
+#EXTINF:-1 group-title="🇧🇷 巴西" tvg-logo="https://i.imgur.com/BMqSDNn.png",Prime
+
+#🇺🇾 Uruguay 烏拉圭		位於南美洲東南部
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇺🇾 烏拉圭" tvg-logo="https://i.ibb.co/Drx6fgZ/Logo-white.png",VIVO TV
+https://stream.vivotv.uy/hls/stream.m3u8
+
+#🇦🇷 阿根廷			位於南美洲南部的主權國家
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇦🇷 阿根廷" tvg-id="Litus",Litus ★
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+
+🇵🇪 Peru 秘鲁			位於南美洲西部的國家
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇵🇪 秘鲁" tvg-logo="",Señal Perú TV
+https://livestream.perucast.com/hls/stream.m3u8
+
+#🇵🇪 秘魯				位於南美洲西部的一個國家
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇵🇪 秘魯" tvg-id="Antares",Antares
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+
+#🇲🇽 Mexico 墨西哥		位於北美洲南部
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇲🇽 墨西哥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png",Distrito Comedia
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=90284
+
+#1080P
+#EXTINF:-1 group-title="🇲🇽 墨西哥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png",Discovery Home & Health
+
+#1080P
+#EXTINF:-1 group-title="🇲🇽 墨西哥" tvg-logo="https://i.imgur.com/klhTyDU.png",Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+
+
+#🇺🇸 美國				位于北美洲，北面与加拿大接壤，南面濒临墨西哥湾，西面是太平洋，东面是太平洋
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/a1zuW2C.png",Radio Javan TV
+https://rjtvhls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://tmlive.tv/wp-content/uploads/2018/07/immigration-consultants-network-en-.png",TM TV
+https://hls.tmtv.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://www.parsatv.com/index_files/channels/go2travel.png",Go2Travel
+https://go2thls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/CeMf68L.png",Omid e Iran TV
+https://oitnhls.wns.live/hls/stream.m3u8
+
 #1080P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/OwSlGMu.png",Universal Crime
 http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=90277
 #1080P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/avBL8pQ.png",Universal Comedy
 http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=90280
-
-
-
 
 #1080P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iccplus-us.png",icc+
@@ -2255,14 +2548,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #1080P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/VwAMqA7.png",INFAST
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://www.parsatv.com/index_files/channels/go2travel.png",Go2Travel
-https://go2thls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/CeMf68L.png",Omid e Iran TV
-https://oitnhls.wns.live/hls/stream.m3u8
 
 #540P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/PbENHJw.png",WWE Network
@@ -2331,7 +2616,6 @@ http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/gasGlXQ.jpg",天下衛視 1
 http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156399
 
-
 #720P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="",
 http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156400
@@ -2374,139 +2658,74 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/esK4CBZ.png",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist.m3u8
 
-
-
-#🇫🇷 法國		位于西欧，其首都为巴黎，并且拥有海外领地
-########################################################################
-#Persiana
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Family
-https://familyhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Cinema
-https://cinehls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Series
-https://onehls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Korea
-https://korhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Vibe
-https://raphls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Iranian
-https://irhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Plus
-https://euhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Docs
-https://scihls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Junior
-https://junhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Folk
-https://sonhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
-#1080P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana 4Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Turkiye
-https://turkhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Reality
-https://twohls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Medical
-https://phd2hls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Travel
-https://ptravelhls.persiana.live/hls/stream.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="",Trends Z
-https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.postimg.cc/PrbrSsjT/bfm2.png",BFM2
-https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/mfZOYZI.png",TV5 Monde Pacifique
-https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5 Monde Seasie
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-
-
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-id="Equidia",Equidia
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/wlBkL9j.png",FTV International
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/wlBkL9j.png",FTV International
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_7201280_p_0.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/wlBkL9j.png",Fashion TV
-https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
-
-#450P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/7Bigo7u.png",FTV Czech&Slovak
-https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-
-
-
-
-#🇬🇧 United Kingdom 英國		位於西歐並具有海外領地的主權國家
+#🇨🇦 Canada 加拿大		位于北美洲北部
 ########################################################################
 #720P
-#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://i.imgur.com/ixgcgZY.png",IraneFarda TV
-https://hls.iranfarda.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://i.imgur.com/aeS4Sjv.png",icnet 1
+https://icnet1hls.wns.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://i.imgur.com/Ke5xn4E.png",icnet 2
+https://icnet2hls.wns.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://i.postimg.cc/RVqQMVVV/icnet3.png",icnet 3
+https://ic3hls.wns.live/hls/stream.m3u8
 
 #720P
-#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://www.parsatv.com/index_files/channels/kanaljadid.png",Kanal Jadid
-https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Erfan_Halqeh_logo.png",Erfan Halgheh TV
+https://hls.erfanhalgheh.live/hls/stream.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://i.imgur.com/jhVjkQB.png",Noovo Comédies Home
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://i.imgur.com/jhVjkQB.png",Noovo Téléréalités
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png",CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+
+#720P 
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-id="Global News",Global News ★
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-id="CHCO TV",CHCO TV
 
 #720P
-#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://i.postimg.cc/q7qBL10L/fashionone.png",Fashion One
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
+
+
+🇦🇱 Albania 阿爾巴尼亞		位於歐洲東南部、巴爾幹半島西南部的一個國家
+########################################################################
 #720P
-#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://i.imgur.com/8XGFbUl.png",Gemporia
-https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇦🇱 阿爾巴尼亞" tvg-logo="https://i.imgur.com/C9lM1KP.png",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
 
-#720P
-#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT Sports 1
-http://iptv.4666888.xyz/iptv2A.php?id=3
+#1080P
+#EXTINF:-1 group-title="🇦🇱 阿爾巴尼亞" tvg-logo="https://i.imgur.com/eG33jue.png",News 24
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 
-#720P
-#EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=90288
-
-#🇩🇪 Germany 德國		位於中西歐的聯邦共和國
+#🇨🇭 Switzerland 瑞士		位於歐洲中部的一個內陸國家
 ########################################################################
 #1080P
-#EXTINF:-1 group-title="🇩🇪 德國" tvg-logo="https://i.imgur.com/8MRNFb9.png",Deutsche Welle
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=90283
+#EXTINF:-1 group-title="🇨🇭 瑞士" tvg-logo="https://i.imgur.com/YtYhbJD.png",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
 
-#🇫🇮 Finland 芬蘭		位於歐洲北部的國家，也是北歐五國之一
+#🇲🇨 Monaco 摩納哥		位於歐洲西南部地中海沿岸的一個城邦國家
 ########################################################################
-#720P
-#EXTINF:-1 group-title="🇫🇮 芬蘭" tvg-logo="https://i.imgur.com/YteKXJy.png",Navahang TV
-https://hls.navahang.live/hls/stream.m3u8
+#1080P
+#EXTINF:-1 group-title="🇲🇨 摩納哥" tvg-logo="https://i.imgur.com/cgjgjE1.png",Superyacht TV
+https://sy.wns.live/hls/stream.m3u8
 
-#🇳🇱 Netherlands荷蘭	位于欧洲西北部的低地国家
+#🇳🇱 Netherlands 荷蘭		位於歐洲西北部，東臨德國
 ########################################################################
+#1080P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/Eg3sgNb.png",BredaNu TV
+https://01.tv.streaming.bredanu.nl/hls/stream.m3u8
+
 #720P
 #EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/XtKLmQS.png",Omroep Súdwest
 https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
@@ -2548,83 +2767,23 @@ https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="",Trends Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 
-#🇲🇨 Monaco 摩納哥		位于欧洲法国的东南部沿海地区
+#🇫🇮 Finland 芬蘭			位於歐洲北部的國家，也是北歐五國之一
 ########################################################################
-#1080P
-#EXTINF:-1 group-title="🇲🇨 摩納哥" tvg-logo="https://i.imgur.com/cgjgjE1.png",Superyacht TV
-https://sy.wns.live/hls/stream.m3u8
-
-#🇦🇫 Afghanistan 阿富汗		位于亚洲中南部的内陆国家
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇦🇫 阿富汗" tvg-logo="https://i.imgur.com/yj8RNnG.png",AMC
-https://amchls.wns.live/hls/stream.m3u8
-
 #720P
-#EXTINF:-1 group-title="🇦🇫 阿富汗" tvg-logo="https://i.imgur.com/To7VnsA.png",Eslah TV
-https://eslahtvhls.wns.live/hls/stream.m3u8
-
+#EXTINF:-1 group-title="🇫🇮 芬蘭" tvg-logo="https://i.imgur.com/YteKXJy.png",Navahang TV
+https://hls.navahang.live/hls/stream.m3u8
 #720P
-#EXTINF:-1 group-title="🇦🇫 阿富汗" tvg-logo="https://i.imgur.com/edGyj5H.png",Tamadon TV
-https://hls.tamadon.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇫🇮 芬蘭" tvg-logo="https://i.imgur.com/YteKXJy.png",Navahang TV
+https://simahls.wns.live/hls/stream.m3u8
 
-
-#🇩🇪 德國
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇩🇪 德國" tvg-id="DW",DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#🇨🇦 Canada 加拿大		位于北美洲北部
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://i.imgur.com/jhVjkQB.png",Noovo Comédies Home
-https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://i.imgur.com/jhVjkQB.png",Noovo Téléréalités
-https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png",CPAC
-https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-
-#720P 
-#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-id="Global News",Global News ★
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
-
-#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-id="CHCO TV",CHCO TV
-
-
-#720P
-#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Erfan_Halqeh_logo.png",Erfan Halgheh TV
-https://hls.erfanhalgheh.live/hls/stream.m3u8
-
-#🇯🇵 日本
+#🇯🇵 Japan 日本			位於東亞的島國
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇯🇵 日本" tvg-id="NHK World Premium",NHK World Premium ★
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 
-#墨西哥
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇲🇽 墨西哥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png",Distrito Comedia
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=90284
-
-#1080P
-#EXTINF:-1 group-title="🇲🇽 墨西哥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png",Discovery Home & Health
-
-#1080P
-#EXTINF:-1 group-title="🇲🇽 墨西哥" tvg-logo="https://i.imgur.com/klhTyDU.png",Telemax
-http://s5.mexside.net:1935/telemax/telemax/.m3u8
-
-🇩🇴 Dominican Republic多明尼加	位於加勒比海的島國，與西側的海地共處於伊斯帕尼奧拉島
+🇩🇴 Dominican Republic 多明尼加		位於加勒比海的島國，與西側的海地共處於伊斯帕尼奧拉島
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇩🇴 多明尼加" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
@@ -2632,8 +2791,16 @@ https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 
 
 
-#🇦🇪 United Arab Emirates 阿聯酋		位于亚洲西南部、阿拉伯半岛东南的一个联邦制君主国
+#🇦🇪 United Arab Emirates 阿聯酋		位於西南亞的阿拉伯半島東南端
 ########################################################################
+#1080P
+#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://www.irtv.website/index_files/channels/pmcroyale.png",PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.imgur.com/4FXiyjn.png",MBC Persia
+https://hls.mbcpersia.live/hls/stream.m3u8
+
 #EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.imgur.com/H2TTn7t.png",Dubai Racing
 https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.imgur.com/H2TTn7t.png",Dubai Racing 2
@@ -2653,10 +2820,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://i.postimg.cc/hj8jYfz4/dubaisports3.png",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://www.irtv.website/index_files/channels/pmcroyale.png",PMC Royale
-https://pmcrohls.wns.live/hls/stream.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg",Peace TV Chinese
@@ -2685,6 +2848,13 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Turkiye-TV4.png",tv4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
+#720P
+#EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://i.imgur.com/o0eevnb.png",Zarok TV (Kurmancî)
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://i.imgur.com/o0eevnb.png",Zarok TV (Soranî - سۆرانی)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 
 #720P
 #EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://i.imgur.com/PexhKwp.png",4U TV
@@ -2694,8 +2864,6 @@ https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
 
-
-
 #720P
 #EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://i.postimg.cc/HxbHLRd6/dha.png",DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
@@ -2704,76 +2872,10 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
 
 
-#🇮🇷 Iran 伊朗		位於亞洲西南方之中東地區，屬西亞
-########################################################################
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/vZWdM86g/afra-film.jpg",AFRA Film
-https://afrafhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/0QqcjgXX/araxtv.png",arax TV
-https://araxhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/oo/oxir-tv.png",OXIR TV
-https://hls.oxir.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pars-tv-us.png",Pars TV
-https://parshls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="",Cafe Film
-https://cafefhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",Cafe Trade TV
-https://cafetradehls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/U4sKHWy.png",ITN TV
-https://itnhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png",FX 2
-https://toonixhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",Meta Film TV
-https://metafilmhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/8AfAfZE.png",AVA Series
-https://avaserieshls.wns.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.irtv.website/index_files/channels/avafamily.png",AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/n9cuM2W.jpg",SL 1
-https://slonehls.wns.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/BVuUx5R.jpg",SL 2
-https://sltwohls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/KvsfL3sM/goldstar.jpg",GOLD STAR
-https://moviethls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.postimg.cc/3w2FPSrX/newflix.png",NEWFLIX
-https://newfhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://www.lyngsat.com/logo/tv/hh/homeplus.png",HomePlus
-https://homeplushls.wns.live/hls/stream.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/X38vWJ1.png",YourTime TV
-https://hls.yourtime.live/hls/stream.m3u8
 
 
-#🇦🇿 阿塞拜疆
+
+#🇦🇿 阿塞拜疆			位於東歐和西亞交界處以及外高加索東部的跨大陸國家
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇦🇿 阿塞拜疆" tvg-id="ARB",ARB ★
@@ -2792,7 +2894,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv
 #EXTINF:-1 group-title="🇦🇿 阿塞拜疆" tvg-id="Space TV",Space TV ★
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 
-#🇪🇸 Spain西班牙	位於欧洲西南部的君主立宪制国家
+#🇪🇸 Spain 西班牙			位於歐洲西南部的君主立憲制國家
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/b0H5f62.png",Teledeporte
@@ -2802,14 +2904,19 @@ https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/rbJrmPw.png",SOL Música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
-#🇸🇾 敘利亞
+#🇸🇾 敘利亞			位於東地中海和黎凡特地區
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇸🇾 敘利亞" tvg-id="Syria",Syria
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 
+🇸🇩 Sudan 蘇丹			位於非洲東北部
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇸🇩 蘇丹" tvg-logo="https://i.imgur.com/BH1N6TA.png",Dabanga TV
+https://hls.dabangasudan.org/hls/stream.m3u8
 
-#🇦🇹 奧地利
+#🇦🇹 奧地利			位於中歐的內陸國家
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇦🇹 奧地利" tvg-logo="https://i.imgur.com/RYbR4Sf.png",K-TV
@@ -2821,17 +2928,9 @@ https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 group-title="🇦🇹 奧地利" tvg-logo="https://i.postimg.cc/8c78JM28/image.png",Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#🇧🇷 巴西
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇧🇷 巴西" tvg-logo="https://i.imgur.com/C0VEHXU.png",Discovery Kids
-
-#1080P
-#EXTINF:-1 group-title="🇧🇷 巴西" tvg-logo="https://i.imgur.com/BMqSDNn.png",Prime
 
 
-
-#🇵🇹 葡萄牙	位于欧洲西南部
+#🇵🇹 Portugal 葡萄牙		位於西南歐伊比利亞半島上的一個共和制國家
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇵🇹 葡萄牙" tvg-logo="",SIC
@@ -2841,7 +2940,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 group-title="🇵🇹 葡萄牙" tvg-logo="https://i.postimg.cc/x1K0D69n/tvi.png",tvi
 
 
-#🇷🇺 Russia 俄羅斯		位于欧亚大陆北部
+#🇷🇺 Russia 俄羅斯		位於歐亞大陸北部的聯邦共和國
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/TXtY5eM.png",START WORLD
@@ -2858,6 +2957,10 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/aeu5zIC.png",RTД
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/896132Z.png",TV BRICS Chinese
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24
@@ -2890,7 +2993,7 @@ https://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 https://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 
 
-#🇧🇬 保加利亞
+#🇧🇬 保加利亞			位於東南歐巴爾幹半島上的國家
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇧🇬 保加利亞" tvg-logo="https://www.lyngsat.com/logo/tv/cc/code-fashion-tv-bg.png",CODE FASHION
@@ -2900,23 +3003,20 @@ https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
 https://cdn2.invivo.bg/Codefashion_5500/tracks-v2a1/mono.m3u8
 
 
-#🇵🇪 秘魯
-########################################################################
-#720P
-#EXTINF:-1 group-title="🇵🇪 秘魯" tvg-id="Antares",Antares
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
-#🇦🇷 阿根廷
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇦🇷 阿根廷" tvg-id="Litus",Litus ★
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+
 
 #720P
 #EXTINF:-1 group-title="🇦🇷 阿根廷" tvg-id="PowerHD",PowerHD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
-#🇵🇰 Pakistan巴基斯坦
+🇳🇵 Nepal 尼泊爾			是南亞喜馬拉雅山脈地區的內陸國家
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇳🇵 尼泊爾" tvg-logo="https://i.imgur.com/EwDQ12F.png",Divya Darshan TV
+http://live.divyadarshantv.com/hls/stream.m3u8
+
+#🇵🇰 Pakistan 巴基斯坦
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇵🇰 巴基斯坦" tvg-logo="https://i.imgur.com/IJH47fJ.png",Discover Pakistan
@@ -2953,11 +3053,7 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 http://smart.cityq.xyz:8278/aljazeera_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4f73519a427cb4762d2fc318fc05d87d
 
 
-#🇵🇭 菲律賓
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇵🇭 菲律賓" tvg-logo="https://i.imgur.com/cWCVP3j.png",GMA Pinoy TV
-https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+
 
 
 
