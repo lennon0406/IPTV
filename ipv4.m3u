@@ -1,4 +1,33 @@
 #EXTM3U
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+
+http://80.94.54.42/fashiontv/stream/chunklist.m3u8
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+http://80.94.54.42/fashiontv/stream/index.m3u8
+
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+http://lb.streaming.sk/fashiontv/stream/index.m3u8
+
+
+
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist.m3u8
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/index.m3u8
+
+
+
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+http://120.76.248.139/live/bfgd/4200000225.m3u8
+
 #480P
 #EXTINF:-1 group-title="🇰🇭🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
@@ -3318,6 +3347,9 @@ http://iptv.4666888.xyz/iptv2A.php?id=4
 #540P
 #EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",搜狐視頻
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+
+https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+
 #720P
 #EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",喜劇
 http://live.metshop.top/huya/11342423?cdn=alicdn
@@ -3329,6 +3361,8 @@ http://live.metshop.top/huya/880261?cdn=alicdn
 #EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",劉德華
 http://live.metshop.top/huya/11342424?cdn=alicdn
 
+#EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",周潤發
+http://222.186.39.38:8000/587078/index.m3u8
 
 #📽️ 電影 | 解說
 ########################################################################
