@@ -1,11 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 ,Unknown_40
-http://iptv.4666888.xyz/iptv2A.php?id=39
-#EXTINF:-1 ,Unknown_41
-http://iptv.4666888.xyz/iptv2A.php?id=40
-
-
 #480P
 #EXTINF:-1 group-title="🇰🇭🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
@@ -24,14 +17,9 @@ http://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 #EXTINF:-1 group-title="🇰🇭🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 
-
 #480P
 #EXTINF:-1 group-title="🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/thrill.png",thrill
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
-#EXTINF:-1 group-title="🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/thrill.png",thrill
-http://smart.cityq.xyz:8278/Thrill/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=65c2cb5aec92c8119f2c29461c640231
-#EXTINF:-1 group-title="🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/thrill.png",thrill
-http://smart.cityq.xyz:8278/Thrill/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f5d66da861193c2db867043239712cd9
 
 #720P
 #EXTINF:-1 group-title="🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/KIX.png",KIX
@@ -40,56 +28,12 @@ http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PopC.png",PopC
 http://bxtv.3a.ink/api.php?id=popc
-
-#720P
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/myTVSUPER.png",myTV SUPER 1
-http://iptv.4666888.xyz/iptv2A.php?id=22
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/myTVSUPER.png",myTV SUPER 1
 http://bxtv.3a.ink/api.php?id=qxjd
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/myTVSUPER.png",myTV SUPER 2
-http://iptv.4666888.xyz/iptv2A.php?id=24
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/myTVSUPER.png",myTV SUPER 3
-http://iptv.4666888.xyz/iptv2A.php?id=32
 
 
 
 
-
-
-#2160P
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",浙江衛視 4K超高清
-https://play-qukan.cztv.com/live/1758879019692345.m3u8
-
-#2160P
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",深圳衛視 4K超高清
-http://cdn3.101.qzz.io/163189/szws4k
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",深圳衛視 4K超高清
-http://cdn3.163189.xyz/163189/szws4k
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",深圳衛視 4K超高清
-http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K超高清" tvg-logo="",深圳衛視 4K超高清
-http://cdn8.163189.xyz/163189/szws4k
-
-#1080P
-#EXTINF:-1 group-title="" tvg-logo="",深圳財經生活
-http://cdn3.101.qzz.io/163189/szcjsh
-#EXTINF:-1 group-title="" tvg-logo="",深圳財經生活
-http://cdn3.163189.xyz/163189/szcjsh
-#EXTINF:-1 group-title="" tvg-logo="",深圳財經生活
-http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",深圳財經生活
-http://cdn8.163189.xyz/163189/szcjsh
-
-
-#EXTINF:-1 group-title="" tvg-logo="",四平 新聞綜合
-http://stream2.jlntv.cn/sptv/sd/live.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Golf.png",Golf
-http://smart.cityq.xyz:8278/Agolf/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=bf77fae2b7de1ba581af1fb0742cc78b
 
 #1080P
 #EXTINF:-1 group-title="" tvg-logo="",encore
@@ -97,35 +41,17 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="" tvg-logo="",encore
 https://streams2.sofast.tv/ptnr-yupptv/title-ENCORE-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/390efe7e-4a1a-4f9f-8266-b4d90ab7121a/6f2b4dea-2fa5-48b6-b743-84f823152fb4/2.m3u8
 
-#1080P
-#EXTINF:-1 group-title="埃及" tvg-logo="https://i.postimg.cc/wBsfSbK2/pncdrama.png",PNC Drama
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
-
-#1080P
-#EXTINF:-1 group-title="" tvg-logo="",rotana-aflam-plus
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
-
 #720P
 #EXTINF:-1 group-title="" tvg-logo="",horror machine
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
-#720P
-#EXTINF:-1 group-title="" tvg-logo="",horror machine
-https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 
 #720P
 #EXTINF:-1 group-title="" tvg-logo="",wired2fish
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wired2fish/playlist.m3u8
 
 #1080P
-#EXTINF:-1 group-title="" tvg-logo="",puissance television
-https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-
-#1080P
 #EXTINF:-1 group-title="" tvg-logo="",motor vision tv
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="",NORTE visión
-http://amaru.dyndns.org:8870/0.m3u8
 
 #1080P
 #EXTINF:-1 group-title="" tvg-logo="",VoA TV
@@ -838,11 +764,7 @@ http://cdn9.163189.xyz/smt1.1.php?id=Qiyi
 ########################################################################
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Ria.png",astro Ria
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Prima.png",astro Prima
-
-#540P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Oasis.png",astro Oasis
-http://smart.cityq.xyz:8278/Oasis/playlist.m3u8?tid=MABA2020629120206291&ct=19249&tsum=46be05252007b1efaae28ae3ab4cc7bb
-
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Citra.png",astro Citra
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Rania.png",astro Rania
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Aura.png",astro Aura
@@ -927,27 +849,14 @@ http://87.255.35.150:18840
 
 #運動
 ########################################################################
-#1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",astro Arena
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png",astro Arena 2
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",astro Arena Bola
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png",astro Arena Bola 2
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",astro Sports UHD
-
-#1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",astro Grandstand
-
-#1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",astro Premier League
-http://smart.cityq.xyz:8278/Assp1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=895bb7474f0180ad25f5fb3e6504200c
-
-#1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",astro Premier League 2
-http://smart.cityq.xyz:8278/Assp2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=441fd03ebfe3a777de76f10492e74b47
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",astro Premier League 2
-http://smart.cityq.xyz:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
-
-
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png",astro Premier League 3
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/568_144.png",astro Premier League 4
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png",astro Premier League 5
@@ -958,11 +867,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=4
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png",astro Badminton
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="",astro Badminton 2
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png",astro Sports Plus
-
-#1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",astro Cricket
-
-#720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-sport
 
 
@@ -1014,15 +919,9 @@ http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-MU.png",MU
 http://cdn6.101.qzz.io/163189/chu
 
-#540P
-#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png",AXN
-http://smart.cityq.xyz:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
-#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png",AXN
-http://smart.cityq.xyz:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
 
-#1080P
+#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png",AXN
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HBOSignatureAsia.png",HBO Signature
-http://smart.cityq.xyz:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-id="HBO Asia",HBO Asia
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-id="HBO Family Asia",HBO Family Asia
 
@@ -1053,41 +952,15 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 ########################################################################
 #IndiHomeTV
 ##############################
-#720P
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",IndiHomeTV 天映頻道
-http://smart.cityq.xyz:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",IndiHomeTV 天映頻道
-http://smart.cityq.xyz:8278/Celestialindo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6b606cecf8c8f952cd6a9f5d9774f394
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",IndiHomeTV 天映頻道
-http://smart.cityq.xyz:8278/Celestialindo/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=345dfee9bedab7b1d4f2372a1faebd18
-
-#720P
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/transtv-white.png",TransTV
-http://smart.cityq.xyz:8278/Transtv/playlist.m3u8?tid=MCFC2537709525377095&ct=19249&tsum=dcb22c095fc52f971f7dea381f456a43
-
-#720P
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-antv.png",antv
-http://smart.cityq.xyz:8278/Antv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ee3b56d5da66231fc3ee9dc9dafc786c
 
-#1080P
+
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/AnimalPlanet.png",Animal Planet
-http://smart.cityq.xyz:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/AnimalPlanet.png",Animal Planet
-http://smart.cityq.xyz:8278/AnimalPlanet/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=6d2818cd115581012d7b0cb83eeebd1e
-
-#720P
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Animax.png",ANIMAX
-http://smart.cityq.xyz:8278/Animax/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=aceff7688c2c3307497c5161715a262f
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Animax.png",ANIMAX
-http://smart.cityq.xyz:8278/Animax/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=90ba99b6d5f029b594e33429eb569415
-
-#720P
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-MetroTV.png",MetroTV
-http://smart.cityq.xyz:8278/metrotv_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=99329a7a667558dce68f0420cf676b89
-
-#720P
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/SK8pjQy.png",MNC TV
-http://smart.cityq.xyz:8278/Mnctv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ea845e9031e34ef4f68d13d6ea0bd7bf
 
 #1080P
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/sXsAcZ3.png",Garuda TV
@@ -1134,8 +1007,6 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #720P
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-BERITASATU.png",BERITA SATU
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Indonesia-BERITASATU.png",BERITA SATU
-http://smart.cityq.xyz:8278/BeritaSatu_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3d62701e711c2cd6a892d23ccfe749e2
 
 #720P
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://i.imgur.com/YC7JCHo.png",DAAI TV
@@ -1357,6 +1228,13 @@ http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-Entertainment.png",TVB 娛樂新聞台
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",TVB 星河頻道
 
+#720P
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-myTVSUPER.png",myTV SUPER 1
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-myTVSUPER.png",myTV SUPER 2
+http://iptv.4666888.xyz/iptv2A.php?id=24
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-myTVSUPER.png",myTV SUPER 3
+http://iptv.4666888.xyz/iptv2A.php?id=32
 
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixHK.png",鳳凰衛視 香港台
@@ -2218,8 +2096,6 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 http://23.237.228.134/live3/CCTV17.m3u8
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-17.png",CCTV-17 農業農村
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-17.png",CCTV-17 農業農村
-http://smart.cityq.xyz:8278/cctv17/playlist.m3u8?tid=MF0F5246765152467651&ct=20241&tsum=061acab78d0f92b69202a19a3483b7a8
 
 #1080P
 #EXTINF:-1 group-title="🇨🇳 中國 | 央視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CGTN.png",CGTN
@@ -2504,6 +2380,13 @@ http://php.jdshipin.com:8880/gztv.php?id=xinwen
 http://r.jdshipin.com/nWaZO
 
 
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="",四平 新聞綜合
+http://stream2.jlntv.cn/sptv/sd/live.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="",新疆 克拉瑪依2
+https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
+
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-id="東莞生活資訊",東莞生活資訊
 http://php.jdshipin.com/0769.php?id=shzx
@@ -2561,8 +2444,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
-http://smart.cityq.xyz:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
 
 #1080P
 #EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/01UmXRe.png",BBS 불교방송
@@ -2649,9 +2530,7 @@ https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/in
 #EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/40kNu1w.png",Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
 
-#1080P
 #EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/India-Asianet.png",Asianet
-http://smart.cityq.xyz:8278/asianet_raj/playlist.m3u8?tid=MB4B2450319024503190&ct=19254&tsum=ad3799bb18ad9ecf8dbd135dcf453f47
 
 
 
@@ -2677,6 +2556,10 @@ https://hls.tamadon.live/hls/stream.m3u8
 
 #🇸🇦 Saudi Arabia 沙烏地阿拉伯		位於亞洲西部的國家
 ########################################################################
+#1080P
+#EXTINF:-1 group-title="🇸🇦 沙烏地阿拉伯" tvg-logo="https://i.imgur.com/DLDfFpu.png",Rotana Aflam+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
+
 #720P
 #EXTINF:-1 group-title="🇸🇦 沙烏地阿拉伯" tvg-logo="https://i.imgur.com/Knd2lAQ.png",Al Khalij TV
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
@@ -2827,6 +2710,10 @@ https://tfnhls.wns.live/hls/stream.m3u8
 https://ptravelhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Travel
 https://mardomhls.wns.live/hls/stream.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="",Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="",Trends Z
@@ -3029,12 +2916,8 @@ https://yahoofinance-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-id="Hi-YAH!",Hi-YAH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
-#720P 
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-id="NBC News NOW",NBC News NOW
-
-#720P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/abcNEWSLIVE.png",abc News Live
-http://smart.cityq.xyz:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 
 #720P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/26uv1ww.png",NTD TV
@@ -3400,6 +3283,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv
 #EXTINF:-1 group-title="🇦🇿 阿塞拜疆" tvg-id="Space TV",Space TV ★
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 
+
 #🇪🇸 Spain 西班牙			位於歐洲西南部的君主立憲制國家
 ########################################################################
 #1080P
@@ -3410,17 +3294,28 @@ https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/rbJrmPw.png",SOL Música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
-#🇸🇾 敘利亞			位於東地中海和黎凡特地區
+#1080P
+#EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/C5SYw7B.png",NORTE visión
+http://amaru.dyndns.org:8870/0.m3u8
+
+#🇸🇾 Syria 敘利亞			位於東地中海和黎凡特地區
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇸🇾 敘利亞" tvg-id="Syria",Syria
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 
-🇸🇩 Sudan 蘇丹			位於非洲東北部
+#🇸🇩 Sudan 蘇丹			位於非洲東北部
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇸🇩 蘇丹" tvg-logo="https://i.imgur.com/BH1N6TA.png",Dabanga TV
 https://hls.dabangasudan.org/hls/stream.m3u8
+
+#🇪🇬 Egypt 埃及			位於北非的國家
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇪🇬 埃及" tvg-logo="https://i.postimg.cc/wBsfSbK2/pncdrama.png",PNC Drama
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
+
 
 #🇦🇹 奧地利			位於中歐的內陸國家
 ########################################################################
@@ -3554,11 +3449,6 @@ http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #1080P
 #EXTINF:-1 group-title="🇶🇦 卡塔爾" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#720P
-#EXTINF:-1 group-title="🇶🇦 卡塔爾" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera
-http://smart.cityq.xyz:8278/aljazeera_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4f73519a427cb4762d2fc318fc05d87d
-
-
 
 
 
@@ -3692,6 +3582,12 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 #EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",lbssxj
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",39
+http://iptv.4666888.xyz/iptv2A.php?id=39
+#EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",40
+http://iptv.4666888.xyz/iptv2A.php?id=40
+
 
 
 #📽️ 電影 | 解說
