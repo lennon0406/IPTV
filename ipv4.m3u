@@ -89,7 +89,13 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Emblem.png",BEIN SPORTS XTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
+#720P
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/SBSCJB.png",SBS CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 
+#720P
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/KCTV.png",KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_tvbox6.com.m3u8
 
 #Auto
 #EXTINF:-1 group-title="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Emblem.png",OUTDOOR
