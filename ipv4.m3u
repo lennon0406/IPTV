@@ -66,6 +66,10 @@ https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
 
+
+
+
+
 #720P
 #EXTINF:-1 group-title="" tvg-logo="",Classic TV
 https://scbhls.wns.live/hls/stream.m3u8
@@ -89,17 +93,19 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Emblem.png",BEIN SPORTS XTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#720P
-#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/SBSCJB.png",SBS CJB
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 
-#720P
-#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/KCTV.png",KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist_tvbox6.com.m3u8
+
+
 
 #Auto
 #EXTINF:-1 group-title="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Emblem.png",OUTDOOR
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+
+
+
+
+
 
 
 #Auto
@@ -384,9 +390,13 @@ https://cdn-live.dltv.ac.th/smil:origin03-dltv-15-adaptive.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://www.dltv.ac.th/upload/data/channels/15_channel_logo.png",DLTV 15
 https://cdn-live.dltv.ac.th/smil:origin03-dltv-15-adaptive.smil/index.m3u8
 
-
+#720P
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",SBB TV
-https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist_w1963518567.m3u8
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",SBB TV
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",SBB TV
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
@@ -408,8 +418,13 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Suwannabhumi
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
+#720P
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Zabb
-https://vdo.plathong.net/flash7057/flash7057/chunklist_w432204328.m3u8
+https://vdo.plathong.net/flash7057/flash7057/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Zabb
+https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Zabb
+https://vdo.plathong.net/flash7057/flash7057/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Rama
 https://ramach.ddns.net/live/ramalive/index.m3u8
@@ -417,16 +432,29 @@ https://ramach.ddns.net/live/ramalive/index.m3u8
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Boonniyom TV
 https://live.x2.co.th/live/bntv_720p/index.m3u8
 
+#576P
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Lanthung TV
-https://live-us1.thaimomo.com/live-as/chlantung-2/chunklist_w186975106.m3u8
+https://live-us1.thaimomo.com/live-as/chlantung-2/chunklist.m3u8
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Lanthung TV
-https://live-us1.thaimomo.com/live-as/chlantung-2/chunklist_w1919204453.m3u8
+https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Lanthung TV
+https://live-us1.thaimomo.com/live-as/chlantung-2/index.m3u8
 
+#720P
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",TV Muslim Thailand
-https://vdo.plathong.net/tvmuslim/tvmuslim/chunklist_w785455566.m3u8
+https://vdo.plathong.net/tvmuslim/tvmuslim/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",TV Muslim Thailand
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",TV Muslim Thailand
+https://vdo.plathong.net/tvmuslim/tvmuslim/index.m3u8
 
+#1080P
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Police TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/chunklist_w781980700.m3u8
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
@@ -600,7 +628,6 @@ https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b2596000_slmsa.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-SelangorTV.png",SelangorTV
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b1628000_slmsa.m3u8
 
-
 #🇲🇾 馬來西亞 Media Prima
 ######################################
 #720P
@@ -638,9 +665,8 @@ http://php.jdshipin.com:8880/smt.php?id=TV8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 Media Prima" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-TV8.png",八度空間
 http://php.jdshipin.com:8880/smt.php?id=TV8&.m3u8
 
-#720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Media Prima" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-TV9.png",TV9
 
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 Media Prima" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-TV9.png",TV9
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 Media Prima" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-DramaSangat.png",Drama Sangat
 
 
@@ -2393,21 +2419,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=37
 
 
 
-#1080P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GOODTV.png",GOOD TV
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 #720P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GOODTV.png",GOOD TV
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GOODTV.png",GOOD TV
 https://live.streamingfast.net/osmflivech1.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GOODTV.png",GOOD 2
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
 #720P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GOODTV.png",GOOD 2
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GOODTV.png",GOOD 2
 https://live.streamingfast.net/osmflivech2.m3u8
 
@@ -2548,13 +2563,44 @@ http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/
 #EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
+#Auto
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/index.m3u8
+
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/index.m3u8
+
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/index.m3u8
+
+
 #1080P
 #EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/01UmXRe.png",BBS 불교방송
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
 #720P
-#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/IHkZpaI.png",KCTV 한국케이블TV광주방송
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/IHkZpaI.png",KCTV
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/IHkZpaI.png",GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/IHkZpaI.png",RUTC
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
 
 #1080P
 #EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Ey7Htm8.png",Gugak 국악방송TV
@@ -2570,6 +2616,40 @@ http://iptv.4666888.xyz/iptv2A.php?id=1
 #1080P
 #EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="",CGN 中文台
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/iAz0Psw.png",SBS JIBS
+http://123.140.197.22/stream/1/play.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/SBSCJB.png",SBS CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/MBC.png",MBC 충북
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/SBSG1.png",SBS G1
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/SBSJTV.png",SBS JTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png",EBS 1 Ⓢ
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png",EBS 2 Ⓢ
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/ImUHRG2.png",EBS Plus 1 Ⓢ
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/mgFRZFq.png",EBS Plus 2 Ⓢ
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/qceaIf7.png",EBS English Ⓢ
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/62oo8Bx.png",EBS Kids Ⓢ
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 
 
@@ -3140,7 +3220,7 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 
 
-#🇺🇸 美國				位于北美洲，北面与加拿大接壤，南面濒临墨西哥湾，西面是太平洋，东面是太平洋
+#🇺🇸 United States 美國			位于北美洲，北面与加拿大接壤，南面濒临墨西哥湾，西面是太平洋，东面是太平洋
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/a1zuW2C.png",Radio Javan TV
@@ -3200,7 +3280,12 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/abcNEWSLIVE.png",abc News Live
 https://content-aapm1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/e.m3u8?pbs=82c63576f27e4984a9e4e7053e6e3f1b
 
-
+#1080P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/UnitedStates-SupremeMaster.png",Supreme Master TV
+https://lbs-us1.suprememastertv.com/1080p.m3u8
+#720P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/UnitedStates-SupremeMaster.png",Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
 
 #720P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/26uv1ww.png",NTD TV
@@ -3329,6 +3414,7 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 #720P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/esK4CBZ.png",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist.m3u8
+
 
 #🇨🇦 Canada 加拿大		位于北美洲北部
 ########################################################################
