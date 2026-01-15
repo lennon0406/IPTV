@@ -67,6 +67,24 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
 
 
+#Ukraine 烏克蘭
+########################################################################
+#1080P
+#EXTINF:-1 group-title="" tvg-logo="",news24
+https://streamvideol1.luxnet.ua/news24/livenews_1080p/index.m3u8
+#720P
+#EXTINF:-1 group-title="" tvg-logo="",news24
+https://streamvideol1.luxnet.ua/news24/livenews_720p/index.m3u8
+
+#720P
+#EXTINF:-1 group-title="" tvg-logo="",freedom
+https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/FreeDom_video_high_.m3u8
+
+#720P
+#EXTINF:-1 group-title="" tvg-logo="",First City Odessa
+https://live.1tv.od.ua/stream1/channel1/chunks.m3u8
+
+
 
 
 
@@ -3047,60 +3065,65 @@ https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 ########################################################################
 #Persiana
 #720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Family
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
 #720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Cinema
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Series
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
 #720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Korea
-https://korhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Vibe
-https://raphls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Iranian
-https://irhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Plus
-https://euhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Docs
-https://scihls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Junior
-https://junhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Folk
-https://sonhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
-#1080P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana 4Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Turkiye
-https://turkhls.persiana.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Reality
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Reality
 https://twohls.persiana.live/hls/stream.m3u8
 #720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Medical
-https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
 #720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Medical
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana K-POP
+https://raphls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Persiana+
+https://euhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Sonnati
+https://sonhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#1080P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Medical
 https://tfnhls.wns.live/hls/stream.m3u8
 #720P
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Travel
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Travel
 https://ptravelhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://www.persianagroup.tv/logo.png",Persiana Travel
+#EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/France-Persiana.png",Persiana Travel
 https://mardomhls.wns.live/hls/stream.m3u8
 
 #1080P
@@ -3762,6 +3785,188 @@ http://iptv.4666888.xyz/iptv2A.php?id=4
 
 #🎥 電影
 ########################################################################
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Biz Cinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Biz TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",NTV Afrique
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv1080p/chunks.m3u8?nimblesessionid=84250883
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",NTV Afrique
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/chunks.m3u8?nimblesessionid=84250883
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Carac 1
+https://edge17.vedge.infomaniak.com/livecast/ik:event/chunklist_w128851239.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Carac 1
+https://edge17.vedge.infomaniak.com/livecast/ik:event/chunklist_w861189955.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Carac 2
+https://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1155809816_b3000720.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Carac 2
+https://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1155809816_b1600720.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Carac 3
+https://edge14.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1802471474_b3000000.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Carac 3
+https://edge14.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1802471474_b1600000.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Carac 4
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist_w1692031311_b3000000.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Carac 4
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist_w1692031311_b1600000.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",LFM TV
+https://edge18.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1519170857_b3000000.m3u8?spark=0cd60229-3c32-4e11-b105-2b1d809bb26c&token=
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",LFM TV
+https://edge18.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1519170857_b1600000.m3u8?spark=0cd60229-3c32-4e11-b105-2b1d809bb26c&token=
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Popstar! TV
+https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist_1920x1080.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Popstar! TV
+https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist_1280x720.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",JOJ TV
+https://live.cdn.joj.sk/live/andromeda/joj-1080.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",JOJ TV
+https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",JOJ Plus
+https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",JOJ Plus
+https://live.cdn.joj.sk/live/andromeda/plus-720.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",JOJ Family
+https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",JOJ Family
+https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Groovy TV
+https://web.onair-radio.eu/groovytv/groovytv/chunklist_w728645444.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Groovy TV
+https://web.onair-radio.eu/groovytv/groovytv/chunklist_w837988027.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",DOVE
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist_1920x1080.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",DOVE
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist_1280x720.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",AfroLand TV
+https://alt-al.otteravision.com/alt/al/al_1080p.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",AfroLand TV
+https://alt-al.otteravision.com/alt/al/al_720p.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Revry TV
+https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist_1920x1080.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Revry TV
+https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist_1280x720.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",MyTime Movie
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist1080p.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",MyTime Movie
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",30A Classic Movies
+https://30a-tv.com/feeds/720p/52.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Movie Sphere
+https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Movie Sphere
+https://moviesphereuk-samsunguk.amagi.tv/720p-vtt/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Cowboy Movie
+https://streams2.sofast.tv/sofast2/v1/0197c4fd45d01ea506ec94c3cd653/0197c4fdae7a1ea506492547d864d/cowboy_movie_eng_3500k.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Cowboy Movie
+https://streams2.sofast.tv/sofast2/v1/0197c4fd45d01ea506ec94c3cd653/0197c4fdae7a1ea506492547d864d/cowboy_movie_eng_2500k.m3u8
+
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",YTA TV
+https://yta.unitedteleports.tv/hls/YTA/720-HD/YTA-720SCTE35.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Electric Now
+https://amg01705-amg01705c1-amgplt0274.playout.now3.amagi.tv/1080p-cc/index.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Electric Now
+https://amg01705-amg01705c1-amgplt0274.playout.now3.amagi.tv/720p-cc/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Cine TV 1
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist1080p.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Cine TV 1
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Cine TV 2
+https://fl31.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Comet TV
+https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Comet TV
+https://fast-channels.sinclairstoryline.com/COMET/index_2.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Brat TV
+https://brat-samsung-us.amagi.tv/1080p-vtt/index.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",Brat TV
+https://brat-samsung-us.amagi.tv/720p-vtt/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",BBC Drama Italy
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",BBC Drama Italy
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/720p/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",BBC Doctor Who Classic
+https://bbc-classicdrwho-1-us.xumo.wurl.tv/4300.m3u8
+#720P
+#EXTINF:-1 group-title="🎥 電影" tvg-logo="",BBC Doctor Who Classic
+https://bbc-classicdrwho-1-us.xumo.wurl.tv/3000.m3u8
+
+
 
 
 #🎬 電影 | 中文
