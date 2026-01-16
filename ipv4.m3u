@@ -17,19 +17,25 @@ http://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 #EXTINF:-1 group-title="🇰🇭🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 Vision+" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/thrill.png",thrill
-https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
-
 #720P
 #EXTINF:-1 group-title="🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/KIX.png",KIX
 http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=926171
 
+
+
+
+
+
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PopC.png",PopC
+http://rihou.cc:555/tv/[Bx]pₒₚc电影
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PopC.png",PopC
 http://bxtv.3a.ink/api.php?id=popc
+
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/myTVSUPER.png",myTV SUPER 1
 http://bxtv.3a.ink/api.php?id=qxjd
-
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/myTVSUPER.png",myTV SUPER 18
+http://bxtv.3a.ink/api.php?id=18
 
 #1080P
 #EXTINF:-1 group-title="" tvg-logo="",encore
@@ -121,7 +127,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 
 
-
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 Vision+" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/thrill.png",thrill
+https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 
 
 
@@ -423,14 +430,14 @@ https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
 
 #1080P
-#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://news1live.com/images/social-share-logo.png",News1
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Thailand-NEWS1.png",NEWS 1
 http://news1.live14.com/stream/news1_hi.m3u8
 
 #1080P
-#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://i.imgur.com/CwalZjr.png",Thai PBS
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Thailand-ThaiPBS.png",Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #720P
-#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://i.imgur.com/CwalZjr.png",Thai PBS
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Thailand-ThaiPBS.png",Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Suwannabhumi
@@ -444,7 +451,7 @@ https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Zabb
 https://vdo.plathong.net/flash7057/flash7057/index.m3u8
 
-#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Rama
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Thailand-RAMA.png",RAMA
 https://ramach.ddns.net/live/ramalive/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Boonniyom TV
@@ -474,12 +481,12 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/index.m3u8
 
-#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Top News
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Thailand-TOPNEWS.png",TOP NEWS
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Thai Parliament Television
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Thailand-TPTV.png",Thai Parliament
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
-#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="",Thai Parliament Television
+#EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Thailand-TPTV.png",Thai Parliament
 https://tv-live.tpchannel.org/live/tv_720p.m3u8
 
 
@@ -768,6 +775,9 @@ http://cdn9.163189.xyz/smt3.1.1.php?id=Quanjia
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-QJ.png",astro QJ
 http://cdn9.163189.xyz/smt1.1.php?id=Quanjia
 
+#1080P
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
+http://rihou.cc:555/tv/[PL]Astroaod
 #540P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
@@ -873,12 +883,10 @@ http://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/ind
 
 #印度人
 ######################################
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",astro Vaanavil
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",astro Vinmeen
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png",astro Vellithirai
-
-#720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png",astro Thangathirai
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Vaanavil.png",astro Vaanavil
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Vinmeen.png",astro Vinmeen
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Vellithirai.png",astro Vellithirai
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Thangathirai.png",astro Thangathirai
 
 
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609082645830029_30.png",Colors Hindi
@@ -923,40 +931,37 @@ http://87.255.35.150:18840
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="",CNN
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="",BBC News
 
-#720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png",astro Showcase
 
-#720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",astro Boo
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Showcase.png",astro Showcase
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Boo.png",astro Boo
 
 
 #音樂
 ######################################
-#720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV Live
 
 
 #運動
 ######################################
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",astro Arena
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png",astro Arena 2
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",astro Arena Bola
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png",astro Arena Bola 2
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",astro Sports UHD
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",astro Grandstand
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",astro Premier League
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",astro Premier League 2
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/538_144.png",astro Premier League 3
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/568_144.png",astro Premier League 4
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png",astro Premier League 5
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Arena.png",astro Arena
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Arena2.png",astro Arena 2
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-ArenaBola.png",astro Arena Bola
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-ArenaBola2.png",astro Arena Bola 2
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-SportsUHD.png",astro Sports UHD
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Grandstand.png",astro Grandstand
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-PremierLeague.png",astro Premier League
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-PremierLeague2.png",astro Premier League 2
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-PremierLeague3.png",astro Premier League 3
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-PremierLeague4.png",astro Premier League 4
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-PremierLeague5.png",astro Premier League 5
 
 #720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",astro Football
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Football.png",astro Football
 http://iptv.4666888.xyz/iptv2A.php?id=4
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png",astro Badminton
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="",astro Badminton 2
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png",astro Sports Plus
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",astro Cricket
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Badminton.png",astro Badminton
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Badminton2.png",astro Badminton 2
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-SportsPlus.png",astro Sports Plus
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Cricket.png",astro Cricket
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-sport
 
 
@@ -966,7 +971,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=4
 
 #卡通
 ######################################
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042632173633_12.png",astro Warna
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-Warna.png",astro Warna
 
 
 
@@ -1824,6 +1829,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixHK.png",鳳凰衛視 香港台
 http://r.jdshipin.com/yDoTN
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixHK.png",鳳凰衛視 香港台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixHK.png",鳳凰衛視 香港台
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixHK.png",鳳凰衛視 香港台
 http://cdn6.101.qzz.io/163189/fhhk
@@ -1955,6 +1962,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Phoenix.png",鳳凰衛視 中文台
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Phoenix.png",鳳凰衛視 中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Phoenix.png",鳳凰衛視 中文台
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Phoenix.png",鳳凰衛視 中文台
 http://cdn6.101.qzz.io/163189/fhzw
@@ -2020,6 +2029,8 @@ http://www.liyajun.top:7088/udp/239.253.93.81:6247
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/MeiYa.png",美亞電影台
 http://iptv.4666888.xyz/iptv2A.php?id=30
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/MeiYa.png",美亞電影台
+http://bxtv.3a.ink/api.php?id=meiya
 #720P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/MeiYa.png",美亞電影台
 http://php.jdshipin.com/PLTV/iptv.php?id=meiya
