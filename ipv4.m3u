@@ -1,4 +1,115 @@
 #EXTM3U
+#1080P
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Germany
+https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Thriller Germany
+https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
+
+#1080P
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Finland
+https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
+
+
+#1080P
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Alarm for Cobra France
+https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Thriller France
+https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
+
+#1080P
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Asian Cinema Italy
+https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Asian Sci-Fi Italy
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+
+
+#1080P
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Gipsy Kings Spain
+https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Thriller Spain
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Rantaro Ninja Boy Spain
+https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Rantaro Sci-Fi Spain
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+
+#1080P
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Thriller United Kingdom
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Sci-Fi United Kingdom
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
+
+#1080P
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Top Movies Poland
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
+#EXTINF:-1 group-title="Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV The Guardian Poland
+https://the-guardian-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime movie network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cooking" tvg-logo="https://i.imgur.com/xP7Ehn8.png",Tastemade
+https://tastemade-aus-tmina-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-aus-rakuten-eu/CDN/master.m3u8
+#EXTINF:-1 group-title="Cooking" tvg-logo="https://i.imgur.com/xP7Ehn8.png",Tastemade (1080p)
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Tennis Channel Germany (720p)
+https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WIeZMKT.png",Vive Kanal D Drama (1080p)
+https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Waterbear (1080p)
+https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",World of Love Island (1080p)
+https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",XITE (720p)
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Zylo Cine Friki (1080p)
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Zylo Ciné Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Undefined",Televisa Telenovela Channel
+https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Travelxp Germany (720p)
+https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Travelxp France (720p)
+https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Travelxp Spain (720p)
+https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",DEFA TV (720p)
+https://wdrmediagroup-defatv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+
+#540P
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
+http://php.jdshipin.com/smt.php?id=Celestial&.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
+http://php.jdshipin.com:8880/smt.php?id=Celestial
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
+http://php.jdshipin.com:8880/smt.php?id=Celestial&.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
+http://rihou.cc:555/tv/[SX]天映频道
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
+http://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
+http://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
+http://cdn9.163189.xyz/smt1.1.php?id=Celestial
+
+
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 Vision+" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",IndiHomeTV 天映頻道
+
 #480P
 #EXTINF:-1 group-title="🇰🇭🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
@@ -10,6 +121,8 @@ http://php.jdshipin.com/smt.php?id=Celestial2&.m3u8
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
 #EXTINF:-1 group-title="🇰🇭🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://php.jdshipin.com:8880/smt.php?id=Celestial2&.m3u8
+#EXTINF:-1 group-title="🇰🇭🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
+http://rihou.cc:555/tv/[SX]天映经典
 #EXTINF:-1 group-title="🇰🇭🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 #EXTINF:-1 group-title="🇰🇭🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
@@ -35,8 +148,7 @@ http://rihou.cc:555/tv/[Bx]popc电影
 http://rihou.cc:555/tv/[Bx]Now星影
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="",now 爆谷台
 http://rihou.cc:555/tv/[Bx]Now爆谷
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="",Plus综合
-http://rihou.cc:555/tv/[Bx]Plus综合
+
 
 
 
@@ -76,22 +188,6 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
 
 
-#🇺🇦 Ukraine 烏克蘭
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇺🇦 烏克蘭" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Ukraine-news24.png",news24
-https://streamvideol1.luxnet.ua/news24/livenews_1080p/index.m3u8
-#720P
-#EXTINF:-1 group-title="🇺🇦 烏克蘭" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Ukraine-news24.png",news24
-https://streamvideol1.luxnet.ua/news24/livenews_720p/index.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇺🇦 烏克蘭" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Ukraine-freedom.png",freedom
-https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/FreeDom_video_high_.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇺🇦 烏克蘭" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Ukraine-Першийміський.png",Перший міський
-https://live.1tv.od.ua/stream1/channel1/chunks.m3u8
 
 
 
@@ -101,9 +197,7 @@ https://live.1tv.od.ua/stream1/channel1/chunks.m3u8
 #EXTINF:-1 group-title="" tvg-logo="",Classic TV
 https://scbhls.wns.live/hls/stream.m3u8
 
-#1080P
-#EXTINF:-1 group-title="" tvg-logo="",sports tv
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
 
 
 #720P
@@ -173,7 +267,7 @@ http://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 
 
-#【東南亞】 🇰🇭 Cambodia 柬埔寨
+#【亞洲-東南亞】 🇰🇭 Cambodia 柬埔寨
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇰🇭 柬埔寨" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Cambodia-TVK.png",TVK
@@ -211,7 +305,7 @@ http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 
 
 
-#【東南亞】 🇹🇭 Thailand 泰國
+#【亞洲-東南亞】 🇹🇭 Thailand 泰國
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇹🇭 泰國" tvg-logo="https://www.dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV 1
@@ -507,7 +601,7 @@ https://live-us1.thaimomo.com/live-as/chlantung-2/index.m3u8
 
 
 
-#【東南亞】 🇲🇾 Malaysia 馬來西亞
+#【亞洲-東南亞】 🇲🇾 Malaysia 馬來西亞
 ########################################################################
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-ENJOYTV5.png",ENJOY TV5
 http://205.185.120.57:8081/channel/270c9a0b/index.m3u8
@@ -726,23 +820,7 @@ http://rihou.cc:555/tv/[SX]八度空间
 
 #🇲🇾 馬來西亞 Unifi
 ######################################
-#540P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
-http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
-http://php.jdshipin.com/smt.php?id=Celestial&.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
-http://php.jdshipin.com:8880/smt.php?id=Celestial
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
-http://php.jdshipin.com:8880/smt.php?id=Celestial&.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
-http://smt.1678520.xyz/smt3.2.1.php?id=Celestial
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
-http://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",Unifi 天映頻道
-http://cdn9.163189.xyz/smt1.1.php?id=Celestial
+
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 Unifi" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-Unifi-DuniaSinema.png",Unifi Dunia Sinema
@@ -779,6 +857,8 @@ http://php.jdshipin.com/smt.php?id=AEC&.m3u8
 http://php.jdshipin.com:8880/smt.php?id=AEC
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AEC.png",astro AEC
 http://php.jdshipin.com:8880/smt.php?id=AEC&.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AEC.png",astro AEC
+http://rihou.cc:555/tv/[SX]AstroAec
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AEC.png",astro AEC
 http://smt.1678520.xyz/smt3.2.1.php?id=AEC
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AEC.png",astro AEC
@@ -838,6 +918,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=aod&.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod&.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
+http://rihou.cc:555/tv/[SX]Astroaod
 
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-HuaHee.png",astro 歡喜台
@@ -850,6 +932,8 @@ http://php.jdshipin.com/smt.php?id=Huahee&.m3u8
 http://php.jdshipin.com:8880/smt.php?id=Huahee
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-HuaHee.png",astro 歡喜台
 http://php.jdshipin.com:8880/smt.php?id=Huahee&.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-HuaHee.png",astro 歡喜台
+http://rihou.cc:555/tv/[SX]Astro欢喜
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-HuaHee.png",astro 歡喜台
 http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-HuaHee.png",astro 歡喜台
@@ -870,6 +954,8 @@ http://php.jdshipin.com/smt.php?id=Qiyi&.m3u8
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-iQIYI.png",astro iQIYI
 http://php.jdshipin.com:8880/smt.php?id=Qiyi&.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-iQIYI.png",astro iQIYI
+http://rihou.cc:555/tv/[SX]Astro爱奇
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-iQIYI.png",astro iQIYI
 http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-iQIYI.png",astro iQIYI
@@ -1006,7 +1092,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=4
 
 
 
-#【東南亞】 🇸🇬 Singapore 新加坡
+#【亞洲-東南亞】 🇸🇬 Singapore 新加坡
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-M5.png",M5
@@ -1083,7 +1169,7 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 
 
 
-#【東南亞】 🇮🇩 Indonesia 印度尼西亞
+#【亞洲-東南亞】 🇮🇩 Indonesia 印度尼西亞
 ########################################################################
 #Vision+
 ######################################
@@ -1142,7 +1228,6 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 Vision+" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",IndiHomeTV 天映頻道
 
 
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/AnimalPlanet.png",Animal Planet
@@ -1199,7 +1284,7 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 
 
-#【東南亞】 🇧🇳 Brunei 汶萊
+#【亞洲-東南亞】 🇧🇳 Brunei 汶萊
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇧🇳 汶萊" tvg-logo="https://i.imgur.com/WpMGnTr.png",RTB Sukmaindera
@@ -1212,7 +1297,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 
-#【東南亞】 🇵🇭 Philippines 菲律賓
+
+#【亞洲-東南亞】 🇵🇭 Philippines 菲律賓
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇵🇭 菲律賓" tvg-logo="https://i.imgur.com/cWCVP3j.png",GMA Pinoy TV
@@ -1220,9 +1306,7 @@ https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
 
 
-
-
-#【東亞】 🇨🇳 China 中國
+#【亞洲-東亞】 🇨🇳 China 中國
 ########################################################################
 #🇨🇳 中國 | 央視
 ######################################
@@ -1685,8 +1769,6 @@ http://r.jdshipin.com/nWaZO
 
 
 
-
-
 #EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="",四平 新聞綜合
 http://stream2.jlntv.cn/sptv/sd/live.m3u8
 
@@ -1734,7 +1816,7 @@ http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 
 
 
-#【東亞】 🇭🇰 HongKong 香港
+#【亞洲-東亞】 🇭🇰 HongKong 香港
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/kf818kM.png",港台電視 31
@@ -1779,6 +1861,8 @@ http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/kf818kM.png",港台電視 31
 http://php.jdshipin.com:8880/smt.php?id=rhk31_twn&.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/kf818kM.png",港台電視 31
+http://rihou.cc:555/tv/[SX]RTHK-31
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/kf818kM.png",港台電視 31
 http://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/kf818kM.png",港台電視 31
 http://cdn9.163189.xyz/smt3.1.1.php?id=rhk31_twn
@@ -1817,6 +1901,8 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
 http://php.jdshipin.com/smt.php?id=rhk32_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/MXLuUoU.png",港台電視 32
 http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/MXLuUoU.png",港台電視 32
+http://rihou.cc:555/tv/[SX]RTHK-32
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/MXLuUoU.png",港台電視 32
 http://smt.1678520.xyz/smt3.2.1.php?id=rhk32_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/MXLuUoU.png",港台電視 32
@@ -2018,6 +2104,8 @@ http://php.jdshipin.com:8880/smt.php?id=viu1_twn&.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png",ViuTV
 http://r.jdshipin.com/TcKr2
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png",ViuTV
+http://rihou.cc:555/tv/[SX]VIUTV粤
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png",ViuTV
 http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png",ViuTV
 http://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn
@@ -2040,6 +2128,8 @@ http://php.jdshipin.com/smt.php?id=viusix_twn&.m3u8
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png",ViuTV6
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn&.m3u8
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png",ViuTV6
+http://rihou.cc:555/tv/[SX]VIUTV英
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png",ViuTV6
 http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png",ViuTV6
@@ -2095,6 +2185,8 @@ http://php.jdshipin.com/smt.php?id=hkphoenix_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixHK.png",鳳凰衛視 香港台
 http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixHK.png",鳳凰衛視 香港台
+http://rihou.cc:555/tv/[SX]凤凰香港
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixHK.png",鳳凰衛視 香港台
 http://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixHK.png",鳳凰衛視 香港台
 http://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
@@ -2136,6 +2228,8 @@ http://php.jdshipin.com/smt.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Phoenix.png",鳳凰衛視 中文台
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Phoenix.png",鳳凰衛視 中文台
+http://rihou.cc:555/tv/[SX]凤凰中文
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Phoenix.png",鳳凰衛視 中文台
 http://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Phoenix.png",鳳凰衛視 中文台
 http://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
@@ -2174,6 +2268,8 @@ http://php.jdshipin.com/smt.php?id=phoenixinfo_hd
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixInfoNews.png",鳳凰衛視 資訊台
 http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixInfoNews.png",鳳凰衛視 資訊台
+http://rihou.cc:555/tv/[SX]凤凰资讯
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixInfoNews.png",鳳凰衛視 資訊台
 http://live.catvod.com/iptv.php?id=phzx02
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixInfoNews.png",鳳凰衛視 資訊台
@@ -2329,7 +2425,7 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 
 
 
-#【東亞】 🇲🇴 Macau 澳門
+#【亞洲-東亞】 🇲🇴 Macau 澳門
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
@@ -2432,7 +2528,7 @@ http://live.catvod.com/iptv.php?id=amlh01
 
 
 
-#【東亞】 🇹🇼 Taiwan 台灣
+#【亞洲-東亞】 🇹🇼 Taiwan 台灣
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-FTV.png",民視
@@ -2827,7 +2923,7 @@ https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
 
 
 
-#【東亞】 🇰🇷 South Korea 韓國
+#【亞洲-東亞】 🇰🇷 South Korea 韓國
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇰🇷 韓國" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
@@ -2931,7 +3027,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 
 
-#【東亞】 🇯🇵 Japan 日本
+#【亞洲-東亞】 🇯🇵 Japan 日本
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇯🇵 日本" tvg-id="NHK World Premium",NHK World Premium ★
@@ -2939,7 +3035,7 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 
 
 
-#【東亞】 🇲🇳 Mongolia 蒙古
+#【亞洲-東亞】 🇲🇳 Mongolia 蒙古
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇲🇳 蒙古" tvg-logo="",TV8 ★
@@ -2949,7 +3045,7 @@ https://cdn3.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
 
 
 
-#【南亞】 🇳🇵 Nepal 尼泊爾
+#【亞洲-南亞】 🇳🇵 Nepal 尼泊爾
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇳🇵 尼泊爾" tvg-logo="https://i.imgur.com/EwDQ12F.png",Divya Darshan TV
@@ -2957,7 +3053,7 @@ http://live.divyadarshantv.com/hls/stream.m3u8
 
 
 
-#【南亞】 🇮🇳 India 印度
+#【亞洲-南亞】 🇮🇳 India 印度
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇮🇳 印度" tvg-logo="https://i.imgur.com/bnzDNCF.png",Star Movies Select
@@ -3011,7 +3107,7 @@ https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/in
 
 
 
-#【南亞】 🇵🇰 Pakistan 巴基斯坦
+#【亞洲-南亞】 🇵🇰 Pakistan 巴基斯坦
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇵🇰 巴基斯坦" tvg-logo="https://i.imgur.com/IJH47fJ.png",Discover Pakistan
@@ -3023,7 +3119,7 @@ https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
 
 
 
-#【南亞】 🇦🇫 Afghanistan 阿富汗
+#【亞洲-南亞】 🇦🇫 Afghanistan 阿富汗
 ########################################################################
 #576P
 #EXTINF:-1 group-title="🇦🇫 阿富汗" tvg-logo="https://i.imgur.com/C9lM1KP.png",Dunya Naw TV
@@ -3043,7 +3139,7 @@ https://hls.tamadon.live/hls/stream.m3u8
 
 
 
-#【西亞】 🇦🇿 Azerbaijan 阿塞拜疆	
+#【亞洲-西亞】 🇦🇿 Azerbaijan 阿塞拜疆	
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇦🇿 阿塞拜疆" tvg-id="ARB",ARB ★
@@ -3064,7 +3160,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 
 
 
-#【西亞】 🇮🇷 Iran 伊朗
+#【亞洲-西亞】 🇮🇷 Iran 伊朗
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇮🇷 伊朗" tvg-logo="https://i.imgur.com/C9lM1KP.png",FX 1
@@ -3150,7 +3246,7 @@ https://hls.yourtime.live/hls/stream.m3u8
 
 
 
-#【西亞】 🇮🇶 Iraq 伊拉克
+#【亞洲-西亞】 🇮🇶 Iraq 伊拉克
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇮🇶 伊拉克" tvg-logo="https://i.postimg.cc/Kj94xjPP/kurdsatnews.png",Kurdsat News
@@ -3169,7 +3265,7 @@ http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 
 
 
-#【西亞】 🇶🇦 Qatar 卡塔爾
+#【亞洲-西亞】 🇶🇦 Qatar 卡塔爾
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇶🇦 卡塔爾" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera
@@ -3183,19 +3279,19 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
 
 
-#【西亞】 🇸🇦 Saudi Arabia 沙烏地阿拉伯
+#【亞洲-西亞】 🇸🇦 Saudi Arabia 沙特阿拉伯
 ########################################################################
 #1080P
-#EXTINF:-1 group-title="🇸🇦 沙烏地阿拉伯" tvg-logo="https://i.imgur.com/DLDfFpu.png",Rotana Aflam+
+#EXTINF:-1 group-title="🇸🇦 沙特阿拉伯" tvg-logo="https://i.imgur.com/DLDfFpu.png",Rotana Aflam+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
 
 #720P
-#EXTINF:-1 group-title="🇸🇦 沙烏地阿拉伯" tvg-logo="https://i.imgur.com/Knd2lAQ.png",Al Khalij TV
+#EXTINF:-1 group-title="🇸🇦 沙特阿拉伯" tvg-logo="https://i.imgur.com/Knd2lAQ.png",Al Khalij TV
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 
 
 
-#【西亞】 🇸🇾 Syria 敘利亞
+#【亞洲-西亞】 🇸🇾 Syria 敘利亞
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇸🇾 敘利亞" tvg-id="Syria",Syria
@@ -3203,7 +3299,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 
 
 
-#【西亞】 🇹🇷 Türkiye 土耳其
+#【亞洲-西亞】 🇹🇷 Türkiye 土耳其
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Turkiye-360.png",tv360
@@ -3224,6 +3320,10 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #Auto
 #EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Turkiye-TV4.png",tv4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Turkiye-sportstv.png",sports tv
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #720P
 #EXTINF:-1 group-title="🇹🇷 土耳其" tvg-logo="https://i.imgur.com/o0eevnb.png",Zarok TV (Kurmancî)
@@ -3250,7 +3350,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m
 
 
 
-#【西亞】 🇦🇪 United Arab Emirates 阿聯酋
+#【亞洲-西亞】 🇦🇪 United Arab Emirates 阿聯酋
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇦🇪 阿聯酋" tvg-logo="https://www.irtv.website/index_files/channels/pmcroyale.png",PMC Royale
@@ -3287,8 +3387,91 @@ https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 
 
 
+#【東歐】 🇺🇦 Ukraine 烏克蘭
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇺🇦 烏克蘭" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Ukraine-news24.png",news24
+https://streamvideol1.luxnet.ua/news24/livenews_1080p/index.m3u8
+#720P
+#EXTINF:-1 group-title="🇺🇦 烏克蘭" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Ukraine-news24.png",news24
+https://streamvideol1.luxnet.ua/news24/livenews_720p/index.m3u8
 
-#🇫🇷 France 法國				位於西歐雙首長制共和國
+#720P
+#EXTINF:-1 group-title="🇺🇦 烏克蘭" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Ukraine-freedom.png",FREEDOM
+https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/FreeDom_video_high_.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇺🇦 烏克蘭" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Ukraine-Першийміський.png",Перший міський
+https://live.1tv.od.ua/stream1/channel1/chunks.m3u8
+
+
+
+#【東歐】 🇷🇺 Russia 俄羅斯
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/TXtY5eM.png",START WORLD
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/4bACa7x.png",START AIR
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/aeu5zIC.png",RTД
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/896132Z.png",TV BRICS Chinese
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/9WcnjQN.png",Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608035516551050_67.png",РТР Планета Азия ★
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+
+#720P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/r3u0mxr.png",Univer TV
+http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/ewH0rNd.png",World Fashion International
+https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+#720P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/ewH0rNd.png",World Fashion International
+https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/ewH0rNd.png",World Fashion Russia
+https://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#720P
+#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/ewH0rNd.png",World Fashion Russia
+https://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
+
+
+
+#【東歐】 🇧🇬 Bulgaria 保加利亞
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇧🇬 保加利亞" tvg-logo="https://www.lyngsat.com/logo/tv/cc/code-fashion-tv-bg.png",CODE FASHION
+https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+#720P
+#EXTINF:-1 group-title="🇧🇬 保加利亞" tvg-logo="https://www.lyngsat.com/logo/tv/cc/code-fashion-tv-bg.png",CODE FASHION
+https://cdn2.invivo.bg/Codefashion_5500/tracks-v2a1/mono.m3u8
+
+
+
+#【西歐】 🇫🇷 France 法國	
 ########################################################################
 #Persiana
 #720P
@@ -3400,7 +3583,9 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="🇫🇷 法國" tvg-logo="https://i.imgur.com/7Bigo7u.png",FTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/index.m3u8
 
-#🇬🇧 United Kingdom 英國		位於西歐並具有海外領地的主權國家
+
+
+#【西歐】 🇬🇧 United Kingdom 英國	
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://i.imgur.com/r8MmFRX.png",Afghanistan International
@@ -3434,7 +3619,64 @@ http://iptv.4666888.xyz/iptv2A.php?id=3
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 
-#🇩🇪 Germany 德國			位於中西歐的聯邦共和國
+#【西歐】 🇳🇱 Netherlands 荷蘭		位於歐洲西北部，東臨德國
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/Eg3sgNb.png",BredaNu TV
+https://01.tv.streaming.bredanu.nl/hls/stream.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/XtKLmQS.png",Omroep Súdwest
+https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="",L1 TV
+https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/xchUfks.png",Langstraat TV ★
+https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-id="Altena",Altena ★
+https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-id="RTV Maastricht",RTV Maastricht ★
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.postimg.cc/zXTHyCCB/rtvutrecht.png",RTV Utrecht
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="",RTV oost
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/hucwX6v.png",RTV LOVE
+https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/9F8ieEz.png",UStad
+http://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/9F8ieEz.png",UStad
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="",Trends Z
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
+
+
+
+#【西歐】 🇲🇨 Monaco 摩納哥
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇲🇨 摩納哥" tvg-logo="https://i.imgur.com/cgjgjE1.png",Superyacht TV
+https://sy.wns.live/hls/stream.m3u8
+
+
+
+#【中歐】 🇩🇪 Germany 德國
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇩🇪 德國" tvg-logo="https://i.imgur.com/8MRNFb9.png",Deutsche Welle
@@ -3444,8 +3686,70 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 
+#【中歐】 🇨🇭 Switzerland 瑞士
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇨🇭 瑞士" tvg-logo="https://i.imgur.com/YtYhbJD.png",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
 
-🇭🇳 Honduras 洪都拉斯		位於中美洲
+
+#【中歐】 🇦🇹 Austria 奧地利
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇦🇹 奧地利" tvg-logo="https://i.imgur.com/RYbR4Sf.png",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 group-title="🇦🇹 奧地利" tvg-logo="https://i.imgur.com/RYbR4Sf.png",K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+
+#Auto
+#EXTINF:-1 group-title="🇦🇹 奧地利" tvg-logo="https://i.postimg.cc/8c78JM28/image.png",Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+#【南歐】 🇪🇸 Spain 西班牙
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/b0H5f62.png",Teledeporte
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/rbJrmPw.png",SOL Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/C5SYw7B.png",NORTE visión
+http://amaru.dyndns.org:8870/0.m3u8
+
+
+#【南歐】 🇵🇹 Portugal 葡萄牙
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇵🇹 葡萄牙" tvg-logo="",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇵🇹 葡萄牙" tvg-logo="https://i.postimg.cc/x1K0D69n/tvi.png",tvi
+
+
+
+#【北歐】 🇫🇮 Finland 芬蘭
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇫🇮 芬蘭" tvg-logo="https://i.imgur.com/YteKXJy.png",Navahang TV
+https://hls.navahang.live/hls/stream.m3u8
+#720P
+#EXTINF:-1 group-title="🇫🇮 芬蘭" tvg-logo="https://i.imgur.com/YteKXJy.png",Navahang TV
+https://simahls.wns.live/hls/stream.m3u8
+
+
+
+
+
+
+
+
+
+#🇭🇳 Honduras 洪都拉斯
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇭🇳 洪都拉斯" tvg-logo="https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",Imagen FM 105.1
@@ -3455,7 +3759,7 @@ https://streaming.imagenfm105-1.com/hls/stream.m3u8
 #EXTINF:-1 group-title="🇭🇳 洪都拉斯" tvg-logo="https://i.imgur.com/fc5IHSy.png",Lenca TV
 https://lencatelevision.com/hls/stream.m3u8
 
-#🇧🇷 Brasil 巴西			位於南美東部
+#🇧🇷 Brasil 巴西
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇧🇷 巴西" tvg-logo="https://i.imgur.com/C0VEHXU.png",Discovery Kids
@@ -3463,19 +3767,19 @@ https://lencatelevision.com/hls/stream.m3u8
 #1080P
 #EXTINF:-1 group-title="🇧🇷 巴西" tvg-logo="https://i.imgur.com/BMqSDNn.png",Prime
 
-#🇺🇾 Uruguay 烏拉圭		位於南美洲東南部
+#🇺🇾 Uruguay 烏拉圭
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇺🇾 烏拉圭" tvg-logo="https://i.ibb.co/Drx6fgZ/Logo-white.png",VIVO TV
 https://stream.vivotv.uy/hls/stream.m3u8
 
-#🇦🇷 阿根廷			位於南美洲南部的主權國家
+#🇦🇷 阿根廷
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇦🇷 阿根廷" tvg-id="Litus",Litus ★
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
-#🇵🇪 Peru 秘魯			位於南美洲西部的國家
+#🇵🇪 Peru 秘魯
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇵🇪 秘魯" tvg-logo="",Señal Perú TV
@@ -3486,7 +3790,7 @@ https://livestream.perucast.com/hls/stream.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
 
-#🇲🇽 Mexico 墨西哥		位於北美洲南部
+#🇲🇽 Mexico 墨西哥
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇲🇽 墨西哥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png",Distrito Comedia
@@ -3500,7 +3804,7 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 
 
-#🇺🇸 United States 美國			位于北美洲，北面与加拿大接壤，南面濒临墨西哥湾，西面是太平洋，东面是太平洋
+#🇺🇸 United States 美國
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/a1zuW2C.png",Radio Javan TV
@@ -3624,8 +3928,6 @@ http://live.catvod.com/iptv.php?id=j1na001
 
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVBe.png",TVBe
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixNorthAmerica.png",鳳凰衛視 美洲台
-
-
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/XRk0QVA.png",ETTV 東森衛視 美洲
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/XRk0QVA.png",ETTV 東森美洲
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/gasGlXQ.jpg",天下衛視 1
@@ -3669,7 +3971,7 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist.m3u8
 
 
-#🇨🇦 Canada 加拿大		位于北美洲北部
+#🇨🇦 Canada 加拿大
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇨🇦 加拿大" tvg-logo="https://i.imgur.com/aeS4Sjv.png",icnet 1
@@ -3709,7 +4011,7 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
 
 
-🇦🇱 Albania 阿爾巴尼亞		位於歐洲東南部、巴爾幹半島西南部的一個國家
+#🇦🇱 Albania 阿爾巴尼亞
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇦🇱 阿爾巴尼亞" tvg-logo="https://i.imgur.com/C9lM1KP.png",Report TV
@@ -3719,198 +4021,6 @@ https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 group-title="🇦🇱 阿爾巴尼亞" tvg-logo="https://i.imgur.com/eG33jue.png",News 24
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 
-#🇨🇭 Switzerland 瑞士		位於歐洲中部的一個內陸國家
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇨🇭 瑞士" tvg-logo="https://i.imgur.com/YtYhbJD.png",Meteonews
-https://streaming.meteonews.net/hls/stream.m3u8
-
-#🇲🇨 Monaco 摩納哥		位於歐洲西南部地中海沿岸的一個城邦國家
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇲🇨 摩納哥" tvg-logo="https://i.imgur.com/cgjgjE1.png",Superyacht TV
-https://sy.wns.live/hls/stream.m3u8
-
-#🇳🇱 Netherlands 荷蘭		位於歐洲西北部，東臨德國
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/Eg3sgNb.png",BredaNu TV
-https://01.tv.streaming.bredanu.nl/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/XtKLmQS.png",Omroep Súdwest
-https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="",L1 TV
-https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/xchUfks.png",Langstraat TV ★
-https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-id="Altena",Altena ★
-https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
-
-#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-id="RTV Maastricht",RTV Maastricht ★
-http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.postimg.cc/zXTHyCCB/rtvutrecht.png",RTV Utrecht
-https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="",RTV oost
-https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/hucwX6v.png",RTV LOVE
-https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/9F8ieEz.png",UStad
-http://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
-#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/9F8ieEz.png",UStad
-https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="",Trends Z
-https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
-
-#🇫🇮 Finland 芬蘭			位於歐洲北部的國家，也是北歐五國之一
-########################################################################
-#720P
-#EXTINF:-1 group-title="🇫🇮 芬蘭" tvg-logo="https://i.imgur.com/YteKXJy.png",Navahang TV
-https://hls.navahang.live/hls/stream.m3u8
-#720P
-#EXTINF:-1 group-title="🇫🇮 芬蘭" tvg-logo="https://i.imgur.com/YteKXJy.png",Navahang TV
-https://simahls.wns.live/hls/stream.m3u8
-
-
-
-🇩🇴 Dominican Republic 多明尼加		位於加勒比海的島國，與西側的海地共處於伊斯帕尼奧拉島
-########################################################################
-#720P
-#EXTINF:-1 group-title="🇩🇴 多明尼加" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
-https://imagenuniversaltv.net:3741/live/tvslive.m3u8
-
-
-
-#🇪🇸 Spain 西班牙			位於歐洲西南部的君主立憲制國家
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/b0H5f62.png",Teledeporte
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/rbJrmPw.png",SOL Música
-https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/C5SYw7B.png",NORTE visión
-http://amaru.dyndns.org:8870/0.m3u8
-
-
-
-#🇸🇩 Sudan 蘇丹			位於非洲東北部
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇸🇩 蘇丹" tvg-logo="https://i.imgur.com/BH1N6TA.png",Dabanga TV
-https://hls.dabangasudan.org/hls/stream.m3u8
-
-#🇪🇬 Egypt 埃及			位於北非的國家
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇪🇬 埃及" tvg-logo="https://i.postimg.cc/wBsfSbK2/pncdrama.png",PNC Drama
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
-
-
-#🇦🇹 奧地利			位於中歐的內陸國家
-########################################################################
-#720P
-#EXTINF:-1 group-title="🇦🇹 奧地利" tvg-logo="https://i.imgur.com/RYbR4Sf.png",K-TV
-http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 group-title="🇦🇹 奧地利" tvg-logo="https://i.imgur.com/RYbR4Sf.png",K-TV
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-
-#Auto
-#EXTINF:-1 group-title="🇦🇹 奧地利" tvg-logo="https://i.postimg.cc/8c78JM28/image.png",Red Bull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-
-
-#🇵🇹 Portugal 葡萄牙		位於西南歐伊比利亞半島上的一個共和制國家
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇵🇹 葡萄牙" tvg-logo="",SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇵🇹 葡萄牙" tvg-logo="https://i.postimg.cc/x1K0D69n/tvi.png",tvi
-
-
-#🇷🇺 Russia 俄羅斯		位於歐亞大陸北部的聯邦共和國
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/TXtY5eM.png",START WORLD
-https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/4bACa7x.png",START AIR
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/aeu5zIC.png",RTД
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/896132Z.png",TV BRICS Chinese
-https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24
-https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/9WcnjQN.png",Астрахань 24
-http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-
-#720P
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608035516551050_67.png",РТР Планета Азия ★
-https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
-
-#720P
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/r3u0mxr.png",Univer TV
-http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/ewH0rNd.png",World Fashion International
-https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
-#720P
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/ewH0rNd.png",World Fashion International
-https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
-
-#1080P
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/ewH0rNd.png",World Fashion Russia
-https://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
-#720P
-#EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/ewH0rNd.png",World Fashion Russia
-https://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
-
-
-#🇧🇬 保加利亞			位於東南歐巴爾幹半島上的國家
-########################################################################
-#1080P
-#EXTINF:-1 group-title="🇧🇬 保加利亞" tvg-logo="https://www.lyngsat.com/logo/tv/cc/code-fashion-tv-bg.png",CODE FASHION
-https://cdn2.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
-#720P
-#EXTINF:-1 group-title="🇧🇬 保加利亞" tvg-logo="https://www.lyngsat.com/logo/tv/cc/code-fashion-tv-bg.png",CODE FASHION
-https://cdn2.invivo.bg/Codefashion_5500/tracks-v2a1/mono.m3u8
 
 
 #🇦🇷 阿根廷			
@@ -3918,6 +4028,36 @@ https://cdn2.invivo.bg/Codefashion_5500/tracks-v2a1/mono.m3u8
 #720P
 #EXTINF:-1 group-title="🇦🇷 阿根廷" tvg-id="PowerHD",PowerHD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+
+
+
+#🇸🇩 Sudan 蘇丹
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇸🇩 蘇丹" tvg-logo="https://i.imgur.com/BH1N6TA.png",Dabanga TV
+https://hls.dabangasudan.org/hls/stream.m3u8
+
+
+
+#🇪🇬 Egypt 埃及
+########################################################################
+#1080P
+#EXTINF:-1 group-title="🇪🇬 埃及" tvg-logo="https://i.postimg.cc/wBsfSbK2/pncdrama.png",PNC Drama
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
+
+
+
+#🇩🇴 Dominican Republic 多明尼加
+########################################################################
+#720P
+#EXTINF:-1 group-title="🇩🇴 多明尼加" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+
+
+
+
+
+
 
 
 
@@ -4203,7 +4343,6 @@ https://bbc-classicdrwho-1-us.xumo.wurl.tv/3000.m3u8
 
 
 
-
 #🎬 電影 | 中文
 ########################################################################
 #1080P
@@ -4230,7 +4369,6 @@ http://rihou.cc:555/tv/[FY]邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 #EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",邵氏電影
 http://iptv.4666888.xyz/iptv2A.php?id=39
-
 
 #720P
 #EXTINF:-1 group-title="🎬 電影 | 中文" tvg-logo="",喜劇
