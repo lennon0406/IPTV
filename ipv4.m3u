@@ -24,6 +24,9 @@ http://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=926171
 
 
+
+
+
 #1080P
 #EXTINF:-1 group-title="" tvg-logo="",encore
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8
@@ -60,34 +63,16 @@ https://scbhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="" tvg-logo="",PLUTO TV NICK JR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
 
-#720P
-#EXTINF:-1 group-title="" tvg-logo="",PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#Auto
-#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORTS XTRA
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="",BERGAMO
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/BERGAMO.png",BERGAMO
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8
 
 #Auto
-#EXTINF:-1 group-title="" tvg-logo="",OUTDOOR
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-#Auto
-#EXTINF:-1 group-title="" tvg-logo="",WELLBEING TV 
+#EXTINF:-1 group-title="" tvg-logo="",WELLBEING TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #Auto
 #EXTINF:-1 group-title="" tvg-logo="",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-
-
-
-
-
-
 
 
 
@@ -447,8 +432,6 @@ http://stream2.smg.my/live/tvsplus_1080p3828kbs/index.m3u8
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-tvs.png",tvs+
 http://stream2.smg.my/live/tvsplus_720p2628kbs/index.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-tvs.png",tvs+
-https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-tvs.png",tvs+
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
@@ -1075,7 +1058,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 #EXTINF:-1 group-title="🇮🇩 印度尼西亞 Vision+" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TEST.png",TEST
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 Vision+" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/XingKong.png",星空 國際
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 Vision+" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/XingKong.png",星空衛視 國際
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
 #EXTINF:-1 ,Unknown_58
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
@@ -1827,41 +1810,50 @@ http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 
 
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-SiTV-LaughterTheater.png",歡笑劇場
-http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
-
-#1080P
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-SiTV-UrbanTheater.png",city都市劇場
-http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
-
-#1080P
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-SiTV-AnimationShow.png",動漫秀場
-http://38.75.136.137:98/gslb/dsdqpub/dmxchd.m3u8?auth=testpub
-
 
 
 #🇨🇳 中國 | 地方 | 上海
 ######################################
+
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-SiTV-LaughterTheater.png",上海 歡笑劇場
+http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-SiTV-UrbanTheater.png",上海 都市劇場
+http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
+
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-SiTV-AnimationShow.png",上海 動漫秀場
+http://38.75.136.137:98/gslb/dsdqpub/dmxchd.m3u8?auth=testpub
+
 #720P
-#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-Sports.png",上海 五星體育
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-SiTV-Lifestyle.png",上海 生活時尚
+http://38.75.136.137:98/gslb/dsdqpub/shsshd.m3u8?auth=testpub
+
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-SMG-Sports.png",上海 五星體育
 http://cdn3.101.qzz.io/163189/wxty
-#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-Sports.png",上海 五星體育
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-SMG-Sports.png",上海 五星體育
 http://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-Sports.png",上海 五星體育
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-SMG-Sports.png",上海 五星體育
 http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-Sports.png",上海 五星體育
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-SMG-Sports.png",上海 五星體育
 http://cdn8.163189.xyz/163189/wxty
 
 #720P
-#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://www.yicai.com/images/logo.png",上海 第1財經
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-SMG-City.png",上海 都市
+http://38.75.136.137:98/gslb/dsdqpub/shylhd.m3u8?auth=testpub
+
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-YiCai.png",上海 第1財經
 http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://www.yicai.com/images/logo.png",上海 第1財經
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-YiCai.png",上海 第1財經
 http://live.catvod.com/iptv.php?id=dycj01
-#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://www.yicai.com/images/logo.png",上海 第1財經
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-YiCai.png",上海 第1財經
 http://cdn8.163189.xyz/163189/dycj
-#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://www.yicai.com/images/logo.png",上海 第1財經
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-YiCai.png",上海 第1財經
 http://cdn3.163189.xyz/163189/dycj
-#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://www.yicai.com/images/logo.png",上海 第1財經
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-YiCai.png",上海 第1財經
 http://cdn3.101.qzz.io/163189/dycj
 
 
@@ -3536,6 +3528,10 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="🇶🇦 卡塔爾" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
 
+#Auto
+#EXTINF:-1 group-title="🇶🇦 卡塔爾" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Qatar-beINSPORTSXTRA.png",beIN SPORTS XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
 
 #【亞洲-西亞】 🇸🇦 Saudi Arabia 沙特阿拉伯
 ########################################################################
@@ -4236,10 +4232,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c990b065-1973-4754-869d-26c7c74c8f59/2.m3u8
 
 #1080P
-#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/WxLHBwu.png",babyfirst
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
-
-#1080P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://www.parsatv.com/index_files/channels/globalfashionchannel.png",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
 #720P
@@ -4249,6 +4241,18 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 #720P
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/esK4CBZ.png",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist.m3u8
+
+#Auto
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/UnitedStates-outdoor.png",outdoor
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#720P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/UnitedStates-PBSKIDS.png",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#1080P
+#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://i.imgur.com/WxLHBwu.png",babyfirst
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
 
 #🇨🇦 Canada 加拿大
@@ -4330,7 +4334,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #🇩🇴 Dominican Republic 多明尼加
 ########################################################################
 #720P
-#EXTINF:-1 group-title="🇩🇴 多明尼加" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",tvs
+#EXTINF:-1 group-title="🇩🇴 多明尼加" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/DominicanRepublic-tvs.png",tvs
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 
 
@@ -4688,41 +4692,41 @@ https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 #📽️ Rakuten TV
 ########################################################################
 
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 5983
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 西班牙語 5983
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 5983
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 西班牙語 5983
 https://asian-cinema-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 5983
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 西班牙語 5983
 https://gipsy-kings-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 5983
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 西班牙語 5983
 https://rantaro-ninja-boy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 5983
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 西班牙語 5983
 https://romance-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 5983
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 西班牙語 5983
 https://sci-fi-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 5983
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 西班牙語 5983
 https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 5983
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 西班牙語 5983
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 5983
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 西班牙語 5983
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利语 5984
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 5984
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利语 5984
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 5984
 https://asian-cinema-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利语 5984
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 5984
 https://gipsy-kings-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利语 5984
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 5984
 https://rantaro-ninja-boy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利语 5984
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 5984
 https://romance-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利语 5984
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 5984
 https://sci-fi-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利语 5984
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 5984
 https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利语 5984
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 5984
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利语 5984
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 5984
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 5985
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
@@ -4742,23 +4746,23 @@ https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 5985
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法语 5986
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 5986
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法语 5986
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 5986
 https://asian-cinema-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法语 5986
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 5986
 https://gipsy-kings-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法语 5986
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 5986
 https://rantaro-ninja-boy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法语 5986
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 5986
 https://romance-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法语 5986
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 5986
 https://sci-fi-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法语 5986
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 5986
 https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法语 5986
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 5986
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法语 5986
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 5986
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 5987
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
@@ -4832,23 +4836,23 @@ https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6056/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6056
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6056/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬兰语 6057
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬蘭語 6057
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬兰语 6057
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬蘭語 6057
 https://asian-cinema-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬兰语 6057
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬蘭語 6057
 https://gipsy-kings-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬兰语 6057
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬蘭語 6057
 https://rantaro-ninja-boy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬兰语 6057
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬蘭語 6057
 https://romance-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬兰语 6057
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬蘭語 6057
 https://sci-fi-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬兰语 6057
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬蘭語 6057
 https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬兰语 6057
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬蘭語 6057
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬兰语 6057
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 芬蘭語 6057
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6058
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6058/master.m3u8
@@ -4922,41 +4926,41 @@ https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6066
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6067
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 6067
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6067
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 6067
 https://asian-cinema-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6067
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 6067
 https://gipsy-kings-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6067
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 6067
 https://rantaro-ninja-boy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6067
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 6067
 https://romance-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6067
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 6067
 https://sci-fi-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6067
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 6067
 https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6067
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 6067
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6067
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 意大利語 6067
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6068
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 6068
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6068
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 6068
 https://asian-cinema-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6068
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 6068
 https://gipsy-kings-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6068
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 6068
 https://rantaro-ninja-boy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6068
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 6068
 https://romance-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6068
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 6068
 https://sci-fi-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6068
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 6068
 https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6068
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 6068
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6068
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 法語 6068
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6069
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
@@ -5246,23 +5250,23 @@ https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6104/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6104
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6104/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6105
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6105
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6105
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6105
 https://asian-cinema-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6105
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6105
 https://gipsy-kings-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6105
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6105
 https://rantaro-ninja-boy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6105
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6105
 https://romance-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6105
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6105
 https://sci-fi-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6105
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6105
 https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6105
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6105
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6105
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6105
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6180
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
@@ -5282,23 +5286,23 @@ https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6180
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6181
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Comedy Movies 6181
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6181
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Comedy Movies 6181
 https://asian-cinema-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6181
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Comedy Movies 6181
 https://gipsy-kings-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6181
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Comedy Movies 6181
 https://rantaro-ninja-boy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6181
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Comedy Movies 6181
 https://romance-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6181
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Comedy Movies 6181
 https://sci-fi-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6181
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Comedy Movies 6181
 https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6181
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Comedy Movies 6181
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6181
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Comedy Movies 6181
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6182
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
@@ -5444,41 +5448,41 @@ https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6191
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6193
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6193
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6193
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6193
 https://asian-cinema-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6193
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6193
 https://gipsy-kings-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6193
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6193
 https://rantaro-ninja-boy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6193
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6193
 https://romance-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6193
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6193
 https://sci-fi-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6193
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6193
 https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6193
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6193
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6193
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6193
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6194
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6194
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6194
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6194
 https://asian-cinema-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6194
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6194
 https://gipsy-kings-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6194
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6194
 https://rantaro-ninja-boy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6194
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6194
 https://romance-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6194
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6194
 https://sci-fi-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6194
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6194
 https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6194
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6194
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6194
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6194
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6195
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
@@ -6092,23 +6096,23 @@ https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6433
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6475
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6475
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6475
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6475
 https://asian-cinema-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6475
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6475
 https://gipsy-kings-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6475
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6475
 https://rantaro-ninja-boy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6475
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6475
 https://romance-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6475
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6475
 https://sci-fi-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6475
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6475
 https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6475
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6475
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6475
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6475
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6477
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
@@ -6272,23 +6276,23 @@ https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6743/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6743
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6743/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6744
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6744
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6744
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6744
 https://asian-cinema-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6744
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6744
 https://gipsy-kings-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6744
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6744
 https://rantaro-ninja-boy-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6744
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6744
 https://romance-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6744
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6744
 https://sci-fi-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6744
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6744
 https://the-guardian-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6744
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6744
 https://thriller-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
-#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6744
+#EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV Romance Movies 6744
 https://top-movies-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
 #EXTINF:-1 group-title="📽️ Rakuten TV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/RakutenTV.png",Rakuten TV 6752
 https://alarm-for-cobra-rakuten-tv-us.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8
