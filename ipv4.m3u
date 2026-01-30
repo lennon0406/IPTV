@@ -19,66 +19,6 @@ http://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 #EXTINF:-1 group-title="🇰🇭🇲🇾🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 
-#720P
-#EXTINF:-1 group-title="🇸🇬🇮🇩🇵🇭🇭🇰 東南亞" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/KIX.png",KIX
-http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=926171
-
-
-
-
-
-#1080P
-#EXTINF:-1 group-title="" tvg-logo="",encore
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",encore
-https://streams2.sofast.tv/ptnr-yupptv/title-ENCORE-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/390efe7e-4a1a-4f9f-8266-b4d90ab7121a/6f2b4dea-2fa5-48b6-b743-84f823152fb4/2.m3u8
-
-#720P
-#EXTINF:-1 group-title="" tvg-logo="",horror machine
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
-
-#720P
-#EXTINF:-1 group-title="" tvg-logo="",wired2fish
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wired2fish/playlist.m3u8
-
-#1080P
-#EXTINF:-1 group-title="" tvg-logo="",motor vision tv
-https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-
-#1080P
-#EXTINF:-1 group-title="" tvg-logo="",VoA TV
-https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="",RacingMag
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="",Pluto TV Catastrophe
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a69ef53af63d000825e0ee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68b1c3a0-a3f2-41b3-ae05-e83e4e687617
-
-#720P
-#EXTINF:-1 group-title="" tvg-logo="",Classic TV
-https://scbhls.wns.live/hls/stream.m3u8
-
-#720P
-#EXTINF:-1 group-title="" tvg-logo="",PLUTO TV NICK JR
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/BERGAMO.png",BERGAMO
-https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8
-
-#Auto
-#EXTINF:-1 group-title="" tvg-logo="",WELLBEING TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-
-#Auto
-#EXTINF:-1 group-title="" tvg-logo="",NHK World Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-
-
-
-
-
-
 
 
 #【亞洲-東南亞】 🇰🇭 Cambodia 柬埔寨
@@ -708,7 +648,7 @@ http://cdn9.163189.xyz/smt1.1.php?id=Quanjia
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-QJ.png",astro QJ
 http://rihou.cc:555/tv/[SX]Astro_QJ
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-QJ.png",astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
+v
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-QJ.png",astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia&.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-QJ.png",astro QJ
@@ -1024,9 +964,6 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 
 #【亞洲-東南亞】 🇮🇩 Indonesia 印度尼西亞
 ########################################################################
-
-#EXTINF:-1 group-title="🇮🇩 印度尼西亞 IndiHomeTV" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",IndiHomeTV 天映頻道
-
 #Vision+
 ######################################
 #480P
@@ -1066,7 +1003,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
 #EXTINF:-1 ,Unknown_62
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
-#EXTINF:-1 ,Unknown_29
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 Vision+" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialClassic.png",天映經典頻道
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 #EXTINF:-1 ,Unknown_51
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
@@ -1074,13 +1011,13 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
 #EXTINF:-1 ,Unknown_50
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
-#EXTINF:-1 ,Unknown_1
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 Vision+" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CelestialMovies.png",天映頻道
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
 #EXTINF:-1 ,Unknown_61
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
-#EXTINF:-1 ,Unknown_46
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 Vision+" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CGTN-Documentary.png",CGTN Documentary
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
-#EXTINF:-1 ,Unknown_72
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 Vision+" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/KIX.png",KIX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 #EXTINF:-1 ,Unknown_9
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
@@ -1088,22 +1025,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
 #EXTINF:-1 ,Unknown_57
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
-#EXTINF:-1 ,Unknown_34
+#EXTINF:-1 group-title="🇮🇩 印度尼西亞 Vision+" tvg-logo="https://i.imgur.com/YC7JCHo.png",DAAI TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
 #EXTINF:-1 ,Unknown_41
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-#EXTINF:-1 ,Unknown_11
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
-#EXTINF:-1 ,Unknown_68
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
-#EXTINF:-1 ,Unknown_67
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000050/1024.m3u8
-#EXTINF:-1 ,Unknown_30
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
-#EXTINF:-1 ,Unknown_27
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
-#EXTINF:-1 ,Unknown_39
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 #EXTINF:-1 ,Unknown_74
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
 #EXTINF:-1 ,Unknown_19
@@ -2179,9 +2104,7 @@ http://rihou.cc:555/tv/[PL]有线综合
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
 http://rihou.cc:555/tv/[PL]有线综国
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
-http://live.catvod.com/iptv.php?id=hoytv01
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
-http://live.catvod.com/iptv.php?id=hoytv02
+http://r.jdshipin.com/sFw4S#.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
 http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
@@ -2189,15 +2112,21 @@ http://php.jdshipin.com/PLTV/iptv.php?id=hoytv&.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
 http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
+http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2&.m3u8
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv&.m3u8
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2&.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv&.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+http://iptv.4666888.xyz/iptv2A.php?id=35
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
 http://cdn2.163189.xyz/163189/hoy
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
@@ -2205,7 +2134,9 @@ http://cdn6.163189.xyz/163189/hoy
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
 http://cdn6.101.qzz.io/163189/hoy
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
-http://iptv.4666888.xyz/iptv2A.php?id=35
+http://live.catvod.com/iptv.php?id=hoytv01
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
+http://live.catvod.com/iptv.php?id=hoytv02
 
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY78.png",HOY 78
@@ -2725,17 +2656,21 @@ http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
 http://v2h.veryfast.filegear-sg.me/live/asam/stream.m3u8
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
-http://iptv.4666888.xyz/iptv2A.php?id=41
+http://r.jdshipin.com/n2YZI#.m3u8
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
 http://php.jdshipin.com/PLTV/iptv.php?id=asam
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
+http://php.jdshipin.com/TVOD/iptv.php?id=asam&.m3u8
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
 http://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
 http://cdn6.101.qzz.io/163189/asam
+#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
+http://iptv.4666888.xyz/iptv2A.php?id=41
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
 http://live.catvod.com/iptv.php?id=asam01
 
@@ -2765,15 +2700,22 @@ http://v2h.veryfast.filegear-sg.me/live/amty/stream.m3u8
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
+http://cdn6.163189.xyz/163189/amty#.m3u8
+#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
 http://cdn6.101.qzz.io/163189/amty
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
 http://live.catvod.com/iptv.php?id=amty01
 
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門綜藝
+http://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門綜藝
+http://cdn6.163189.xyz/163189/amzy#.m3u8
+#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門綜藝
 http://live.catvod.com/iptv.php?id=amzy01
 
 #1080P
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://i.imgur.com/7j8Lnog.png",LOTUS MACAU
+#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://i.imgur.com/7j8Lnog.png",澳門蓮花
+http://cdn6.163189.xyz/163189/amlh#.m3u8
 http://live.catvod.com/iptv.php?id=amlh01
 
 
@@ -3641,7 +3583,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 
 
 
-#【東歐】 🇺🇦 Ukraine 烏克蘭
+#【歐洲-東部】 🇺🇦 Ukraine 烏克蘭
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇺🇦 烏克蘭" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Ukraine-news24.png",news24
@@ -3660,7 +3602,7 @@ https://live.1tv.od.ua/stream1/channel1/chunks.m3u8
 
 
 
-#【東歐】 🇷🇺 Russia 俄羅斯
+#【歐洲-東部】 🇷🇺 Russia 俄羅斯
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇷🇺 俄羅斯" tvg-logo="https://i.imgur.com/TXtY5eM.png",START WORLD
@@ -3714,7 +3656,7 @@ https://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 
 
 
-#【東歐】 🇧🇬 Bulgaria 保加利亞
+#【歐洲-東部】 🇧🇬 Bulgaria 保加利亞
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇧🇬 保加利亞" tvg-logo="https://www.lyngsat.com/logo/tv/cc/code-fashion-tv-bg.png",CODE FASHION
@@ -3725,7 +3667,7 @@ https://cdn2.invivo.bg/Codefashion_5500/tracks-v2a1/mono.m3u8
 
 
 
-#【西歐】 🇫🇷 France 法國	
+#【歐洲-西部】 🇫🇷 France 法國	
 ########################################################################
 #Persiana
 #720P
@@ -3839,7 +3781,7 @@ http://lb.streaming.sk/fashiontv/stream/index.m3u8
 
 
 
-#【西歐】 🇬🇧 United Kingdom 英國	
+#【歐洲-西部】 🇬🇧 United Kingdom 英國	
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇬🇧 英國" tvg-logo="https://i.imgur.com/r8MmFRX.png",Afghanistan International
@@ -3873,7 +3815,9 @@ http://iptv.4666888.xyz/iptv2A.php?id=3
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 
-#【西歐】 🇳🇱 Netherlands 荷蘭		位於歐洲西北部，東臨德國
+
+
+#【歐洲-西北部】 🇳🇱 Netherlands 荷蘭
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇳🇱 荷蘭" tvg-logo="https://i.imgur.com/Eg3sgNb.png",BredaNu TV
@@ -3922,7 +3866,7 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 
 
 
-#【西歐】 🇲🇨 Monaco 摩納哥
+#【歐洲-西部】 🇲🇨 Monaco 摩納哥
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇲🇨 摩納哥" tvg-logo="https://i.imgur.com/cgjgjE1.png",Superyacht TV
@@ -3930,7 +3874,7 @@ https://sy.wns.live/hls/stream.m3u8
 
 
 
-#【中歐】 🇩🇪 Germany 德國
+#【歐洲-中部】 🇩🇪 Germany 德國
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇩🇪 德國" tvg-logo="https://i.imgur.com/8MRNFb9.png",Deutsche Welle
@@ -3940,14 +3884,14 @@ https://sy.wns.live/hls/stream.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 
-#【中歐】 🇨🇭 Switzerland 瑞士
+#【歐洲-中部】 🇨🇭 Switzerland 瑞士
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇨🇭 瑞士" tvg-logo="https://i.imgur.com/YtYhbJD.png",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
 
 
-#【中歐】 🇦🇹 Austria 奧地利
+#【歐洲-中部】 🇦🇹 Austria 奧地利
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇦🇹 奧地利" tvg-logo="https://i.imgur.com/RYbR4Sf.png",K-TV
@@ -3960,7 +3904,13 @@ https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
-#【南歐】 🇪🇸 Spain 西班牙
+#【歐洲-南部】 🇮🇹 Italy 意大利
+########################################################################
+#EXTINF:-1 group-title="🇮🇹 意大利" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Italy-BERGAMO.png",BERGAMO
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8
+
+
+#【歐洲-南部】 🇪🇸 Spain 西班牙
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇪🇸 西班牙" tvg-logo="https://i.imgur.com/b0H5f62.png",Teledeporte
@@ -3975,7 +3925,7 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://amaru.dyndns.org:8870/0.m3u8
 
 
-#【南歐】 🇵🇹 Portugal 葡萄牙
+#【歐洲-南部】 🇵🇹 Portugal 葡萄牙
 ########################################################################
 #1080P
 #EXTINF:-1 group-title="🇵🇹 葡萄牙" tvg-logo="",SIC
@@ -3986,7 +3936,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 
 
-#【北歐】 🇫🇮 Finland 芬蘭
+#【歐洲-北部】 🇫🇮 Finland 芬蘭
 ########################################################################
 #720P
 #EXTINF:-1 group-title="🇫🇮 芬蘭" tvg-logo="https://i.imgur.com/YteKXJy.png",Navahang TV
