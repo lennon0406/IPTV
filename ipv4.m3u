@@ -1,25 +1,22 @@
 #EXTM3U
 
-
-#【亞洲-東南亞】 🇻🇳 Vietnam 越南
-########################################################################
-#EXTINF:-1 group-title="🇻🇳 越南 UHD" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Vietnam-Hanoi2UHD.png",Hanoi 2
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Vietnam-Hanoi2UHD.png",Hanoi 2
 https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
 
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K 超高清" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-Satellite-HuNan.png",湖南衛視
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-Satellite-HuNan.png",湖南衛視
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K 超高清" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-Satellite-ZheJiang.png",浙江衛視
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-Satellite-ZheJiang.png",浙江衛視
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K 超高清" tvg-logo="",蘇州 4K頻道
+#EXTINF:-1 group-title="4K UHD" tvg-logo="",蘇州 4K頻道
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視 4K 超高清" tvg-logo="",河北 4K頻道
+#EXTINF:-1 group-title="4K UHD" tvg-logo="",河北 4K頻道
 https://event.pull.hebtv.com:443/live/live101.m3u8
 
-#EXTINF:-1 group-title="🇭🇰 香港 4K 超高清" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-Jade.png",TVB 翡翠台
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-Jade.png",TVB 翡翠台
 http://rihou.cc:555/tv/[Pd]无线翡4K
-#EXTINF:-1 group-title="🇭🇰 香港 4K 超高清" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-Jade.png",TVB 翡翠台
+#EXTINF:-1 group-title="4K UHD" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-Jade.png",TVB 翡翠台
 http://rihou.cc:555/tv/[PL]无线翡4k
 
 
@@ -548,9 +545,7 @@ https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b1628000_slmsa.m3u8
 ######################################
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 Media Prima" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-TV3.png",TV3
-https://cdn-live.dltv.ac.th/dltv03.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Media Prima" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-TV3.png",TV3
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1918
+
 
 #1080P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 Media Prima" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-DidikTV.png",Didik TV
@@ -562,8 +557,6 @@ http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 http://v2h.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 Media Prima" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-TV8.png",八度空間
 http://rihou.cc:555/tv/[Pd]八度空间
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 Media Prima" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-TV8.png",八度空間
-http://live.catvod.com/iptv.php?id=8tv001
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 Media Prima" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-TV8.png",八度空間
 http://cdn6.163189.xyz/163189/8tv#.m3u8
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 Media Prima" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-TV8.png",八度空間
@@ -681,39 +674,38 @@ http://php.jdshipin.com:8880/smt.php?id=Quanjia
 http://php.jdshipin.com:8880/smt.php?id=Quanjia&.m3u8
 
 #1080P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
-http://rihou.cc:555/tv/[PL]Astroaod
-#540P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
-http://php.jdshipin.com/smt.php?id=Aodhd
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
-http://php.jdshipin.com/smt.php?id=Aodhd&.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
-http://php.jdshipin.com:8880/smt.php?id=Aodhd
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
-http://php.jdshipin.com:8880/smt.php?id=Aodhd&.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
-http://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
-http://cdn9.163189.xyz/smt3.1.1.php?id=Aodhd
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
-http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
 http://php.jdshipin.com/PLTV/iptv.php?id=aod
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
 http://php.jdshipin.com/PLTV/iptv.php?id=aod&.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
+http://php.jdshipin.com/smt.php?id=Aodhd
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
+http://php.jdshipin.com/smt.php?id=Aodhd&.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod&.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
+http://php.jdshipin.com:8880/smt.php?id=Aodhd&.m3u8
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod&.m3u8
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD (華語)
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
+http://rihou.cc:555/tv/[PL]Astroaod
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
 http://rihou.cc:555/tv/[SX]Astroaod
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
+http://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
+http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-AOD.png",astro AOD
+http://cdn9.163189.xyz/smt3.1.1.php?id=Aodhd
 
 #720P
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Malaysia-astro-HuaHee.png",astro 歡喜台
@@ -802,6 +794,9 @@ http://rihou.cc:555/tv/[SX]无线星河
 http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",astro TVB 星河頻道
 http://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
+#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",astro TVB 星河頻道
+http://208.87.242.79/livehttpplay?channel_id=20070
+
 
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-Entertainment.png",TVB 娛樂新聞台
 
@@ -941,8 +936,6 @@ http://v2h.veryfast.filegear-sg.me/live/ch5/stream.m3u8
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-M5.png",M5
 http://rihou.cc:555/tv/[Pd]CH5综合
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-M5.png",M5
-http://live.catvod.com/iptv.php?id=ch5001
-#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-M5.png",M5
 http://cdn6.163189.xyz/163189/ch5
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-M5.png",M5
 http://cdn6.101.qzz.io/163189/ch5
@@ -955,8 +948,6 @@ http://v2h.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-M8.png",M8
 http://rihou.cc:555/tv/[Pd]CH8综合
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-M8.png",M8
-http://live.catvod.com/iptv.php?id=ch8001
-#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-M8.png",M8
 http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-M8.png",M8
 http://cdn6.101.qzz.io/163189/ch8
@@ -968,8 +959,6 @@ http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
 http://v2h.veryfast.filegear-sg.me/live/chu/stream.m3u8
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-MU.png",MU
 http://rihou.cc:555/tv/[Pd]CHU综合
-#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-MU.png",MU
-http://live.catvod.com/iptv.php?id=chu001
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-MU.png",MU
 http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Singapore-MU.png",MU
@@ -1726,6 +1715,9 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-Satellite-GuangDong.png",大灣區衛視
 http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
+#720P
+#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-Satellite-GuangDong.png",大灣區衛視
+http://208.87.242.79/livehttpplay?channel_id=20083
 
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-Satellite-XinJiang.png",新疆衛視
 http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
@@ -1839,8 +1831,6 @@ http://38.75.136.137:98/gslb/dsdqpub/shylhd.m3u8?auth=testpub
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-YiCai.png",上海第1財經
 http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
-#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-YiCai.png",上海第1財經
-http://live.catvod.com/iptv.php?id=dycj01
 #EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-YiCai.png",上海第1財經
 http://cdn8.163189.xyz/163189/dycj
 #EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-ShangHai-YiCai.png",上海第1財經
@@ -2000,6 +1990,13 @@ http://38.75.136.137:98/gslb/dsdqpub/cqqm.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cqse.m3u8?auth=testpub
 
 
+#🇨🇳 中國 | 地方 | 貴州
+######################################
+#1080P
+#EXTINF:-1 group-title="🇨🇳 中國 | 地方" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-GuiZhou-TianYuanWeiQi.png",貴州天元圍棋
+http://208.87.242.79/livehttpplay?channel_id=20060
+
+
 #🇨🇳 中國 | 地方 | 河南
 ######################################
 #1080P
@@ -2089,8 +2086,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/kf818kM.png",港台電視 31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31&.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/kf818kM.png",港台電視 31
-http://live.catvod.com/iptv.php?id=rthk31
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/kf818kM.png",港台電視 31
 http://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/kf818kM.png",港台電視 31
 http://cdn2.163189.xyz/163189/rthk31
@@ -2135,8 +2130,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk32&.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/MXLuUoU.png",港台電視 32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32&.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/MXLuUoU.png",港台電視 32
-http://live.catvod.com/iptv.php?id=rthk32
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/MXLuUoU.png",港台電視 32
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/MXLuUoU.png",港台電視 32
@@ -2213,10 +2206,6 @@ http://cdn2.163189.xyz/163189/hoy
 http://cdn6.163189.xyz/163189/hoy
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
 http://cdn6.101.qzz.io/163189/hoy
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
-http://live.catvod.com/iptv.php?id=hoytv01
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY77.png",HOY 77
-http://live.catvod.com/iptv.php?id=hoytv02
 
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-HOY78.png",HOY 78
@@ -2575,8 +2564,6 @@ http://rihou.cc:555/tv/[Bx]凤凰资讯
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixInfoNews.png",鳳凰衛視 資訊台
 http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixInfoNews.png",鳳凰衛視 資訊台
-http://live.catvod.com/iptv.php?id=phzx01
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixInfoNews.png",鳳凰衛視 資訊台
 http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixInfoNews.png",鳳凰衛視 資訊台
 http://cdn6.101.qzz.io/163189/fhzx
@@ -2591,8 +2578,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixInfoNews.png",鳳凰衛視 資訊台
 http://rihou.cc:555/tv/[SX]凤凰资讯
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixInfoNews.png",鳳凰衛視 資訊台
-http://live.catvod.com/iptv.php?id=phzx02
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixInfoNews.png",鳳凰衛視 資訊台
 http://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixInfoNews.png",鳳凰衛視 資訊台
@@ -2630,11 +2615,11 @@ http://hls.168.us.kg/u/332/master.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-now-News.png",now 新聞台
 http://rihou.cc:555/tv/[Mt]Now新闻
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-now-News.png",now 新聞台
-http://live.catvod.com/iptv.php?id=nownews
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-now-News.png",now 新聞台
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-now-News.png",now 新聞台
 http://cdn2.163189.xyz/163189/now
+#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-now-News.png",now 新聞台
+http://208.87.242.79/livehttpplay?channel_id=20041
 
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/HongKong-now-BNC.png",now 財經台
@@ -2672,8 +2657,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-1.png",CCTV-1 綜合
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33&.m3u8
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-1.png",CCTV-1 綜合
-http://live.catvod.com/iptv.php?id=rthk33
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-1.png",CCTV-1 綜合
 http://cdn6.163189.xyz/163189/cctv1
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-1.png",CCTV-1 綜合
 http://cdn6.101.qzz.io/163189/cctv1
@@ -2681,8 +2664,6 @@ http://cdn6.101.qzz.io/163189/cctv1
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-13.png",CCTV-13 新聞
 http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-#EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-13.png",CCTV-13 新聞
-http://live.catvod.com/iptv.php?id=cctv13
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-13.png",CCTV-13 新聞
 http://cdn8.163189.xyz/163189/cctv13
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/CCTV-13.png",CCTV-13 新聞
@@ -2837,8 +2818,6 @@ http://cdn6.163189.xyz/163189/asam
 http://cdn6.101.qzz.io/163189/asam
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
 http://iptv.4666888.xyz/iptv2A.php?id=41
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
-http://live.catvod.com/iptv.php?id=asam01
 
 #1080P
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門Macau
@@ -2855,8 +2834,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
 http://cdn6.163189.xyz/163189/as
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門Macau
 http://cdn6.101.qzz.io/163189/as
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門Macau
-http://live.catvod.com/iptv.php?id=asws01
 
 #1080P
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
@@ -2869,20 +2846,15 @@ http://cdn6.163189.xyz/163189/amty
 http://cdn6.163189.xyz/163189/amty#.m3u8
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
 http://cdn6.101.qzz.io/163189/amty
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
-http://live.catvod.com/iptv.php?id=amty01
 
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門綜藝
 http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門綜藝
 http://cdn6.163189.xyz/163189/amzy#.m3u8
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門綜藝
-http://live.catvod.com/iptv.php?id=amzy01
 
 #1080P
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://i.imgur.com/7j8Lnog.png",澳門蓮花
 http://cdn6.163189.xyz/163189/amlh#.m3u8
-http://live.catvod.com/iptv.php?id=amlh01
 
 
 
@@ -2891,7 +2863,9 @@ http://live.catvod.com/iptv.php?id=amlh01
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-FTV.png",民視
 http://iptv.4666888.xyz/iptv2A.php?id=55
+#720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-FTV.png",民視
+http://208.87.242.79/livehttpplay?channel_id=20074
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-FTV.png",民視第一台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-FTVTaiwan.png",民視台灣台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-FTV.png",民視新聞台
@@ -2905,34 +2879,49 @@ http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-FTVTravel.png",民視旅遊台
 
 
-
+#1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GTV.png",八大第1台
+http://208.87.242.79/livehttpplay?channel_id=20073
+#1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GTV.png",八大綜合台
+http://208.87.242.79/livehttpplay?channel_id=20068
+#1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GTV.png",八大戲劇台
+http://208.87.242.79/livehttpplay?channel_id=20071
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GTV.png",八大娛樂台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GTV.png",八大精彩台
 
 
 
 #1080P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森電影
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森戲劇
+http://208.87.242.79/livehttpplay?channel_id=20072
+
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森電影
 http://iptv.4666888.xyz/iptv2A.php?id=48
 #720P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森電影
+http://208.87.242.79/livehttpplay?channel_id=20077
+#720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森洋片
-#1080P
+http://208.87.242.79/livehttpplay?channel_id=20080
+
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森綜合
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森超視 34.5
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森購物 5台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森幼幼
+#720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森新聞
+http://208.87.242.79/livehttpplay?channel_id=20082
 
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森財經新聞
 http://141.11.87.241:20013/4gtv-4gtv153/index.m3u8?proxy=true
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森財經新聞
 
+#720P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-EBC.png",東森財經新聞
+http://208.87.242.79/livehttpplay?channel_id=20078
 
 
 #720P
@@ -2960,9 +2949,17 @@ http://bxtv.3a.ink/api.php?id=ztxw
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-cti.png",中天新聞台
 http://141.11.87.241:20013/4gtv-4gtv009/index.m3u8?proxy=true
+
+#1080P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-cti.png",中天綜合台
+http://208.87.242.79/livehttpplay?channel_id=20064
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-cti.png",中天綜合台
 http://23.237.10.66:16372
+
+#1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-cti.png",中天娛樂台
+http://208.87.242.79/livehttpplay?channel_id=20079
+
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-cti.png",中天亞洲台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-cti.png",中天北美台
 
@@ -2978,6 +2975,10 @@ http://23.237.10.66:16372
 
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-TTV.png",台視
 http://162.19.247.76:22222/live/taishi/index.m3u8
+#720P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-TTV.png",台視
+http://208.87.242.79/livehttpplay?channel_id=20076
+
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-TTV.png",台視新聞
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-TTV.png",台視財經
 #1080P
@@ -2985,16 +2986,7 @@ http://162.19.247.76:22222/live/taishi/index.m3u8
 http://iptv.4666888.xyz/iptv2A.php?id=51
 
 
-#720P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-CTS.png",華視
-https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-CTS1.png",華視教育文化
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-CTS1.png",華視新聞資訊
 
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-CTS-Parliamentary.png",國會頻道1
-http://61.58.60.230:9319/live/123.m3u8
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-CTS-Parliamentary.png",國會頻道2
-http://61.58.60.230:9319/live/124.m3u8
 
 
 
@@ -3008,7 +3000,7 @@ http://php.jdshipin.com/smt.php?id=videolandmovie
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-VideoLand.png",緯來電影台
 http://php.jdshipin.com:8880/smt.php?id=videolandmovie
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-VideoLand.png",緯來電影台
-http://live.catvod.com/live.php?id=videolandmovie
+http://208.87.242.79/livehttpplay?channel_id=20199
 
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-VideoLand.png",緯來體育台
@@ -3019,23 +3011,23 @@ http://smt.1678520.xyz/smt3.2.1.php?id=videolandsport
 http://php.jdshipin.com/smt.php?id=videolandsport
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-VideoLand.png",緯來體育台
 http://php.jdshipin.com:8880/smt.php?id=videolandsport
+#540P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-VideoLand.png",緯來體育台
-http://live.catvod.com/live.php?id=videolandsport
+http://208.87.242.79/livehttpplay?channel_id=20120
 
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-VideoLand.png",緯來綜合台
-http://live.catvod.com/live.php?id=videolandzonghe
+http://208.87.242.79/livehttpplay?channel_id=20201
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-VideoLand.png",緯來綜合台
+http://67.220.67.246:2347/livehttpplay?channel_id=20201
 
-#1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-VideoLand.png",緯來戲劇台
-http://live.catvod.com/live.php?id=videolandtv
-
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-VideoLand.png",緯來精采台
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-VideoLand.png",緯來育樂台
 
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-VideoLand.png",緯來日本台
-http://live.catvod.com/live.php?id=videolandjapan
+http://208.87.242.79/livehttpplay?channel_id=20303
 
 
 
@@ -3046,57 +3038,53 @@ http://iptv.4666888.xyz/iptv2A.php?id=45
 http://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVAsia.png",龍華電影
 http://rihou.cc:555/tv/[Pd]龙华电影
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVAsia.png",龍華電影
-http://live.catvod.com/iptv.php?id=lhdy01
 
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVDrama.png",龍華戲劇
 http://cdn8.163189.xyz/163189/lhxj
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVDrama.png",龍華戲劇
 http://rihou.cc:555/tv/[Pd]龙华戏剧
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVDrama.png",龍華戲劇
-http://live.catvod.com/iptv.php?id=lhxj01
 
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVIdol.png",龍華偶像
 http://cdn8.163189.xyz/163189/lhox
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVIdol.png",龍華偶像
 http://rihou.cc:555/tv/[Pd]龙华偶像
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVIdol.png",龍華偶像
-http://live.catvod.com/iptv.php?id=lhox01
 
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVBravo.png",龍華日韓
 http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVBravo.png",龍華日韓
 http://rihou.cc:555/tv/[Pd]龙华日韩
+#720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVBravo.png",龍華日韓
-http://live.catvod.com/iptv.php?id=lhrh01
+http://208.87.242.79/livehttpplay?channel_id=20081
 
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVMovies.png",龍華洋片
 http://cdn8.163189.xyz/163189/lhyp
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVMovies.png",龍華洋片
 http://rihou.cc:555/tv/[Pd]龙华洋片
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVMovies.png",龍華洋片
-http://live.catvod.com/iptv.php?id=lhyp01
 
 #1080P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVClassic.png",龍華經典
 http://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVClassic.png",龍華經典
 http://rihou.cc:555/tv/[Pd]龙华经典
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVClassic.png",龍華經典
-http://live.catvod.com/iptv.php?id=lhjd01
 
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVAnimation.png",龍華卡通
 http://cdn8.163189.xyz/163189/lhkt
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVAnimation.png",龍華卡通
 http://rihou.cc:555/tv/[Pd]龙华卡通
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-LTVAnimation.png",龍華卡通
-http://live.catvod.com/iptv.php?id=lhkt01
 
+
+#1080P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",ELTA 綜合
+http://iptv.4666888.xyz/iptv2A.php?id=49
+#540P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",ELTA 體育1台
+http://208.87.242.79/livehttpplay?channel_id=20043
 
 
 #1080P
@@ -3122,6 +3110,16 @@ http://iptv.4666888.xyz/iptv2A.php?id=37
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-DragonArtTaiwan.png",華藝台灣台
 
 
+#720P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-CTS.png",華視
+https://k44991.kylintv.tv/live/ctshd_iphone.m3u8
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-CTS1.png",華視教育文化
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-CTS1.png",華視新聞資訊
+
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-CTS-Parliamentary.png",國會頻道1
+http://61.58.60.230:9319/live/123.m3u8
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-CTS-Parliamentary.png",國會頻道2
+http://61.58.60.230:9319/live/124.m3u8
 
 #720P
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GOODTV.png",GOOD TV
@@ -3134,9 +3132,7 @@ https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-GOODTV.png",GOOD 2
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 
-#1080P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",ELTA 綜合
-http://iptv.4666888.xyz/iptv2A.php?id=49
+
 
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",IndigenousTV
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
@@ -3146,11 +3142,7 @@ http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",GeniusGoGoGo
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",大愛1
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",大愛2
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
 
@@ -3170,9 +3162,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-id="公視",公視
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111443528309_38.png",公視戲劇
 
-#720P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917032621409180_62.jpg",非凡新聞
-http://iptv.4666888.xyz/iptv2A.php?id=44
+
 
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-FashionSportsX.png",時尚運動X
 http://141.11.87.241:20013/4gtv-4gtv014/index.m3u8?proxy=true
@@ -3197,8 +3187,13 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://i.imgur.com/SfcZyqm.png",TaiwanPlus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
-#1080P
-#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",mnews 鏡新聞
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",大愛1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",大愛1
+http://208.87.242.79/livehttpplay?channel_id=20032
+
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",大愛2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
 #1080P
@@ -3218,7 +3213,29 @@ http://61.216.67.119:1935/TWHG/E1/index.m3u8
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://www.animax-asia.com/sites/all/themes/responsive/responsive_animax_asia_2/logo.png",ANIMAX
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/BBC-lifestyle.png",BBC lifestyle
 #EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/BBC-NEWS.png",BBC NEWS
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-Hollywood.png",Hollywood
+http://208.87.242.79/livehttpplay?channel_id=20062
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/BBC-NEWS.png",
+http://208.87.242.79/livehttpplay?channel_id=20037
 
+
+#新聞
+######################################
+#720P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-USTV.png",非凡新聞
+http://iptv.4666888.xyz/iptv2A.php?id=44
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-USTV.png",非凡新聞
+http://208.87.242.79/livehttpplay?channel_id=20034
+
+#1080P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="",mnews 鏡新聞
+
+#1080P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-NextTV.png",壹新聞
+http://208.87.242.79/livehttpplay?channel_id=20033
+#720P
+#EXTINF:-1 group-title="🇹🇼 台灣" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Taiwan-NextTV.png",壹新聞
+http://208.87.242.79/livehttpplay?channel_id=20028
 
 
 #動物
@@ -4304,8 +4321,7 @@ http://php.jdshipin.com/PLTV/iptv.php?id=j1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVBJ1.png",TVB J1
 http://6.cdn.loc.cc/163189.php?id=j1
-#EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVBJ1.png",TVB J1
-http://live.catvod.com/iptv.php?id=j1na001
+
 
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVBe.png",TVBe
 #EXTINF:-1 group-title="🇺🇸 美國" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/PhoenixNorthAmerica.png",鳳凰衛視 美洲台
