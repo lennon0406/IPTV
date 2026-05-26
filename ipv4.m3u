@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/WaSu.png",華數
+http://183.237.95.108:9901/tsfile/live/1010_1.m3u8
+
+
 #EXTINF:-1 group-title="4K UHD" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Vietnam-Hanoi2UHD.png",Hanoi 2
 https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
 
@@ -781,11 +786,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=22
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",astro TVB 星河頻道
 http://rihou.cc:555/tv/[PL]无线星贰
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",astro TVB 星河頻道
-http://183.237.95.108:9901/tsfile/live/1005_1.m3u8
 #720P
-#EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",astro TVB 星河頻道
-http://208.87.242.79/livehttpplay?channel_id=20070
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",astro TVB 星河頻道
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
 #EXTINF:-1 group-title="🇲🇾 馬來西亞 astro" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",astro TVB 星河頻道
@@ -967,6 +968,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",TVB 星河頻道
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",TVB 星河頻道
+http://r.jdshipin.com/sXuuD
 #EXTINF:-1 group-title="🇸🇬 新加坡" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",TVB 星河頻道
 http://rihou.cc:555/tv/[PL]无线星河
 
@@ -1687,16 +1690,9 @@ http://cdn6.163189.xyz/163189/cwjd
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/China-Satellite-CWJD.png",重溫經典
 http://cdn6.101.qzz.io/163189/cwjd
 
-#1080P
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/AuiVcyh.png",CHC 動作電影
-http://183.237.95.108:9901/tsfile/live/1006_1.m3u8
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/AuiVcyh.png",CHC 動作電影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-
-#1080P
-#EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/ed3ve9F.png",CHC 影迷電影
-http://183.237.95.108:9901/tsfile/live/1008_1.m3u8
 #720P
 #EXTINF:-1 group-title="🇨🇳 中國 | 衛視" tvg-logo="https://i.imgur.com/ed3ve9F.png",CHC 影迷電影
 http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
@@ -1972,7 +1968,7 @@ http://rihou.cc:555/tv/[Pd]无线星河
 #EXTINF:-1 group-title="🇭🇰 香港 TVB Anywhere" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",TVB 星河頻道
 http://cdn6.101.qzz.io/163189/tvbxh
 #EXTINF:-1 group-title="🇭🇰 香港 TVB Anywhere" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/TVB-XingHe.png",TVB 星河頻道
-http://r.jdshipin.com/sXuuD
+http://208.87.242.79/livehttpplay?channel_id=20070
 
 #1080P
 #EXTINF:-1 group-title="🇭🇰 香港" tvg-logo="https://i.imgur.com/kf818kM.png",港台電視 31
@@ -2667,19 +2663,7 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 
 #【亞洲-東亞】 🇲🇴 Macau 澳門
 ########################################################################
-#1080P
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
-https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視葡文
-https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門Macau
-https://globallive.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
-https://globallive.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門資訊
-https://globallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門綜藝
-https://globallive.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+
 
 #1080P
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
@@ -2695,21 +2679,14 @@ https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
+
+
+
 #1080P
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
 http://rihou.cc:555/tv/[Pd]澳视澳门
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
 http://rihou.cc:555/tv/[PL]澳视澳门
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門Macau
-http://rihou.cc:555/tv/[Pd]澳视卫星
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門Macau
-http://rihou.cc:555/tv/[PL]澳门MaC
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
-http://rihou.cc:555/tv/[Pd]澳门体育
-#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門綜藝
-http://rihou.cc:555/tv/[Pd]澳门综艺
-
-#1080P
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
 http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
@@ -2731,7 +2708,10 @@ http://cdn6.101.qzz.io/163189/asam
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳視澳門
 http://iptv.4666888.xyz/iptv2A.php?id=41
 
-#1080P
+#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門Macau
+http://rihou.cc:555/tv/[Pd]澳视卫星
+#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門Macau
+http://rihou.cc:555/tv/[PL]澳门MaC
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門Macau
 http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門Macau
@@ -2747,7 +2727,8 @@ http://cdn6.163189.xyz/163189/as
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門Macau
 http://cdn6.101.qzz.io/163189/as
 
-#1080P
+#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
+http://rihou.cc:555/tv/[Pd]澳门体育
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
 http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
@@ -2759,6 +2740,8 @@ http://cdn6.163189.xyz/163189/amty#.m3u8
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門體育
 http://cdn6.101.qzz.io/163189/amty
 
+#EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門綜藝
+http://rihou.cc:555/tv/[Pd]澳门综艺
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門綜藝
 http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 group-title="🇲🇴 澳門" tvg-logo="https://raw.githubusercontent.com/lennon0406/IPTV-icon/refs/heads/main/Macau-TDM.png",澳門綜藝
