@@ -1,0 +1,33 @@
+name: 每天全自动更新直播源
+
+on:
+  schedule:
+    # 每天北京时间早上 8:00 和晚上 20:00 自动运行一次 (CRON 定时表达式)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 允许你手动点击按钮立刻运行
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: 检查仓库代码
+      uses: actions/checkout@v3
+
+    - name: 安装 Python 环境
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: 安装依赖软件
+      run: pip install requests
+
+    - name: 执行抓取和图标替换脚本
+      run: python update_links.py
+
+    - name: 将更新后的直播源提交回 GitHub
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add live_output.m3u
+        git commit -m "自动更新直播源成功，完美图标已保留" || exit 0
+        git push
